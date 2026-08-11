@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-11",
+  "weekday": "Tue",
+  "day_type": "new",
+  "title": "新語5語 + 復習",
+  "status_note": "8/3学習の5語(leverage / consolidate / initiative / align / mitigate)はDay8(8/10)が復習予定でしたが、8/4〜8/10のレッスンが作成されていませんでした。今日その5語をまとめて復習します(実質Day9)。",
+  "new_words": [
+    {
+      "word": "allocate",
+      "ipa": "/ˈæləkeɪt/",
+      "pos": "動詞",
+      "meaning_en": "to decide officially that a particular amount of money, time, or resources will be used for a particular purpose",
+      "meaning_ja": "(資源・予算・時間・人員を)割り当てる、配分する",
+      "examples": [
+        "The manager allocated a larger budget to the marketing team this year.",
+        "We allocated three engineers to the predictive-maintenance pilot so the DX rollout would not slow down the main line.(予知保全のパイロットにエンジニア3名を割り当て、DX展開が本ラインを止めないようにした)"
+      ],
+      "collocations": ["allocate resources", "allocate a budget", "allocate time", "allocate staff to a project"]
+    },
+    {
+      "word": "scalable",
+      "ipa": "/ˈskeɪləb(ə)l/",
+      "pos": "形容詞",
+      "meaning_en": "able to be increased in size, amount, or scale easily without a loss of quality or performance",
+      "meaning_ja": "拡張可能な、規模を無理なく大きくできる",
+      "examples": [
+        "The startup built a scalable platform that could handle millions of users.",
+        "Before expanding company-wide, we made sure the AI defect-detection model was scalable across all three plants.(全社展開の前に、AI外観検査モデルが3工場すべてに拡張可能か確認した)"
+      ],
+      "collocations": ["a scalable solution", "a scalable system", "scalable architecture", "make something scalable"]
+    },
+    {
+      "word": "bottleneck",
+      "ipa": "/ˈbɒt(ə)lnek/",
+      "pos": "名詞",
+      "meaning_en": "a point in a process where the flow of work slows down or stops, limiting the whole system's output",
+      "meaning_ja": "(工程・作業の)ボトルネック、流れを滞らせる隘路",
+      "examples": [
+        "Slow approvals became a bottleneck that delayed the entire project.",
+        "Manual data entry was the main bottleneck on the shop floor, so we automated it first.(現場では手作業のデータ入力が最大のボトルネックだったので、まずそこを自動化した)"
+      ],
+      "collocations": ["a bottleneck in the process", "create a bottleneck", "eliminate / remove a bottleneck", "identify the bottleneck"]
+    },
+    {
+      "word": "stakeholder",
+      "ipa": "/ˈsteɪkˌhəʊldə/",
+      "pos": "名詞",
+      "meaning_en": "a person or group that has an interest in, or is affected by, a project, decision, or organization",
+      "meaning_ja": "利害関係者、ステークホルダー",
+      "examples": [
+        "We gathered feedback from all stakeholders before finalizing the plan.",
+        "As the DX lead, I hold monthly reviews to align stakeholders from production, quality, and IT.(DXリードとして、製造・品質・ITの利害関係者をそろえるため月次レビューを開いている)"
+      ],
+      "collocations": ["key stakeholders", "engage stakeholders", "a stakeholder meeting", "align stakeholders"]
+    },
+    {
+      "word": "prioritize",
+      "ipa": "/praɪˈɒrətaɪz/",
+      "pos": "動詞",
+      "meaning_en": "to decide which of several things is most important and should be dealt with first",
+      "meaning_ja": "優先順位をつける、優先して取り組む",
+      "examples": [
+        "With limited time, we had to prioritize the most urgent customer requests.",
+        "In our 1-on-1s, I help each member prioritize the tasks that build the skills they want to grow.(1on1では、各メンバーが伸ばしたいスキルにつながる仕事を優先できるよう手助けしている)"
+      ],
+      "collocations": ["prioritize tasks", "prioritize based on impact", "prioritize A over B", "reprioritize the backlog"]
+    }
+  ],
+  "review_quiz": [
+    {
+      "q": "「すでに持っている資源・データ・強みを\"活用して\"より良い結果を出す」動詞は?(名詞では「影響力・てこ」の意味)ヒント: l_____e",
+      "answer": "leverage — 例: \"We can leverage the sensor data we already collect to predict failures.\""
+    },
+    {
+      "q": "空欄補充: \"We ________d production reports from all three plants into a single dashboard.\"(3工場のレポートを1つに\"統合した\")",
+      "answer": "consolidated — \"We consolidated production reports … into a single dashboard.\""
+    },
+    {
+      "q": "次の意味に最も近い語は?「(新しい)施策・取り組み。また\"自ら進んで動く力\"」 (a) obligation (b) initiative (c) hesitation (d) restriction",
+      "answer": "(b) initiative"
+    },
+    {
+      "q": "空欄補充: \"The marketing plan must ________ with the overall business strategy.\"(全体戦略と\"整合させる/足並みをそろえる\")",
+      "answer": "align — \"The marketing plan must align with the overall business strategy.\""
+    },
+    {
+      "q": "「リスクや悪影響を\"軽減する・緩和する\"」動詞は? 次のうちどれ? (a) amplify (b) mitigate (c) ignore (d) postpone",
+      "answer": "(b) mitigate — 例: \"Starting with a small pilot line helps mitigate the risks of the full-scale rollout.\""
+    }
+  ],
+  "practice": [
+    "新語5語のうち2語以上を使って、今週のチーム目標を英語1〜2文で書いてみましょう。例: \"This quarter we need to prioritize removing the biggest bottleneck on the assembly line, and allocate two more engineers to it.\""
+  ]
+}
