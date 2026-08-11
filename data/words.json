@@ -1,0 +1,26 @@
+{
+  "profile": {
+    "goal": "TOEIC 800 / ビジネスで使える語彙",
+    "context": ["製造業DX", "AI・データ活用", "組織マネジメント", "コーチング"],
+    "weekday_rules": "Mon-Thu: 新語5語+SRS復習 / Fri: 週次復習(新語なし) / Sat-Sun: 実践課題",
+    "srs_days": [2, 3, 5, 8, 14, 30]
+  },
+  "seed": ["abandon", "collaborate", "crucial", "implement", "jpeg", "perspective", "success"],
+  "words": [
+    { "w": "streamline", "ja": "合理化する・効率化する", "learned": "2026-07-25" },
+    { "w": "procurement", "ja": "調達・購買", "learned": "2026-07-25" },
+    { "w": "facilitate", "ja": "促進する・円滑に進める", "learned": "2026-07-25" },
+    { "w": "feasibility", "ja": "実現可能性", "learned": "2026-07-25" },
+    { "w": "delegate", "ja": "委譲する・任せる", "learned": "2026-07-25" },
+    { "w": "leverage", "ja": "(既にあるものを)活用する", "learned": "2026-08-03" },
+    { "w": "consolidate", "ja": "統合する・一本化する", "learned": "2026-08-03" },
+    { "w": "initiative", "ja": "施策・自発性", "learned": "2026-08-03" },
+    { "w": "align", "ja": "整合させる・足並みをそろえる", "learned": "2026-08-03" },
+    { "w": "mitigate", "ja": "軽減する・緩和する", "learned": "2026-08-03" },
+    { "w": "allocate", "ja": "割り当てる・配分する", "learned": "2026-08-11" },
+    { "w": "scalable", "ja": "拡張可能な", "learned": "2026-08-11" },
+    { "w": "bottleneck", "ja": "ボトルネック・隘路", "learned": "2026-08-11" },
+    { "w": "stakeholder", "ja": "利害関係者", "learned": "2026-08-11" },
+    { "w": "prioritize", "ja": "優先順位をつける", "learned": "2026-08-11" }
+  ]
+}
