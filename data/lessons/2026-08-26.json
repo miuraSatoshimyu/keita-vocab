@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-26",
+  "weekday": "Wed",
+  "day_type": "new",
+  "title": "新語5語 + 復習クイズ5問",
+  "status_note": "8/12〜8/25のレッスンが作成されていなかったため、8/11学習語のDay2〜14(本来8/12〜8/24)、8/3学習語のDay14(本来8/16)、7/25学習語のDay30(本来8/23)がすべて未消化でした。本日まとめてSRS復習します(8/11語は実質Day16相当)。",
+  "new_words": [
+    {
+      "word": "benchmark",
+      "ipa": "/ˈbentʃmɑːrk/",
+      "pos": "名詞・動詞",
+      "meaning_en": "a standard or point of reference against which things may be compared or assessed; to measure something against such a standard",
+      "meaning_ja": "基準点・参照値、ベンチマーク / (動)基準と比較・評価する",
+      "examples": [
+        "The new factory's output became the benchmark for all other plants in the group.",
+        "We benchmarked our defect rate against industry leaders to find out how much improvement the DX investment could realistically deliver.(不良率を業界トップ企業と比較し、DX投資で現実的に狙える改善幅を把握した)"
+      ],
+      "collocations": ["set a benchmark", "benchmark against competitors", "an industry benchmark", "use as a benchmark"]
+    },
+    {
+      "word": "iteration",
+      "ipa": "/ˌɪtəˈreɪʃn/",
+      "pos": "名詞",
+      "meaning_en": "the process of repeating a procedure with the aim of approaching a desired result; a single cycle of that process",
+      "meaning_ja": "反復・繰り返し、1サイクル / AIや製品開発における「イテレーション」",
+      "examples": [
+        "Each iteration of the design brought the product closer to what customers needed.",
+        "The data-science team ran three iterations of model training before the defect-prediction accuracy met the threshold.(予測精度が基準を満たすまで、データサイエンスチームはモデル学習を3回反復した)"
+      ],
+      "collocations": ["rapid iteration", "each iteration", "an iteration of the model", "iterate on a solution"]
+    },
+    {
+      "word": "accountability",
+      "ipa": "/əˌkaʊntəˈbɪlɪti/",
+      "pos": "名詞",
+      "meaning_en": "the fact or condition of being responsible to others for one's decisions and actions; an obligation to explain and justify one's work",
+      "meaning_ja": "説明責任、アカウンタビリティ / 結果に対して責任を持ち、周囲に説明できる状態",
+      "examples": [
+        "Clear roles and accountability are essential for any cross-functional project to succeed.",
+        "Building a culture of accountability in the team means each member owns their OKRs and reports progress transparently every sprint.(チームにアカウンタビリティ文化を根付かせるには、メンバー各自がOKRを自分事化し、スプリントごとに進捗を透明に報告する)"
+      ],
+      "collocations": ["personal accountability", "hold someone accountable", "a culture of accountability", "accountability for results"]
+    },
+    {
+      "word": "calibrate",
+      "ipa": "/ˈkælɪbreɪt/",
+      "pos": "動詞",
+      "meaning_en": "to adjust or fine-tune a process, model, or instrument so that it gives accurate results; to carefully assess a situation before acting",
+      "meaning_ja": "(精度を)較正する・調整する / 状況に合わせて微調整する",
+      "examples": [
+        "Before shipping, engineers must calibrate all sensors on the production line.",
+        "We need to calibrate our AI model's confidence thresholds after each batch of new training data to keep false-positive alerts low.(新たな訓練データを追加するたびにAIモデルの信頼度閾値を再調整し、誤報アラートを抑える必要がある)"
+      ],
+      "collocations": ["calibrate a model", "calibrate expectations", "re-calibrate the process", "finely calibrated"]
+    },
+    {
+      "word": "transparency",
+      "ipa": "/trænsˈpærənsi/",
+      "pos": "名詞",
+      "meaning_en": "the quality of being open, honest, and not secretive, especially in the way that information is communicated",
+      "meaning_ja": "透明性・オープンであること / 情報や意思決定プロセスを隠さない姿勢",
+      "examples": [
+        "Transparency in leadership helps build trust across the entire organization.",
+        "In my coaching sessions, I emphasize transparency: sharing both successes and failures with the team drives faster learning.(コーチングでは透明性を重視し、成功も失敗もチームと共有することで学習を加速させる)"
+      ],
+      "collocations": ["organizational transparency", "promote transparency", "a lack of transparency", "transparency in decision-making"]
+    }
+  ],
+  "review_quiz": [
+    {
+      "q": "空欄補充: \"We need to ________ our AI model's thresholds every time new training data arrives.\"(新しい訓練データが届くたびにAIモデルの閾値を'再調整する')",
+      "answer": "calibrate — \"We need to calibrate our AI model's thresholds every time new training data arrives.\""
+    },
+    {
+      "q": "次の説明に最も近い語は?「資源・予算・人員を特定の目的のために正式に'割り当てる'動詞」 (a) adopt (b) allocate (c) abandon (d) assess",
+      "answer": "(b) allocate — 例: \"Allocate two engineers to the DX pilot before the Q3 deadline.\""
+    },
+    {
+      "q": "空欄補充: \"Our new cloud platform is ________ enough to expand from one plant to all twelve within a year.\"(1工場から12工場へ1年で広げられるほど'拡張可能な')",
+      "answer": "scalable — \"Our new cloud platform is scalable enough to expand from one plant to all twelve within a year.\""
+    },
+    {
+      "q": "「既存のデータや資源を'活用する'」動詞。名詞では'てこ・影響力'の意味も持つ語は? ヒント: l_____e",
+      "answer": "leverage — 例: \"We can leverage the sensor data we already collect to reduce unplanned downtime.\""
+    },
+    {
+      "q": "空欄補充: \"We invited all ________s to the kickoff meeting so no one's requirements would be missed.\"(誰の要件も漏れないよう、すべての'利害関係者'をキックオフに招いた)",
+      "answer": "stakeholders — \"We invited all stakeholders to the kickoff meeting so no one's requirements would be missed.\""
+    }
+  ],
+  "practice": [
+    "今日の新語(benchmark / iteration / accountability / calibrate / transparency)と既習語を2語以上組み合わせ、あなたのDX推進やチームマネジメントの場面を英語1〜2文で書いてみましょう。例: \"After each iteration of the model, we calibrate the thresholds and share results openly to build transparency with stakeholders.\""
+  ]
+}

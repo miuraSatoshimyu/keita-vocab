@@ -21,6 +21,11 @@
     { "w": "scalable", "ja": "拡張可能な", "learned": "2026-08-11" },
     { "w": "bottleneck", "ja": "ボトルネック・隘路", "learned": "2026-08-11" },
     { "w": "stakeholder", "ja": "利害関係者", "learned": "2026-08-11" },
-    { "w": "prioritize", "ja": "優先順位をつける", "learned": "2026-08-11" }
+    { "w": "prioritize", "ja": "優先順位をつける", "learned": "2026-08-11" },
+    { "w": "benchmark", "ja": "基準点・ベンチマーク", "learned": "2026-08-26" },
+    { "w": "iteration", "ja": "反復・イテレーション", "learned": "2026-08-26" },
+    { "w": "accountability", "ja": "説明責任", "learned": "2026-08-26" },
+    { "w": "calibrate", "ja": "較正する・調整する", "learned": "2026-08-26" },
+    { "w": "transparency", "ja": "透明性", "learned": "2026-08-26" }
   ]
 }
