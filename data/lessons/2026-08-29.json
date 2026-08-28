@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-29",
+  "weekday": "Sat",
+  "day_type": "practice",
+  "title": "週次実践課題 — benchmark / iteration / accountability / calibrate / transparency",
+  "status_note": "今週(8/26 水)に習得した5語をもとに実践課題を構成。8/27(木)・8/28(金)のレッスンが未作成のため今週の復習語は8/26学習分のみ。",
+  "new_words": [],
+  "review_quiz": [],
+  "practice": [
+    "【課題1: メール作成(3〜5文)】あなたは製造DXプロジェクトのリーダーです。上司に向けて、下記の内容を含む英語メールを書いてみましょう。使用必須語: iteration / benchmark / transparency\n・2回目のイテレーションが完了したこと\n・不良率を業界水準とベンチマーク比較した結果\n・次フェーズへの透明性ある報告\n参考: 'We have completed the second iteration of the model. Benchmarking our defect rate against industry leaders shows we are now within 0.3%. I wanted to maintain full transparency by sharing both results and next steps with you.'",
+    "【課題2: 翻訳練習】次の日本語を英語に直しましょう(カッコ内の語を必ず使うこと)。\n① 「私たちはチームの各メンバーに説明責任を持たせ、毎週スプリントレビューで進捗を共有している。」(accountability)\n② 「新しいセンサーデータが届いたら、予測モデルの閾値を再調整する必要がある。」(calibrate)\n③ 「このシステムは拡張可能なので、12工場すべてに展開できる。」(scalable — 既習語)\n答え例: ① We hold each team member accountable and share progress transparently at every weekly sprint review. ② We need to calibrate the prediction model's thresholds whenever new sensor data arrives. ③ This system is scalable enough to deploy across all twelve plants.",
+    "【課題3: 穴埋め確認】文中の空欄に今週の語(benchmark / iteration / accountability / calibrate / transparency)を入れよう。\n① 'After two months of _______ and testing, the AI defect-detection model finally met our accuracy target.'\n② 'We need to _______ our KPIs against top-performing facilities before setting next year's targets.'\n③ 'Building _______ into the decision-making process earns the trust of all stakeholders.'\n④ 'Each team member's _______ for project outcomes must be documented in the project charter.'\n⑤ 'The sensor array must be _______d monthly to ensure reliable readings.'\n答え: ① iteration ② benchmark ③ transparency ④ accountability ⑤ calibrate"
+  ]
+}
