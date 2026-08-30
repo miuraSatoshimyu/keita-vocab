@@ -26,6 +26,11 @@
     { "w": "iteration", "ja": "反復・イテレーション", "learned": "2026-08-26" },
     { "w": "accountability", "ja": "説明責任", "learned": "2026-08-26" },
     { "w": "calibrate", "ja": "較正する・調整する", "learned": "2026-08-26" },
-    { "w": "transparency", "ja": "透明性", "learned": "2026-08-26" }
+    { "w": "transparency", "ja": "透明性", "learned": "2026-08-26" },
+    { "w": "optimize", "ja": "最適化する", "learned": "2026-08-31" },
+    { "w": "sustainable", "ja": "持続可能な", "learned": "2026-08-31" },
+    { "w": "autonomous", "ja": "自律的な・自動制御の", "learned": "2026-08-31" },
+    { "w": "resilient", "ja": "回復力のある・レジリエントな", "learned": "2026-08-31" },
+    { "w": "integrate", "ja": "統合する・連携させる", "learned": "2026-08-31" }
   ]
 }

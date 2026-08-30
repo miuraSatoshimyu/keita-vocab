@@ -1,0 +1,92 @@
+{
+  "date": "2026-08-31",
+  "weekday": "Mon",
+  "day_type": "new",
+  "title": "新語5語 + SRS復習クイズ5問",
+  "status_note": "8/26学習語(benchmark〜transparency)のDay2・3・5が未実施、8/11語・8/3語のDay8〜14も未消化のため、本日のSRSクイズに8/26・8/11・8/3の語を優先的に含め一括キャッチアップ。",
+  "new_words": [
+    {
+      "word": "optimize",
+      "ipa": "/ˈɒptɪmaɪz/",
+      "pos": "動詞",
+      "meaning_en": "to make something as effective, efficient, or functional as possible",
+      "meaning_ja": "最適化する・最大限に活用する",
+      "examples": [
+        "The team worked overtime to optimize the production schedule before the audit.",
+        "By optimizing the sensor-data pipeline, we cut the time from data collection to defect alert by 40%.(センサーデータのパイプラインを最適化し、データ収集から不良アラートまでの時間を40%短縮した)"
+      ],
+      "collocations": ["optimize a process", "optimize performance", "optimize for efficiency", "fully optimized"]
+    },
+    {
+      "word": "sustainable",
+      "ipa": "/səˈsteɪnəbl/",
+      "pos": "形容詞",
+      "meaning_en": "able to be maintained at a certain rate or level over the long term; causing little or no environmental damage",
+      "meaning_ja": "持続可能な・長期的に維持できる",
+      "examples": [
+        "The company set a target to achieve sustainable growth of 5% per year for the next decade.",
+        "Shifting from reactive maintenance to predictive AI-driven maintenance is a sustainable approach that reduces costs and machine downtime year over year.(事後保全から予知保全AIへの移行は、年々コストとダウンタイムを削減できる持続可能なアプローチだ)"
+      ],
+      "collocations": ["sustainable growth", "sustainable development", "sustainable practice", "long-term sustainable"]
+    },
+    {
+      "word": "autonomous",
+      "ipa": "/ɔːˈtɒnəməs/",
+      "pos": "形容詞",
+      "meaning_en": "able to operate independently without human intervention; self-governing",
+      "meaning_ja": "自律的な・自動制御の・独立した",
+      "examples": [
+        "The research lab deployed an autonomous drone fleet to inspect the solar panels.",
+        "Our goal for Phase 3 is an autonomous quality-inspection system where AI flags defects and triggers rework orders without operator input.(フェーズ3の目標は、AIが不良を検知して手直し指示を自動発行する自律型品質検査システムの構築だ)"
+      ],
+      "collocations": ["autonomous vehicle", "autonomous system", "autonomous decision-making", "semi-autonomous"]
+    },
+    {
+      "word": "resilient",
+      "ipa": "/rɪˈzɪliənt/",
+      "pos": "形容詞",
+      "meaning_en": "able to recover quickly from difficulties or setbacks; flexible and adaptive under pressure",
+      "meaning_ja": "回復力のある・しなやかな・レジリエントな",
+      "examples": [
+        "A resilient organization adapts quickly to market changes without losing momentum.",
+        "In my coaching work, I help managers build resilient teams that can absorb project setbacks and re-align toward goals without losing motivation.(コーチングでは、プロジェクトの挫折を乗り越えてモチベーションを失わずに目標に再整合できるレジリエントなチームづくりを支援している)"
+      ],
+      "collocations": ["resilient supply chain", "build resilience", "resilient team", "emotionally resilient"]
+    },
+    {
+      "word": "integrate",
+      "ipa": "/ˈɪntɪɡreɪt/",
+      "pos": "動詞",
+      "meaning_en": "to combine or incorporate parts into a whole; to bring systems, people, or processes together seamlessly",
+      "meaning_ja": "統合する・連携させる・一体化する",
+      "examples": [
+        "The IT department needs to integrate the new CRM with the existing ERP system.",
+        "To make DX sustainable, we must integrate IoT data streams with our MES so that factory-floor events update dashboards in real time.(DXを持続させるには、IoTデータストリームをMES(製造実行システム)と統合し、工場現場のイベントがリアルタイムでダッシュボードに反映される環境を整える必要がある)"
+      ],
+      "collocations": ["integrate systems", "fully integrated", "integrate into workflows", "seamlessly integrate"]
+    }
+  ],
+  "review_quiz": [
+    {
+      "q": "空欄補充: \"We need to ________ our AI model quarterly to keep prediction accuracy above 95%.\"(予測精度を95%以上に保つため、四半期ごとにAIモデルを'再調整する')",
+      "answer": "calibrate — \"We need to calibrate our AI model quarterly to keep prediction accuracy above 95%.\""
+    },
+    {
+      "q": "次の説明に最も近い語は?「結果や判断に対して責任を持ち、周囲に説明できる状態・義務」(a) autonomy (b) accountability (c) transparency (d) feasibility",
+      "answer": "(b) accountability — ただし(c)transparencyも近い。accountabilityは「責任の所在と説明義務」、transparencyは「情報を隠さないこと」。例: \"Each team lead has accountability for their OKR results.\""
+    },
+    {
+      "q": "空欄補充: \"After each ________ of testing, the engineering team reviewed the data and adjusted parameters.\"(テストを1回繰り返すたびにチームがデータを確認しパラメータを調整した)",
+      "answer": "iteration — \"After each iteration of testing, the engineering team reviewed the data and adjusted parameters.\""
+    },
+    {
+      "q": "「既存のデータ・インフラ・人脈をうまく'活用する'」動詞は?(ヒント: l___e、名詞では'てこ'の意味も)",
+      "answer": "leverage — 例: \"We can leverage the IoT sensors already installed on the line to build a predictive maintenance model at almost zero hardware cost.\""
+    },
+    {
+      "q": "空欄補充: \"The supply chain team identified a ________ at the component-inspection stage that was slowing the entire line.\"(ライン全体を遅らせていた検品工程の'ボトルネック'を特定した)",
+      "answer": "bottleneck — 例: \"Resolving the bottleneck at the inspection stage cut overall cycle time by 18%.\""
+    }
+  ],
+  "practice": []
+}
