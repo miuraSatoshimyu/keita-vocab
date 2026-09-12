@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-12",
+  "weekday": "Sat",
+  "day_type": "practice",
+  "title": "実践課題: DX・マネジメント文脈で語彙を使い切る",
+  "status_note": "9/7〜9/11(月〜金)のレッスンが未生成のため、直近の8/31学習語(optimize・sustainable・autonomous・resilient・integrate)と8/26学習語(benchmark・iteration・accountability・calibrate・transparency)を題材に実践課題を行う。",
+  "new_words": [],
+  "review_quiz": [],
+  "practice": [
+    "【課題1: 英作文】自社・自チームのDX推進について英語2〜3文で説明してください。optimize / sustainable / integrate のうち2語以上を使うこと。\n参考例: \"We are integrating IoT sensor data with our MES to optimize defect detection on the shop floor. This creates a sustainable quality assurance process that can scale across all our plants without adding headcount.\"",
+    "【課題2: フィードバック英語化】1on1で部下に伝えたい一言を英語1〜2文に変換してください。resilient / accountability / autonomous のうち1語以上を使うこと。\n参考例: \"I really admire how resilient you've been throughout this pilot project. Taking full accountability for the results, even when things didn't go as planned, shows the kind of leadership our team needs.\"",
+    "【課題3: 和文英訳】次の日本語を英語に訳してみましょう。\n『AIを活用した予知保全の実現可能性を検証するため、まず1ラインでパイロットを2イテレーション実施し、その結果をベンチマークとして全工場展開の判断基準にする。精度が目標値に届かない場合はモデルを再較正し、透明性を持って経営層に報告する。』\nヒント: feasibility, pilot, iteration, benchmark, calibrate, transparency を活用しましょう。"
+  ]
+}
