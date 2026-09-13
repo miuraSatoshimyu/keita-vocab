@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-13",
+  "weekday": "Sun",
+  "day_type": "practice",
+  "title": "実践課題: ビジネスメール・会議発言・コーチングで語彙を定着",
+  "status_note": "9/7〜9/11(月〜金)のレッスンが未生成のため、直近の8/31学習語(optimize・sustainable・autonomous・resilient・integrate)と8/26学習語(benchmark・iteration・accountability・calibrate・transparency)を使った週末2日目の実践課題。昨日(土)との重複を避けて異なる文脈で練習。",
+  "new_words": [],
+  "review_quiz": [],
+  "practice": [
+    "【課題1: ビジネスメール】上司に向けて、DXプロジェクトの週次進捗を英語でメール文(3〜4文)にしてください。optimize / benchmark / sustainable のうち2語以上を使うこと。\n参考例: \"As of this week, we have successfully integrated the IoT sensor logs into the central dashboard, reducing manual reporting time by 40%. We will now optimize the alert thresholds using last quarter's defect data as our benchmark. Our goal is to build a sustainable monitoring process that requires minimal human intervention going forward.\"",
+    "【課題2: 会議発言練習】次の日本語コメントを英語1文に変換してください。それぞれ指定の語を使うこと。\n(a)「このモデルはまだ較正が必要です」→ calibrate を使って\n(b)「チームメンバーが自律的に動けるようになってきた」→ autonomous を使って\n(c)「次のイテレーションでは透明性を高めて進めましょう」→ iteration・transparency を使って\n参考例:\n(a) \"This model still needs to be calibrated before we can trust the predictions at scale.\"\n(b) \"Our team members are becoming more autonomous — they no longer wait to be told what to do next.\"\n(c) \"In the next iteration, let's move forward with greater transparency so all stakeholders can track our progress in real time.\"",
+    "【課題3: コーチング文脈】1on1の場面で使える英語フレーズを作ってください。次のシナリオに対して1〜2文で回答してください。resilient / accountability / integrate のうち1語以上を使うこと。\nシナリオ: 部下が新しいシステム導入でミスをして落ち込んでいる。励ましつつ次のアクションを促す一言は？\n参考例: \"Every great team becomes more resilient by learning from setbacks like this — what matters now is that we take accountability, identify what we can improve, and integrate those lessons into the next sprint planning.\""
+  ]
+}
