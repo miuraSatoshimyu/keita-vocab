@@ -1,0 +1,14 @@
+{
+ "note": "朝のシャドーイング週割り。台本(全文)はObsidianのノートにあり、ここには置かない。第2期(11/3〜)は前週日曜に追記する。",
+ "steps": ["字幕なしで見る", "口だけ動かす", "台本ありで2回", "台本なしで2回", "録音して聴き比べ"],
+ "weeks": [
+  {"wk": "W1", "from": "2026-09-10", "to": "2026-09-14", "video": "d0yGdNEWdn0", "start": 10, "end": 44, "title": "Lonsdale TED", "hint": "ウェライヴァダ / キャニュヒアミ", "script": "92_Claude/2026-09-09_英語半年PJT_Lonsdale台本.md"},
+  {"wk": "W2", "from": "2026-09-15", "to": "2026-09-21", "video": "d0yGdNEWdn0", "start": 44, "end": 82, "title": "Lonsdale TED", "hint": "ウドゥンハフタ / ガリンナウェイ", "script": "92_Claude/2026-09-09_英語半年PJT_Lonsdale台本.md"},
+  {"wk": "W3", "from": "2026-09-22", "to": "2026-09-28", "video": "d0yGdNEWdn0", "start": 85, "end": 126, "title": "Lonsdale TED", "hint": "ウィヴァド / トゥクマイセルフ", "script": "92_Claude/2026-09-09_英語半年PJT_Lonsdale台本.md"},
+  {"wk": "W4", "from": "2026-09-29", "to": "2026-10-05", "video": "d0yGdNEWdn0", "start": 128, "end": 167, "title": "Lonsdale TED", "hint": "ワッワズ / ゴッリファインダウン", "script": "92_Claude/2026-09-09_英語半年PJT_Lonsdale台本.md"},
+  {"wk": "W5", "from": "2026-10-06", "to": "2026-10-12", "video": "d0yGdNEWdn0", "start": 171, "end": 204, "title": "Lonsdale TED", "hint": "イフウィキャン / ニードゥビエイボー", "script": "92_Claude/2026-09-09_英語半年PJT_Lonsdale台本.md"},
+  {"wk": "W6", "from": "2026-10-13", "to": "2026-10-19", "video": "d0yGdNEWdn0", "start": 207, "end": 246, "title": "Lonsdale TED", "hint": "イッツコールド / ザライドゥン", "script": "92_Claude/2026-09-09_英語半年PJT_Lonsdale台本.md"},
+  {"wk": "W7", "from": "2026-10-20", "to": "2026-10-26", "video": "d0yGdNEWdn0", "start": 249, "end": 286, "title": "Lonsdale TED", "hint": "ヘヴィスタフ / オールユニードゥドゥ", "script": "92_Claude/2026-09-09_英語半年PJT_Lonsdale台本.md"},
+  {"wk": "W8", "from": "2026-10-27", "to": "2026-11-02", "video": "d0yGdNEWdn0", "start": 290, "end": 327, "title": "Lonsdale TED", "hint": "アイウドゥンセイ / ザッツハウアイルック", "script": "92_Claude/2026-09-09_英語半年PJT_Lonsdale台本.md"}
+ ]
+}

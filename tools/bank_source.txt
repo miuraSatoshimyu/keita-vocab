@@ -1,0 +1,138 @@
+# word|ipa|pos|ja|example (en)|example (ja)|collocations (;区切り)|tag
+# tag: dx=製造業DX / ai=AI・データ / mg=組織マネジメント / co=コーチング / rb=ロボット / tc=TOEIC頻出
+streamline|/ˈstriːmlaɪn/|動|合理化する・効率化する|We streamlined the inspection process with a vision system.|画像検査システムで検査工程を効率化した。|streamline a process;streamline operations|dx
+procurement|/prəˈkjʊrmənt/|名|調達・購買|Procurement needs the robot specs by Friday.|調達部門は金曜までにロボットの仕様が必要だ。|procurement process;procurement cost|tc
+facilitate|/fəˈsɪlɪteɪt/|動|促進する・円滑に進める|I facilitated the workshop between operators and engineers.|作業者と技術者のワークショップを進行した。|facilitate a discussion;facilitate change|co
+feasibility|/ˌfiːzəˈbɪləti/|名|実現可能性|We ran a feasibility study before buying the cobot.|協働ロボット購入前に実現可能性調査を行った。|feasibility study;technical feasibility|dx
+delegate|/ˈdelɪɡeɪt/|動|委譲する・任せる|A good manager delegates decisions, not just tasks.|良いマネージャーは作業だけでなく判断も任せる。|delegate authority;delegate a task|mg
+leverage|/ˈlevərɪdʒ/|動|(既存のものを)活用する|Let's leverage the data we already collect on the line.|ラインですでに集めているデータを活用しよう。|leverage data;leverage expertise|ai
+consolidate|/kənˈsɑːlɪdeɪt/|動|統合する・一本化する|We consolidated three dashboards into one.|3つのダッシュボードを1つに統合した。|consolidate data;consolidate suppliers|dx
+initiative|/ɪˈnɪʃətɪv/|名|施策・自発性|The robotics initiative starts with one cell.|ロボティクス施策は1つのセルから始める。|take the initiative;a company-wide initiative|mg
+align|/əˈlaɪn/|動|整合させる・足並みをそろえる|We need to align the roadmap with the COO's priorities.|ロードマップをCOOの優先順位に合わせる必要がある。|align with goals;align expectations|mg
+mitigate|/ˈmɪtɪɡeɪt/|動|軽減する・緩和する|Safety fences mitigate the risk of collision.|安全柵は衝突リスクを軽減する。|mitigate risk;mitigate the impact|rb
+allocate|/ˈæləkeɪt/|動|割り当てる・配分する|We allocated two engineers to the pilot line.|パイロットラインに技術者を2名割り当てた。|allocate resources;allocate a budget|mg
+scalable|/ˈskeɪləbl/|形|拡張可能な|The solution must be scalable to all five plants.|その解決策は全5工場に展開できる必要がある。|scalable solution;highly scalable|dx
+bottleneck|/ˈbɑːtlnek/|名|ボトルネック・隘路|Manual inspection is our biggest bottleneck.|手作業の検査が最大のボトルネックだ。|identify a bottleneck;remove a bottleneck|dx
+stakeholder|/ˈsteɪkhoʊldər/|名|利害関係者|Map the stakeholders before the kickoff.|キックオフ前に関係者を洗い出そう。|key stakeholders;stakeholder meeting|mg
+prioritize|/praɪˈɔːrətaɪz/|動|優先順位をつける|We prioritized safety over cycle time.|サイクルタイムより安全を優先した。|prioritize tasks;prioritize safety|mg
+benchmark|/ˈbentʃmɑːrk/|名|基準点・ベンチマーク|Last quarter's yield is our benchmark.|前四半期の歩留まりが基準だ。|set a benchmark;industry benchmark|dx
+iteration|/ˌɪtəˈreɪʃn/|名|反復・イテレーション|The second iteration cut errors by half.|2回目の改善でエラーが半減した。|next iteration;rapid iteration|ai
+accountability|/əˌkaʊntəˈbɪləti/|名|説明責任・当事者意識|Clear ownership builds accountability.|明確な担当が当事者意識を育てる。|take accountability;a culture of accountability|mg
+calibrate|/ˈkælɪbreɪt/|動|較正する・調整する|Calibrate the camera before each shift.|各シフト前にカメラを較正すること。|calibrate a sensor;calibrate expectations|rb
+transparency|/trænsˈpærənsi/|名|透明性|Transparency builds trust with the shop floor.|透明性が現場との信頼をつくる。|increase transparency;full transparency|mg
+optimize|/ˈɑːptɪmaɪz/|動|最適化する|We optimized the robot's path to save two seconds.|ロボットの経路を最適化して2秒短縮した。|optimize performance;optimize costs|rb
+sustainable|/səˈsteɪnəbl/|形|持続可能な|We need a sustainable pace, not heroics.|頑張りではなく持続可能なペースが必要だ。|sustainable growth;sustainable process|mg
+autonomous|/ɔːˈtɑːnəməs/|形|自律的な|Autonomous mobile robots move parts between cells.|自律移動ロボットがセル間で部品を運ぶ。|autonomous robot;autonomous team|rb
+resilient|/rɪˈzɪliənt/|形|回復力のある|A resilient team learns fast from failures.|しなやかなチームは失敗から速く学ぶ。|resilient supply chain;stay resilient|mg
+integrate|/ˈɪntɪɡreɪt/|動|統合する・連携させる|We integrated the vision system with the PLC.|画像システムをPLCと連携させた。|integrate systems;fully integrated|dx
+implement|/ˈɪmplɪment/|動|実行する・導入する|We will implement the new layout in November.|11月に新レイアウトを導入する。|implement a plan;implement changes|tc
+collaborate|/kəˈlæbəreɪt/|動|協働する|Engineers collaborate with operators on every change.|技術者はあらゆる変更で作業者と協働する。|collaborate closely;collaborate with|mg
+crucial|/ˈkruːʃl/|形|極めて重要な|Operator feedback is crucial at this stage.|この段階では作業者の声が極めて重要だ。|crucial role;crucial step|tc
+perspective|/pərˈspektɪv/|名|視点・観点|Try to see it from the operator's perspective.|作業者の視点で見てみよう。|from a different perspective;broaden your perspective|co
+deploy|/dɪˈplɔɪ/|動|配備する・展開する|We deployed four robots on the welding line.|溶接ラインにロボット4台を配備した。|deploy a system;deploy robots|rb
+throughput|/ˈθruːpʊt/|名|処理能力・スループット|Throughput rose 12% after the change.|変更後スループットが12%上がった。|increase throughput;line throughput|dx
+downtime|/ˈdaʊntaɪm/|名|停止時間|Predictive maintenance reduced unplanned downtime.|予知保全で計画外停止が減った。|unplanned downtime;minimize downtime|dx
+yield|/jiːld/|名|歩留まり・成果|The first-pass yield is now 98%.|直行率は現在98%だ。|first-pass yield;improve yield|dx
+defect|/ˈdiːfekt/|名|欠陥・不良|The camera catches defects the eye misses.|カメラは目視で見逃す不良を捉える。|defect rate;detect a defect|dx
+anomaly|/əˈnɑːməli/|名|異常・例外|The model flags anomalies in motor current.|モデルがモーター電流の異常を検知する。|anomaly detection;detect an anomaly|ai
+predictive|/prɪˈdɪktɪv/|形|予測的な|Predictive maintenance needs clean sensor data.|予知保全にはきれいなセンサーデータが要る。|predictive maintenance;predictive model|ai
+retrofit|/ˈretroʊfɪt/|動|後付けで改造する|We retrofitted old machines with IoT sensors.|古い設備にIoTセンサーを後付けした。|retrofit equipment;retrofit kit|dx
+payload|/ˈpeɪloʊd/|名|可搬重量|This cobot has a payload of ten kilograms.|この協働ロボットの可搬重量は10kgだ。|maximum payload;payload capacity|rb
+end effector|/ˌend ɪˈfektər/|名|エンドエフェクタ(ロボットの手先)|We designed a custom end effector for the bags.|袋用に専用のハンドを設計した。|custom end effector;change the end effector|rb
+teach|/tiːtʃ/|動|(ロボットに)教示する|It takes an hour to teach the new path.|新しい経路の教示に1時間かかる。|teach a robot;teach pendant|rb
+collision|/kəˈlɪʒn/|名|衝突|The sensor stops the arm before a collision.|センサーが衝突前にアームを止める。|collision detection;avoid a collision|rb
+precision|/prɪˈsɪʒn/|名|精度|The task needs precision within 0.1 millimeters.|この作業は0.1mm以内の精度が必要だ。|high precision;precision assembly|rb
+cycle time|/ˈsaɪkl taɪm/|名|サイクルタイム|The robot matched the operator's cycle time.|ロボットが作業者のサイクルタイムに並んだ。|reduce cycle time;target cycle time|dx
+in-house|/ˌɪnˈhaʊs/|形|社内の・内製の|We want in-house skills, not just vendors.|ベンダー頼みでなく社内の技能がほしい。|in-house development;in-house expertise|mg
+outsource|/ˈaʊtsɔːrs/|動|外部委託する|We outsourced the first integration to learn fast.|速く学ぶため最初の導入は外部委託した。|outsource production;outsource to a vendor|mg
+vendor|/ˈvendər/|名|供給業者・ベンダー|Compare at least three vendors before deciding.|決める前に最低3社を比較しよう。|vendor selection;preferred vendor|tc
+specification|/ˌspesɪfɪˈkeɪʃn/|名|仕様(書)|The specification did not include cleaning time.|仕様に清掃時間が含まれていなかった。|meet the specification;technical specification|tc
+prototype|/ˈproʊtətaɪp/|名|試作品|We built a cardboard prototype of the cell.|段ボールでセルの試作を作った。|build a prototype;working prototype|dx
+pilot|/ˈpaɪlət/|名|試験導入・パイロット|The pilot runs for six weeks on line B.|試験導入はBラインで6週間行う。|pilot project;run a pilot|dx
+roll out|/ˌroʊl ˈaʊt/|動|展開する・本格導入する|We'll roll out the system plant-wide next year.|来年、全工場に展開する。|roll out a system;roll out gradually|dx
+adopt|/əˈdɑːpt/|動|採用する・取り入れる|The team adopted daily stand-up meetings.|チームは毎日の朝会を取り入れた。|adopt a policy;adopt new technology|tc
+adoption|/əˈdɑːpʃn/|名|普及・採用|Adoption depends on trust from the floor.|普及するかは現場の信頼次第だ。|technology adoption;adoption rate|ai
+visualize|/ˈvɪʒuəlaɪz/|動|可視化する|We visualized downtime by cause on one screen.|停止時間を原因別に1画面で可視化した。|visualize data;visualize progress|ai
+insight|/ˈɪnsaɪt/|名|洞察|The data gave us an insight into night-shift errors.|データから夜勤のミスについて洞察を得た。|gain insight;actionable insight|ai
+validate|/ˈvælɪdeɪt/|動|検証する・妥当性を確認する|Validate the model on last month's data.|先月のデータでモデルを検証しよう。|validate a hypothesis;validate results|ai
+accuracy|/ˈækjərəsi/|名|正確さ・精度|Detection accuracy reached 97%.|検出精度は97%に達した。|improve accuracy;high accuracy|ai
+inference|/ˈɪnfərəns/|名|推論|Inference runs on the edge device in 30 milliseconds.|推論はエッジ端末で30ミリ秒で動く。|real-time inference;inference speed|ai
+dataset|/ˈdeɪtəset/|名|データセット|We need a larger dataset of rare defects.|まれな不良のデータセットをもっと増やす必要がある。|training dataset;build a dataset|ai
+label|/ˈleɪbl/|動|ラベル付けする|Operators labeled 2,000 images last month.|作業者が先月2,000枚の画像にラベルを付けた。|label data;mislabel|ai
+automate|/ˈɔːtəmeɪt/|動|自動化する|Automate the boring part, not the judgment.|退屈な部分を自動化し、判断は残そう。|automate a process;fully automated|dx
+manual|/ˈmænjuəl/|形|手作業の|Manual data entry causes most of our errors.|手入力がミスの大半の原因だ。|manual work;manual inspection|dx
+workload|/ˈwɜːrkloʊd/|名|作業量・業務量|Let's rebalance the workload across the team.|チームの業務量を再配分しよう。|heavy workload;manage the workload|mg
+bandwidth|/ˈbændwɪdθ/|名|(人の)余力|I don't have the bandwidth for another project.|もう1件案件を受ける余力がない。|limited bandwidth;free up bandwidth|mg
+ownership|/ˈoʊnərʃɪp/|名|主体性・当事者意識|I want the team to take ownership of the cell.|チームにセルの当事者になってほしい。|take ownership;sense of ownership|mg
+empower|/ɪmˈpaʊər/|動|権限を与える・力を引き出す|We empowered leaders to stop the line.|リーダーにライン停止の権限を与えた。|empower employees;empower a team|mg
+mentor|/ˈmentɔːr/|動|指導・助言する|She mentors two new engineers.|彼女は新人技術者2名を指導している。|mentor someone;mentoring program|co
+onboard|/ˈɑːnbɔːrd/|動|(新人を)受け入れ定着させる|We onboard new members with a buddy system.|バディ制度で新メンバーを受け入れている。|onboard new hires;onboarding process|mg
+retention|/rɪˈtenʃn/|名|定着・維持|Growth opportunities improve retention.|成長機会が定着率を上げる。|employee retention;retention rate|mg
+morale|/məˈræl/|名|士気|Small wins raised the team's morale.|小さな成功がチームの士気を上げた。|boost morale;low morale|mg
+consensus|/kənˈsensəs/|名|合意|We reached consensus after two meetings.|2回の会議で合意に達した。|reach consensus;build consensus|mg
+escalate|/ˈeskəleɪt/|動|上に上げる・エスカレーションする|Escalate safety issues immediately.|安全の問題はすぐ上に上げること。|escalate an issue;escalate to management|mg
+agenda|/əˈdʒendə/|名|議題|Please send the agenda a day before.|議題は前日までに送ってください。|set the agenda;on the agenda|tc
+minutes|/ˈmɪnɪts/|名|議事録|Who will take the minutes today?|今日は誰が議事録を取りますか。|take minutes;meeting minutes|tc
+follow up|/ˌfɑːloʊ ˈʌp/|動|フォローする・追って連絡する|I'll follow up with the vendor tomorrow.|明日ベンダーに追って連絡する。|follow up on;follow up with|tc
+deadline|/ˈdedlaɪn/|名|締め切り|Can we extend the deadline by a week?|締め切りを1週間延ばせますか。|meet a deadline;tight deadline|tc
+milestone|/ˈmaɪlstoʊn/|名|節目・マイルストーン|The first milestone is a working demo.|最初の節目は動くデモだ。|reach a milestone;key milestone|mg
+roadmap|/ˈroʊdmæp/|名|ロードマップ|The roadmap shows three phases over two years.|ロードマップは2年で3段階を示す。|product roadmap;technology roadmap|mg
+objective|/əbˈdʒektɪv/|名|目的・目標|What is the objective of this meeting?|この会議の目的は何ですか。|key objective;set objectives|mg
+metric|/ˈmetrɪk/|名|指標|Choose one metric the floor actually cares about.|現場が本当に気にする指標を1つ選ぼう。|key metric;success metric|mg
+estimate|/ˈestɪmeɪt/|動|見積もる|We estimate payback in eighteen months.|投資回収は18か月と見積もっている。|rough estimate;estimate costs|tc
+budget|/ˈbʌdʒɪt/|名|予算|The budget covers two robots and training.|予算はロボット2台と教育をカバーする。|within budget;budget approval|tc
+approval|/əˈpruːvl/|名|承認|We need the plant manager's approval first.|まず工場長の承認が必要だ。|get approval;final approval|tc
+investment|/ɪnˈvestmənt/|名|投資|This investment pays for itself in two years.|この投資は2年で回収できる。|return on investment;capital investment|tc
+justify|/ˈdʒʌstɪfaɪ/|動|正当化する・根拠を示す|Can we justify the cost to the board?|取締役会にコストの根拠を示せるか。|justify a decision;justify the cost|mg
+compliance|/kəmˈplaɪəns/|名|法令順守・適合|The cell is in compliance with ISO 10218.|このセルはISO 10218に適合している。|safety compliance;in compliance with|rb
+hazard|/ˈhæzərd/|名|危険要因|List every hazard before the risk assessment.|リスクアセスメント前に危険要因を全部挙げよう。|safety hazard;identify hazards|rb
+inspection|/ɪnˈspekʃn/|名|検査・点検|Daily inspection takes only five minutes.|日常点検はたった5分で済む。|visual inspection;pass inspection|dx
+maintenance|/ˈmeɪntənəns/|名|保守・メンテナンス|Schedule maintenance during the weekend.|保守は週末に計画しよう。|preventive maintenance;maintenance cost|dx
+reliable|/rɪˈlaɪəbl/|形|信頼できる|We need a reliable gripper, not a fast one.|速いハンドより信頼できるハンドが必要だ。|highly reliable;reliable data|tc
+robust|/roʊˈbʌst/|形|頑健な・しっかりした|The model must be robust to lighting changes.|モデルは照明の変化に強くなければならない。|robust system;robust design|ai
+flexible|/ˈfleksəbl/|形|柔軟な|Cobots make the line more flexible.|協働ロボットでラインがより柔軟になる。|flexible schedule;flexible manufacturing|rb
+constraint|/kənˈstreɪnt/|名|制約|Floor space is our biggest constraint.|床面積が最大の制約だ。|time constraint;budget constraint|dx
+trade-off|/ˈtreɪd ɔːf/|名|トレードオフ|Speed versus safety is a real trade-off here.|ここでは速度と安全が本当にトレードオフだ。|make a trade-off;the trade-off between|mg
+root cause|/ˌruːt ˈkɔːz/|名|根本原因|Ask why five times to find the root cause.|なぜを5回繰り返して根本原因を探す。|root cause analysis;identify the root cause|dx
+countermeasure|/ˈkaʊntərmeʒər/|名|対策|The countermeasure stopped the recurrence.|対策で再発が止まった。|take countermeasures;temporary countermeasure|dx
+standardize|/ˈstændərdaɪz/|動|標準化する|Standardize the work before you automate it.|自動化の前に作業を標準化しよう。|standardize procedures;standardized work|dx
+upskill|/ˈʌpskɪl/|動|技能を高める|We upskill operators to become robot technicians.|作業者をロボット技術者へと育てている。|upskill employees;upskilling program|mg
+reskill|/ˌriːˈskɪl/|動|学び直す・新しい技能を身につけさせる|The company reskills managers for digital roles.|会社は管理職をデジタル職へ学び直させている。|reskill workers;reskilling|mg
+feedback|/ˈfiːdbæk/|名|フィードバック|Ask for negative feedback, not just praise.|称賛だけでなく厳しい意見も求めよう。|give feedback;honest feedback|co
+reflect|/rɪˈflekt/|動|振り返る・内省する|Take five minutes to reflect on today.|5分で今日を振り返ろう。|reflect on;self-reflection|co
+clarify|/ˈklærəfaɪ/|動|明確にする|Could you clarify what success looks like?|成功の姿を明確にしてもらえますか。|clarify a point;clarify expectations|co
+assumption|/əˈsʌmpʃn/|名|前提・思い込み|Let's test that assumption with real data.|その前提を実データで検証しよう。|make an assumption;underlying assumption|co
+vulnerable|/ˈvʌlnərəbl/|形|弱さを見せる・脆弱な|Leaders who show they are vulnerable build trust.|弱さを見せるリーダーは信頼を築く。|feel vulnerable;vulnerable position|co
+empathy|/ˈempəθi/|名|共感|Empathy starts with listening, not fixing.|共感は直すことではなく聴くことから始まる。|show empathy;empathy for|co
+autonomy|/ɔːˈtɑːnəmi/|名|自律性・裁量|Give the team autonomy over how, not what.|何をやるかではなく、どうやるかの裁量を渡そう。|give autonomy;team autonomy|co
+commitment|/kəˈmɪtmənt/|名|約束・コミットメント|What is one commitment you can make this week?|今週約束できることを1つ挙げると？|make a commitment;strong commitment|co
+mindset|/ˈmaɪndset/|名|考え方・マインドセット|A growth mindset turns mistakes into data.|成長思考は失敗をデータに変える。|growth mindset;change your mindset|co
+hindsight|/ˈhaɪndsaɪt/|名|後知恵・振り返って思うこと|In hindsight, we should have piloted first.|今思えば、先に試験導入すべきだった。|in hindsight;with hindsight|co
+proactive|/ˌproʊˈæktɪv/|形|先回りの・主体的な|Be proactive about risks, not reactive.|リスクには後手でなく先手で動こう。|proactive approach;take a proactive role|mg
+tangible|/ˈtændʒəbl/|形|目に見える・具体的な|We need a tangible result by March.|3月までに目に見える成果が要る。|tangible results;tangible benefits|mg
+incremental|/ˌɪŋkrəˈmentl/|形|段階的な・漸進的な|Incremental changes are easier for the floor to accept.|段階的な変更の方が現場は受け入れやすい。|incremental improvement;incremental change|dx
+disruption|/dɪsˈrʌpʃn/|名|混乱・中断・破壊的変化|We installed it without any disruption to production.|生産を止めずに設置した。|minimize disruption;supply chain disruption|tc
+capacity|/kəˈpæsəti/|名|生産能力・容量|The new cell adds 20% capacity.|新セルで生産能力が20%増える。|production capacity;at full capacity|dx
+inventory|/ˈɪnvəntɔːri/|名|在庫|Too much inventory hides problems.|在庫が多すぎると問題が隠れる。|reduce inventory;inventory level|tc
+shipment|/ˈʃɪpmənt/|名|出荷(品)|The shipment was delayed by two days.|出荷が2日遅れた。|delay a shipment;on-time shipment|tc
+supplier|/səˈplaɪər/|名|供給業者・サプライヤー|We audit key suppliers once a year.|主要サプライヤーは年1回監査する。|key supplier;supplier audit|tc
+negotiate|/nɪˈɡoʊʃieɪt/|動|交渉する|We negotiated a lower price for the second robot.|2台目のロボットを値下げ交渉した。|negotiate a contract;negotiate terms|tc
+contract|/ˈkɑːntrækt/|名|契約(書)|Read the support terms in the contract.|契約書の保守条件を読もう。|sign a contract;renew a contract|tc
+warranty|/ˈwɔːrənti/|名|保証|The robot has a two-year warranty.|ロボットは2年保証だ。|under warranty;extend the warranty|tc
+quote|/kwoʊt/|名|見積もり|Please send us a quote by Monday.|月曜までに見積もりを送ってください。|request a quote;get a quote|tc
+invoice|/ˈɪnvɔɪs/|名|請求書|The invoice was sent to the wrong department.|請求書が別の部署に送られた。|issue an invoice;pay an invoice|tc
+reimburse|/ˌriːɪmˈbɜːrs/|動|払い戻す・精算する|Travel costs will be reimbursed next month.|出張費は来月精算される。|reimburse expenses;get reimbursed|tc
+postpone|/poʊstˈpoʊn/|動|延期する|Let's postpone the review until Thursday.|レビューは木曜に延期しよう。|postpone a meeting;postpone a decision|tc
+attendee|/əˌtenˈdiː/|名|出席者|All attendees must wear safety shoes.|出席者は全員安全靴着用のこと。|meeting attendees;list of attendees|tc
+headquarters|/ˈhedkwɔːrtərz/|名|本社|Headquarters wants a monthly progress report.|本社は月次の進捗報告を求めている。|company headquarters;at headquarters|tc
+subsidiary|/səbˈsɪdieri/|名|子会社|Our subsidiary in Thailand will copy this cell.|タイの子会社がこのセルを横展開する。|overseas subsidiary;wholly owned subsidiary|tc
+merger|/ˈmɜːrdʒər/|名|合併|The merger doubled our number of plants.|合併で工場数が倍になった。|merger and acquisition;announce a merger|tc
+revenue|/ˈrevənuː/|名|売上・収益|Service revenue grew faster than hardware.|サービス売上がハードより速く伸びた。|annual revenue;generate revenue|tc
+profitability|/ˌprɑːfɪtəˈbɪləti/|名|収益性|Automation improved the profitability of small lots.|自動化で小ロットの収益性が上がった。|improve profitability;profitability analysis|tc
+forecast|/ˈfɔːrkæst/|名|予測|The demand forecast was too optimistic.|需要予測が楽観的すぎた。|sales forecast;demand forecast|tc
+quarterly|/ˈkwɔːrtərli/|形|四半期の|We present the results at the quarterly review.|四半期レビューで成果を発表する。|quarterly report;quarterly results|tc
+comprehensive|/ˌkɑːmprɪˈhensɪv/|形|包括的な|We need a comprehensive plan, not a patch.|場当たりでなく包括的な計画が必要だ。|comprehensive review;comprehensive plan|tc
+preliminary|/prɪˈlɪmɪneri/|形|予備的な・暫定の|These are preliminary results from week one.|これは1週目の暫定結果だ。|preliminary results;preliminary meeting|tc
+tentative|/ˈtentətɪv/|形|仮の・暫定的な|The kickoff is tentatively set for May 10.|キックオフは仮に5月10日としている。|tentative schedule;tentative agreement|tc
+mandatory|/ˈmændətɔːri/|形|必須の・義務の|Safety training is mandatory for all visitors.|安全教育は来訪者全員に必須だ。|mandatory training;mandatory requirement|tc
+eligible|/ˈelɪdʒəbl/|形|資格がある・対象となる|This project is eligible for a government subsidy.|この案件は国の補助金の対象だ。|eligible for;eligible candidates|tc

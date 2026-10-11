@@ -1,0 +1,1917 @@
+{
+ "version": 2,
+ "tags": {
+  "dx": "製造業DX",
+  "ai": "AI・データ",
+  "mg": "マネジメント",
+  "co": "コーチング",
+  "rb": "ロボット",
+  "tc": "TOEIC頻出"
+ },
+ "words": [
+  {
+   "id": "streamline",
+   "w": "streamline",
+   "ipa": "/ˈstriːmlaɪn/",
+   "pos": "動",
+   "ja": "合理化する・効率化する",
+   "ex": "We streamlined the inspection process with a vision system.",
+   "exja": "画像検査システムで検査工程を効率化した。",
+   "col": [
+    "streamline a process",
+    "streamline operations"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "procurement",
+   "w": "procurement",
+   "ipa": "/prəˈkjʊrmənt/",
+   "pos": "名",
+   "ja": "調達・購買",
+   "ex": "Procurement needs the robot specs by Friday.",
+   "exja": "調達部門は金曜までにロボットの仕様が必要だ。",
+   "col": [
+    "procurement process",
+    "procurement cost"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "facilitate",
+   "w": "facilitate",
+   "ipa": "/fəˈsɪlɪteɪt/",
+   "pos": "動",
+   "ja": "促進する・円滑に進める",
+   "ex": "I facilitated the workshop between operators and engineers.",
+   "exja": "作業者と技術者のワークショップを進行した。",
+   "col": [
+    "facilitate a discussion",
+    "facilitate change"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "feasibility",
+   "w": "feasibility",
+   "ipa": "/ˌfiːzəˈbɪləti/",
+   "pos": "名",
+   "ja": "実現可能性",
+   "ex": "We ran a feasibility study before buying the cobot.",
+   "exja": "協働ロボット購入前に実現可能性調査を行った。",
+   "col": [
+    "feasibility study",
+    "technical feasibility"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "delegate",
+   "w": "delegate",
+   "ipa": "/ˈdelɪɡeɪt/",
+   "pos": "動",
+   "ja": "委譲する・任せる",
+   "ex": "A good manager delegates decisions, not just tasks.",
+   "exja": "良いマネージャーは作業だけでなく判断も任せる。",
+   "col": [
+    "delegate authority",
+    "delegate a task"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "leverage",
+   "w": "leverage",
+   "ipa": "/ˈlevərɪdʒ/",
+   "pos": "動",
+   "ja": "(既存のものを)活用する",
+   "ex": "Let's leverage the data we already collect on the line.",
+   "exja": "ラインですでに集めているデータを活用しよう。",
+   "col": [
+    "leverage data",
+    "leverage expertise"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "consolidate",
+   "w": "consolidate",
+   "ipa": "/kənˈsɑːlɪdeɪt/",
+   "pos": "動",
+   "ja": "統合する・一本化する",
+   "ex": "We consolidated three dashboards into one.",
+   "exja": "3つのダッシュボードを1つに統合した。",
+   "col": [
+    "consolidate data",
+    "consolidate suppliers"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "initiative",
+   "w": "initiative",
+   "ipa": "/ɪˈnɪʃətɪv/",
+   "pos": "名",
+   "ja": "施策・自発性",
+   "ex": "The robotics initiative starts with one cell.",
+   "exja": "ロボティクス施策は1つのセルから始める。",
+   "col": [
+    "take the initiative",
+    "a company-wide initiative"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "align",
+   "w": "align",
+   "ipa": "/əˈlaɪn/",
+   "pos": "動",
+   "ja": "整合させる・足並みをそろえる",
+   "ex": "We need to align the roadmap with the COO's priorities.",
+   "exja": "ロードマップをCOOの優先順位に合わせる必要がある。",
+   "col": [
+    "align with goals",
+    "align expectations"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "mitigate",
+   "w": "mitigate",
+   "ipa": "/ˈmɪtɪɡeɪt/",
+   "pos": "動",
+   "ja": "軽減する・緩和する",
+   "ex": "Safety fences mitigate the risk of collision.",
+   "exja": "安全柵は衝突リスクを軽減する。",
+   "col": [
+    "mitigate risk",
+    "mitigate the impact"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "allocate",
+   "w": "allocate",
+   "ipa": "/ˈæləkeɪt/",
+   "pos": "動",
+   "ja": "割り当てる・配分する",
+   "ex": "We allocated two engineers to the pilot line.",
+   "exja": "パイロットラインに技術者を2名割り当てた。",
+   "col": [
+    "allocate resources",
+    "allocate a budget"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "scalable",
+   "w": "scalable",
+   "ipa": "/ˈskeɪləbl/",
+   "pos": "形",
+   "ja": "拡張可能な",
+   "ex": "The solution must be scalable to all five plants.",
+   "exja": "その解決策は全5工場に展開できる必要がある。",
+   "col": [
+    "scalable solution",
+    "highly scalable"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "bottleneck",
+   "w": "bottleneck",
+   "ipa": "/ˈbɑːtlnek/",
+   "pos": "名",
+   "ja": "ボトルネック・隘路",
+   "ex": "Manual inspection is our biggest bottleneck.",
+   "exja": "手作業の検査が最大のボトルネックだ。",
+   "col": [
+    "identify a bottleneck",
+    "remove a bottleneck"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "stakeholder",
+   "w": "stakeholder",
+   "ipa": "/ˈsteɪkhoʊldər/",
+   "pos": "名",
+   "ja": "利害関係者",
+   "ex": "Map the stakeholders before the kickoff.",
+   "exja": "キックオフ前に関係者を洗い出そう。",
+   "col": [
+    "key stakeholders",
+    "stakeholder meeting"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "prioritize",
+   "w": "prioritize",
+   "ipa": "/praɪˈɔːrətaɪz/",
+   "pos": "動",
+   "ja": "優先順位をつける",
+   "ex": "We prioritized safety over cycle time.",
+   "exja": "サイクルタイムより安全を優先した。",
+   "col": [
+    "prioritize tasks",
+    "prioritize safety"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "benchmark",
+   "w": "benchmark",
+   "ipa": "/ˈbentʃmɑːrk/",
+   "pos": "名",
+   "ja": "基準点・ベンチマーク",
+   "ex": "Last quarter's yield is our benchmark.",
+   "exja": "前四半期の歩留まりが基準だ。",
+   "col": [
+    "set a benchmark",
+    "industry benchmark"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "iteration",
+   "w": "iteration",
+   "ipa": "/ˌɪtəˈreɪʃn/",
+   "pos": "名",
+   "ja": "反復・イテレーション",
+   "ex": "The second iteration cut errors by half.",
+   "exja": "2回目の改善でエラーが半減した。",
+   "col": [
+    "next iteration",
+    "rapid iteration"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "accountability",
+   "w": "accountability",
+   "ipa": "/əˌkaʊntəˈbɪləti/",
+   "pos": "名",
+   "ja": "説明責任・当事者意識",
+   "ex": "Clear ownership builds accountability.",
+   "exja": "明確な担当が当事者意識を育てる。",
+   "col": [
+    "take accountability",
+    "a culture of accountability"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "calibrate",
+   "w": "calibrate",
+   "ipa": "/ˈkælɪbreɪt/",
+   "pos": "動",
+   "ja": "較正する・調整する",
+   "ex": "Calibrate the camera before each shift.",
+   "exja": "各シフト前にカメラを較正すること。",
+   "col": [
+    "calibrate a sensor",
+    "calibrate expectations"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "transparency",
+   "w": "transparency",
+   "ipa": "/trænsˈpærənsi/",
+   "pos": "名",
+   "ja": "透明性",
+   "ex": "Transparency builds trust with the shop floor.",
+   "exja": "透明性が現場との信頼をつくる。",
+   "col": [
+    "increase transparency",
+    "full transparency"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "optimize",
+   "w": "optimize",
+   "ipa": "/ˈɑːptɪmaɪz/",
+   "pos": "動",
+   "ja": "最適化する",
+   "ex": "We optimized the robot's path to save two seconds.",
+   "exja": "ロボットの経路を最適化して2秒短縮した。",
+   "col": [
+    "optimize performance",
+    "optimize costs"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "sustainable",
+   "w": "sustainable",
+   "ipa": "/səˈsteɪnəbl/",
+   "pos": "形",
+   "ja": "持続可能な",
+   "ex": "We need a sustainable pace, not heroics.",
+   "exja": "頑張りではなく持続可能なペースが必要だ。",
+   "col": [
+    "sustainable growth",
+    "sustainable process"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "autonomous",
+   "w": "autonomous",
+   "ipa": "/ɔːˈtɑːnəməs/",
+   "pos": "形",
+   "ja": "自律的な",
+   "ex": "Autonomous mobile robots move parts between cells.",
+   "exja": "自律移動ロボットがセル間で部品を運ぶ。",
+   "col": [
+    "autonomous robot",
+    "autonomous team"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "resilient",
+   "w": "resilient",
+   "ipa": "/rɪˈzɪliənt/",
+   "pos": "形",
+   "ja": "回復力のある",
+   "ex": "A resilient team learns fast from failures.",
+   "exja": "しなやかなチームは失敗から速く学ぶ。",
+   "col": [
+    "resilient supply chain",
+    "stay resilient"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "integrate",
+   "w": "integrate",
+   "ipa": "/ˈɪntɪɡreɪt/",
+   "pos": "動",
+   "ja": "統合する・連携させる",
+   "ex": "We integrated the vision system with the PLC.",
+   "exja": "画像システムをPLCと連携させた。",
+   "col": [
+    "integrate systems",
+    "fully integrated"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "implement",
+   "w": "implement",
+   "ipa": "/ˈɪmplɪment/",
+   "pos": "動",
+   "ja": "実行する・導入する",
+   "ex": "We will implement the new layout in November.",
+   "exja": "11月に新レイアウトを導入する。",
+   "col": [
+    "implement a plan",
+    "implement changes"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "collaborate",
+   "w": "collaborate",
+   "ipa": "/kəˈlæbəreɪt/",
+   "pos": "動",
+   "ja": "協働する",
+   "ex": "Engineers collaborate with operators on every change.",
+   "exja": "技術者はあらゆる変更で作業者と協働する。",
+   "col": [
+    "collaborate closely",
+    "collaborate with"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "crucial",
+   "w": "crucial",
+   "ipa": "/ˈkruːʃl/",
+   "pos": "形",
+   "ja": "極めて重要な",
+   "ex": "Operator feedback is crucial at this stage.",
+   "exja": "この段階では作業者の声が極めて重要だ。",
+   "col": [
+    "crucial role",
+    "crucial step"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "perspective",
+   "w": "perspective",
+   "ipa": "/pərˈspektɪv/",
+   "pos": "名",
+   "ja": "視点・観点",
+   "ex": "Try to see it from the operator's perspective.",
+   "exja": "作業者の視点で見てみよう。",
+   "col": [
+    "from a different perspective",
+    "broaden your perspective"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "deploy",
+   "w": "deploy",
+   "ipa": "/dɪˈplɔɪ/",
+   "pos": "動",
+   "ja": "配備する・展開する",
+   "ex": "We deployed four robots on the welding line.",
+   "exja": "溶接ラインにロボット4台を配備した。",
+   "col": [
+    "deploy a system",
+    "deploy robots"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "throughput",
+   "w": "throughput",
+   "ipa": "/ˈθruːpʊt/",
+   "pos": "名",
+   "ja": "処理能力・スループット",
+   "ex": "Throughput rose 12% after the change.",
+   "exja": "変更後スループットが12%上がった。",
+   "col": [
+    "increase throughput",
+    "line throughput"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "downtime",
+   "w": "downtime",
+   "ipa": "/ˈdaʊntaɪm/",
+   "pos": "名",
+   "ja": "停止時間",
+   "ex": "Predictive maintenance reduced unplanned downtime.",
+   "exja": "予知保全で計画外停止が減った。",
+   "col": [
+    "unplanned downtime",
+    "minimize downtime"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "yield",
+   "w": "yield",
+   "ipa": "/jiːld/",
+   "pos": "名",
+   "ja": "歩留まり・成果",
+   "ex": "The first-pass yield is now 98%.",
+   "exja": "直行率は現在98%だ。",
+   "col": [
+    "first-pass yield",
+    "improve yield"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "defect",
+   "w": "defect",
+   "ipa": "/ˈdiːfekt/",
+   "pos": "名",
+   "ja": "欠陥・不良",
+   "ex": "The camera catches defects the eye misses.",
+   "exja": "カメラは目視で見逃す不良を捉える。",
+   "col": [
+    "defect rate",
+    "detect a defect"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "anomaly",
+   "w": "anomaly",
+   "ipa": "/əˈnɑːməli/",
+   "pos": "名",
+   "ja": "異常・例外",
+   "ex": "The model flags anomalies in motor current.",
+   "exja": "モデルがモーター電流の異常を検知する。",
+   "col": [
+    "anomaly detection",
+    "detect an anomaly"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "predictive",
+   "w": "predictive",
+   "ipa": "/prɪˈdɪktɪv/",
+   "pos": "形",
+   "ja": "予測的な",
+   "ex": "Predictive maintenance needs clean sensor data.",
+   "exja": "予知保全にはきれいなセンサーデータが要る。",
+   "col": [
+    "predictive maintenance",
+    "predictive model"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "retrofit",
+   "w": "retrofit",
+   "ipa": "/ˈretroʊfɪt/",
+   "pos": "動",
+   "ja": "後付けで改造する",
+   "ex": "We retrofitted old machines with IoT sensors.",
+   "exja": "古い設備にIoTセンサーを後付けした。",
+   "col": [
+    "retrofit equipment",
+    "retrofit kit"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "payload",
+   "w": "payload",
+   "ipa": "/ˈpeɪloʊd/",
+   "pos": "名",
+   "ja": "可搬重量",
+   "ex": "This cobot has a payload of ten kilograms.",
+   "exja": "この協働ロボットの可搬重量は10kgだ。",
+   "col": [
+    "maximum payload",
+    "payload capacity"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "end-effector",
+   "w": "end effector",
+   "ipa": "/ˌend ɪˈfektər/",
+   "pos": "名",
+   "ja": "エンドエフェクタ(ロボットの手先)",
+   "ex": "We designed a custom end effector for the bags.",
+   "exja": "袋用に専用のハンドを設計した。",
+   "col": [
+    "custom end effector",
+    "change the end effector"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "teach",
+   "w": "teach",
+   "ipa": "/tiːtʃ/",
+   "pos": "動",
+   "ja": "(ロボットに)教示する",
+   "ex": "It takes an hour to teach the new path.",
+   "exja": "新しい経路の教示に1時間かかる。",
+   "col": [
+    "teach a robot",
+    "teach pendant"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "collision",
+   "w": "collision",
+   "ipa": "/kəˈlɪʒn/",
+   "pos": "名",
+   "ja": "衝突",
+   "ex": "The sensor stops the arm before a collision.",
+   "exja": "センサーが衝突前にアームを止める。",
+   "col": [
+    "collision detection",
+    "avoid a collision"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "precision",
+   "w": "precision",
+   "ipa": "/prɪˈsɪʒn/",
+   "pos": "名",
+   "ja": "精度",
+   "ex": "The task needs precision within 0.1 millimeters.",
+   "exja": "この作業は0.1mm以内の精度が必要だ。",
+   "col": [
+    "high precision",
+    "precision assembly"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "cycle-time",
+   "w": "cycle time",
+   "ipa": "/ˈsaɪkl taɪm/",
+   "pos": "名",
+   "ja": "サイクルタイム",
+   "ex": "The robot matched the operator's cycle time.",
+   "exja": "ロボットが作業者のサイクルタイムに並んだ。",
+   "col": [
+    "reduce cycle time",
+    "target cycle time"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "in-house",
+   "w": "in-house",
+   "ipa": "/ˌɪnˈhaʊs/",
+   "pos": "形",
+   "ja": "社内の・内製の",
+   "ex": "We want in-house skills, not just vendors.",
+   "exja": "ベンダー頼みでなく社内の技能がほしい。",
+   "col": [
+    "in-house development",
+    "in-house expertise"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "outsource",
+   "w": "outsource",
+   "ipa": "/ˈaʊtsɔːrs/",
+   "pos": "動",
+   "ja": "外部委託する",
+   "ex": "We outsourced the first integration to learn fast.",
+   "exja": "速く学ぶため最初の導入は外部委託した。",
+   "col": [
+    "outsource production",
+    "outsource to a vendor"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "vendor",
+   "w": "vendor",
+   "ipa": "/ˈvendər/",
+   "pos": "名",
+   "ja": "供給業者・ベンダー",
+   "ex": "Compare at least three vendors before deciding.",
+   "exja": "決める前に最低3社を比較しよう。",
+   "col": [
+    "vendor selection",
+    "preferred vendor"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "specification",
+   "w": "specification",
+   "ipa": "/ˌspesɪfɪˈkeɪʃn/",
+   "pos": "名",
+   "ja": "仕様(書)",
+   "ex": "The specification did not include cleaning time.",
+   "exja": "仕様に清掃時間が含まれていなかった。",
+   "col": [
+    "meet the specification",
+    "technical specification"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "prototype",
+   "w": "prototype",
+   "ipa": "/ˈproʊtətaɪp/",
+   "pos": "名",
+   "ja": "試作品",
+   "ex": "We built a cardboard prototype of the cell.",
+   "exja": "段ボールでセルの試作を作った。",
+   "col": [
+    "build a prototype",
+    "working prototype"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "pilot",
+   "w": "pilot",
+   "ipa": "/ˈpaɪlət/",
+   "pos": "名",
+   "ja": "試験導入・パイロット",
+   "ex": "The pilot runs for six weeks on line B.",
+   "exja": "試験導入はBラインで6週間行う。",
+   "col": [
+    "pilot project",
+    "run a pilot"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "roll-out",
+   "w": "roll out",
+   "ipa": "/ˌroʊl ˈaʊt/",
+   "pos": "動",
+   "ja": "展開する・本格導入する",
+   "ex": "We'll roll out the system plant-wide next year.",
+   "exja": "来年、全工場に展開する。",
+   "col": [
+    "roll out a system",
+    "roll out gradually"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "adopt",
+   "w": "adopt",
+   "ipa": "/əˈdɑːpt/",
+   "pos": "動",
+   "ja": "採用する・取り入れる",
+   "ex": "The team adopted daily stand-up meetings.",
+   "exja": "チームは毎日の朝会を取り入れた。",
+   "col": [
+    "adopt a policy",
+    "adopt new technology"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "adoption",
+   "w": "adoption",
+   "ipa": "/əˈdɑːpʃn/",
+   "pos": "名",
+   "ja": "普及・採用",
+   "ex": "Adoption depends on trust from the floor.",
+   "exja": "普及するかは現場の信頼次第だ。",
+   "col": [
+    "technology adoption",
+    "adoption rate"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "visualize",
+   "w": "visualize",
+   "ipa": "/ˈvɪʒuəlaɪz/",
+   "pos": "動",
+   "ja": "可視化する",
+   "ex": "We visualized downtime by cause on one screen.",
+   "exja": "停止時間を原因別に1画面で可視化した。",
+   "col": [
+    "visualize data",
+    "visualize progress"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "insight",
+   "w": "insight",
+   "ipa": "/ˈɪnsaɪt/",
+   "pos": "名",
+   "ja": "洞察",
+   "ex": "The data gave us an insight into night-shift errors.",
+   "exja": "データから夜勤のミスについて洞察を得た。",
+   "col": [
+    "gain insight",
+    "actionable insight"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "validate",
+   "w": "validate",
+   "ipa": "/ˈvælɪdeɪt/",
+   "pos": "動",
+   "ja": "検証する・妥当性を確認する",
+   "ex": "Validate the model on last month's data.",
+   "exja": "先月のデータでモデルを検証しよう。",
+   "col": [
+    "validate a hypothesis",
+    "validate results"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "accuracy",
+   "w": "accuracy",
+   "ipa": "/ˈækjərəsi/",
+   "pos": "名",
+   "ja": "正確さ・精度",
+   "ex": "Detection accuracy reached 97%.",
+   "exja": "検出精度は97%に達した。",
+   "col": [
+    "improve accuracy",
+    "high accuracy"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "inference",
+   "w": "inference",
+   "ipa": "/ˈɪnfərəns/",
+   "pos": "名",
+   "ja": "推論",
+   "ex": "Inference runs on the edge device in 30 milliseconds.",
+   "exja": "推論はエッジ端末で30ミリ秒で動く。",
+   "col": [
+    "real-time inference",
+    "inference speed"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "dataset",
+   "w": "dataset",
+   "ipa": "/ˈdeɪtəset/",
+   "pos": "名",
+   "ja": "データセット",
+   "ex": "We need a larger dataset of rare defects.",
+   "exja": "まれな不良のデータセットをもっと増やす必要がある。",
+   "col": [
+    "training dataset",
+    "build a dataset"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "label",
+   "w": "label",
+   "ipa": "/ˈleɪbl/",
+   "pos": "動",
+   "ja": "ラベル付けする",
+   "ex": "Operators labeled 2,000 images last month.",
+   "exja": "作業者が先月2,000枚の画像にラベルを付けた。",
+   "col": [
+    "label data",
+    "mislabel"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "automate",
+   "w": "automate",
+   "ipa": "/ˈɔːtəmeɪt/",
+   "pos": "動",
+   "ja": "自動化する",
+   "ex": "Automate the boring part, not the judgment.",
+   "exja": "退屈な部分を自動化し、判断は残そう。",
+   "col": [
+    "automate a process",
+    "fully automated"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "manual",
+   "w": "manual",
+   "ipa": "/ˈmænjuəl/",
+   "pos": "形",
+   "ja": "手作業の",
+   "ex": "Manual data entry causes most of our errors.",
+   "exja": "手入力がミスの大半の原因だ。",
+   "col": [
+    "manual work",
+    "manual inspection"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "workload",
+   "w": "workload",
+   "ipa": "/ˈwɜːrkloʊd/",
+   "pos": "名",
+   "ja": "作業量・業務量",
+   "ex": "Let's rebalance the workload across the team.",
+   "exja": "チームの業務量を再配分しよう。",
+   "col": [
+    "heavy workload",
+    "manage the workload"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "bandwidth",
+   "w": "bandwidth",
+   "ipa": "/ˈbændwɪdθ/",
+   "pos": "名",
+   "ja": "(人の)余力",
+   "ex": "I don't have the bandwidth for another project.",
+   "exja": "もう1件案件を受ける余力がない。",
+   "col": [
+    "limited bandwidth",
+    "free up bandwidth"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "ownership",
+   "w": "ownership",
+   "ipa": "/ˈoʊnərʃɪp/",
+   "pos": "名",
+   "ja": "主体性・当事者意識",
+   "ex": "I want the team to take ownership of the cell.",
+   "exja": "チームにセルの当事者になってほしい。",
+   "col": [
+    "take ownership",
+    "sense of ownership"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "empower",
+   "w": "empower",
+   "ipa": "/ɪmˈpaʊər/",
+   "pos": "動",
+   "ja": "権限を与える・力を引き出す",
+   "ex": "We empowered leaders to stop the line.",
+   "exja": "リーダーにライン停止の権限を与えた。",
+   "col": [
+    "empower employees",
+    "empower a team"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "mentor",
+   "w": "mentor",
+   "ipa": "/ˈmentɔːr/",
+   "pos": "動",
+   "ja": "指導・助言する",
+   "ex": "She mentors two new engineers.",
+   "exja": "彼女は新人技術者2名を指導している。",
+   "col": [
+    "mentor someone",
+    "mentoring program"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "onboard",
+   "w": "onboard",
+   "ipa": "/ˈɑːnbɔːrd/",
+   "pos": "動",
+   "ja": "(新人を)受け入れ定着させる",
+   "ex": "We onboard new members with a buddy system.",
+   "exja": "バディ制度で新メンバーを受け入れている。",
+   "col": [
+    "onboard new hires",
+    "onboarding process"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "retention",
+   "w": "retention",
+   "ipa": "/rɪˈtenʃn/",
+   "pos": "名",
+   "ja": "定着・維持",
+   "ex": "Growth opportunities improve retention.",
+   "exja": "成長機会が定着率を上げる。",
+   "col": [
+    "employee retention",
+    "retention rate"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "morale",
+   "w": "morale",
+   "ipa": "/məˈræl/",
+   "pos": "名",
+   "ja": "士気",
+   "ex": "Small wins raised the team's morale.",
+   "exja": "小さな成功がチームの士気を上げた。",
+   "col": [
+    "boost morale",
+    "low morale"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "consensus",
+   "w": "consensus",
+   "ipa": "/kənˈsensəs/",
+   "pos": "名",
+   "ja": "合意",
+   "ex": "We reached consensus after two meetings.",
+   "exja": "2回の会議で合意に達した。",
+   "col": [
+    "reach consensus",
+    "build consensus"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "escalate",
+   "w": "escalate",
+   "ipa": "/ˈeskəleɪt/",
+   "pos": "動",
+   "ja": "上に上げる・エスカレーションする",
+   "ex": "Escalate safety issues immediately.",
+   "exja": "安全の問題はすぐ上に上げること。",
+   "col": [
+    "escalate an issue",
+    "escalate to management"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "agenda",
+   "w": "agenda",
+   "ipa": "/əˈdʒendə/",
+   "pos": "名",
+   "ja": "議題",
+   "ex": "Please send the agenda a day before.",
+   "exja": "議題は前日までに送ってください。",
+   "col": [
+    "set the agenda",
+    "on the agenda"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "minutes",
+   "w": "minutes",
+   "ipa": "/ˈmɪnɪts/",
+   "pos": "名",
+   "ja": "議事録",
+   "ex": "Who will take the minutes today?",
+   "exja": "今日は誰が議事録を取りますか。",
+   "col": [
+    "take minutes",
+    "meeting minutes"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "follow-up",
+   "w": "follow up",
+   "ipa": "/ˌfɑːloʊ ˈʌp/",
+   "pos": "動",
+   "ja": "フォローする・追って連絡する",
+   "ex": "I'll follow up with the vendor tomorrow.",
+   "exja": "明日ベンダーに追って連絡する。",
+   "col": [
+    "follow up on",
+    "follow up with"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "deadline",
+   "w": "deadline",
+   "ipa": "/ˈdedlaɪn/",
+   "pos": "名",
+   "ja": "締め切り",
+   "ex": "Can we extend the deadline by a week?",
+   "exja": "締め切りを1週間延ばせますか。",
+   "col": [
+    "meet a deadline",
+    "tight deadline"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "milestone",
+   "w": "milestone",
+   "ipa": "/ˈmaɪlstoʊn/",
+   "pos": "名",
+   "ja": "節目・マイルストーン",
+   "ex": "The first milestone is a working demo.",
+   "exja": "最初の節目は動くデモだ。",
+   "col": [
+    "reach a milestone",
+    "key milestone"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "roadmap",
+   "w": "roadmap",
+   "ipa": "/ˈroʊdmæp/",
+   "pos": "名",
+   "ja": "ロードマップ",
+   "ex": "The roadmap shows three phases over two years.",
+   "exja": "ロードマップは2年で3段階を示す。",
+   "col": [
+    "product roadmap",
+    "technology roadmap"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "objective",
+   "w": "objective",
+   "ipa": "/əbˈdʒektɪv/",
+   "pos": "名",
+   "ja": "目的・目標",
+   "ex": "What is the objective of this meeting?",
+   "exja": "この会議の目的は何ですか。",
+   "col": [
+    "key objective",
+    "set objectives"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "metric",
+   "w": "metric",
+   "ipa": "/ˈmetrɪk/",
+   "pos": "名",
+   "ja": "指標",
+   "ex": "Choose one metric the floor actually cares about.",
+   "exja": "現場が本当に気にする指標を1つ選ぼう。",
+   "col": [
+    "key metric",
+    "success metric"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "estimate",
+   "w": "estimate",
+   "ipa": "/ˈestɪmeɪt/",
+   "pos": "動",
+   "ja": "見積もる",
+   "ex": "We estimate payback in eighteen months.",
+   "exja": "投資回収は18か月と見積もっている。",
+   "col": [
+    "rough estimate",
+    "estimate costs"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "budget",
+   "w": "budget",
+   "ipa": "/ˈbʌdʒɪt/",
+   "pos": "名",
+   "ja": "予算",
+   "ex": "The budget covers two robots and training.",
+   "exja": "予算はロボット2台と教育をカバーする。",
+   "col": [
+    "within budget",
+    "budget approval"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "approval",
+   "w": "approval",
+   "ipa": "/əˈpruːvl/",
+   "pos": "名",
+   "ja": "承認",
+   "ex": "We need the plant manager's approval first.",
+   "exja": "まず工場長の承認が必要だ。",
+   "col": [
+    "get approval",
+    "final approval"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "investment",
+   "w": "investment",
+   "ipa": "/ɪnˈvestmənt/",
+   "pos": "名",
+   "ja": "投資",
+   "ex": "This investment pays for itself in two years.",
+   "exja": "この投資は2年で回収できる。",
+   "col": [
+    "return on investment",
+    "capital investment"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "justify",
+   "w": "justify",
+   "ipa": "/ˈdʒʌstɪfaɪ/",
+   "pos": "動",
+   "ja": "正当化する・根拠を示す",
+   "ex": "Can we justify the cost to the board?",
+   "exja": "取締役会にコストの根拠を示せるか。",
+   "col": [
+    "justify a decision",
+    "justify the cost"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "compliance",
+   "w": "compliance",
+   "ipa": "/kəmˈplaɪəns/",
+   "pos": "名",
+   "ja": "法令順守・適合",
+   "ex": "The cell is in compliance with ISO 10218.",
+   "exja": "このセルはISO 10218に適合している。",
+   "col": [
+    "safety compliance",
+    "in compliance with"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "hazard",
+   "w": "hazard",
+   "ipa": "/ˈhæzərd/",
+   "pos": "名",
+   "ja": "危険要因",
+   "ex": "List every hazard before the risk assessment.",
+   "exja": "リスクアセスメント前に危険要因を全部挙げよう。",
+   "col": [
+    "safety hazard",
+    "identify hazards"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "inspection",
+   "w": "inspection",
+   "ipa": "/ɪnˈspekʃn/",
+   "pos": "名",
+   "ja": "検査・点検",
+   "ex": "Daily inspection takes only five minutes.",
+   "exja": "日常点検はたった5分で済む。",
+   "col": [
+    "visual inspection",
+    "pass inspection"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "maintenance",
+   "w": "maintenance",
+   "ipa": "/ˈmeɪntənəns/",
+   "pos": "名",
+   "ja": "保守・メンテナンス",
+   "ex": "Schedule maintenance during the weekend.",
+   "exja": "保守は週末に計画しよう。",
+   "col": [
+    "preventive maintenance",
+    "maintenance cost"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "reliable",
+   "w": "reliable",
+   "ipa": "/rɪˈlaɪəbl/",
+   "pos": "形",
+   "ja": "信頼できる",
+   "ex": "We need a reliable gripper, not a fast one.",
+   "exja": "速いハンドより信頼できるハンドが必要だ。",
+   "col": [
+    "highly reliable",
+    "reliable data"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "robust",
+   "w": "robust",
+   "ipa": "/roʊˈbʌst/",
+   "pos": "形",
+   "ja": "頑健な・しっかりした",
+   "ex": "The model must be robust to lighting changes.",
+   "exja": "モデルは照明の変化に強くなければならない。",
+   "col": [
+    "robust system",
+    "robust design"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "flexible",
+   "w": "flexible",
+   "ipa": "/ˈfleksəbl/",
+   "pos": "形",
+   "ja": "柔軟な",
+   "ex": "Cobots make the line more flexible.",
+   "exja": "協働ロボットでラインがより柔軟になる。",
+   "col": [
+    "flexible schedule",
+    "flexible manufacturing"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "constraint",
+   "w": "constraint",
+   "ipa": "/kənˈstreɪnt/",
+   "pos": "名",
+   "ja": "制約",
+   "ex": "Floor space is our biggest constraint.",
+   "exja": "床面積が最大の制約だ。",
+   "col": [
+    "time constraint",
+    "budget constraint"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "trade-off",
+   "w": "trade-off",
+   "ipa": "/ˈtreɪd ɔːf/",
+   "pos": "名",
+   "ja": "トレードオフ",
+   "ex": "Speed versus safety is a real trade-off here.",
+   "exja": "ここでは速度と安全が本当にトレードオフだ。",
+   "col": [
+    "make a trade-off",
+    "the trade-off between"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "root-cause",
+   "w": "root cause",
+   "ipa": "/ˌruːt ˈkɔːz/",
+   "pos": "名",
+   "ja": "根本原因",
+   "ex": "Ask why five times to find the root cause.",
+   "exja": "なぜを5回繰り返して根本原因を探す。",
+   "col": [
+    "root cause analysis",
+    "identify the root cause"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "countermeasure",
+   "w": "countermeasure",
+   "ipa": "/ˈkaʊntərmeʒər/",
+   "pos": "名",
+   "ja": "対策",
+   "ex": "The countermeasure stopped the recurrence.",
+   "exja": "対策で再発が止まった。",
+   "col": [
+    "take countermeasures",
+    "temporary countermeasure"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "standardize",
+   "w": "standardize",
+   "ipa": "/ˈstændərdaɪz/",
+   "pos": "動",
+   "ja": "標準化する",
+   "ex": "Standardize the work before you automate it.",
+   "exja": "自動化の前に作業を標準化しよう。",
+   "col": [
+    "standardize procedures",
+    "standardized work"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "upskill",
+   "w": "upskill",
+   "ipa": "/ˈʌpskɪl/",
+   "pos": "動",
+   "ja": "技能を高める",
+   "ex": "We upskill operators to become robot technicians.",
+   "exja": "作業者をロボット技術者へと育てている。",
+   "col": [
+    "upskill employees",
+    "upskilling program"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "reskill",
+   "w": "reskill",
+   "ipa": "/ˌriːˈskɪl/",
+   "pos": "動",
+   "ja": "学び直す・新しい技能を身につけさせる",
+   "ex": "The company reskills managers for digital roles.",
+   "exja": "会社は管理職をデジタル職へ学び直させている。",
+   "col": [
+    "reskill workers",
+    "reskilling"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "feedback",
+   "w": "feedback",
+   "ipa": "/ˈfiːdbæk/",
+   "pos": "名",
+   "ja": "フィードバック",
+   "ex": "Ask for negative feedback, not just praise.",
+   "exja": "称賛だけでなく厳しい意見も求めよう。",
+   "col": [
+    "give feedback",
+    "honest feedback"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "reflect",
+   "w": "reflect",
+   "ipa": "/rɪˈflekt/",
+   "pos": "動",
+   "ja": "振り返る・内省する",
+   "ex": "Take five minutes to reflect on today.",
+   "exja": "5分で今日を振り返ろう。",
+   "col": [
+    "reflect on",
+    "self-reflection"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "clarify",
+   "w": "clarify",
+   "ipa": "/ˈklærəfaɪ/",
+   "pos": "動",
+   "ja": "明確にする",
+   "ex": "Could you clarify what success looks like?",
+   "exja": "成功の姿を明確にしてもらえますか。",
+   "col": [
+    "clarify a point",
+    "clarify expectations"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "assumption",
+   "w": "assumption",
+   "ipa": "/əˈsʌmpʃn/",
+   "pos": "名",
+   "ja": "前提・思い込み",
+   "ex": "Let's test that assumption with real data.",
+   "exja": "その前提を実データで検証しよう。",
+   "col": [
+    "make an assumption",
+    "underlying assumption"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "vulnerable",
+   "w": "vulnerable",
+   "ipa": "/ˈvʌlnərəbl/",
+   "pos": "形",
+   "ja": "弱さを見せる・脆弱な",
+   "ex": "Leaders who show they are vulnerable build trust.",
+   "exja": "弱さを見せるリーダーは信頼を築く。",
+   "col": [
+    "feel vulnerable",
+    "vulnerable position"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "empathy",
+   "w": "empathy",
+   "ipa": "/ˈempəθi/",
+   "pos": "名",
+   "ja": "共感",
+   "ex": "Empathy starts with listening, not fixing.",
+   "exja": "共感は直すことではなく聴くことから始まる。",
+   "col": [
+    "show empathy",
+    "empathy for"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "autonomy",
+   "w": "autonomy",
+   "ipa": "/ɔːˈtɑːnəmi/",
+   "pos": "名",
+   "ja": "自律性・裁量",
+   "ex": "Give the team autonomy over how, not what.",
+   "exja": "何をやるかではなく、どうやるかの裁量を渡そう。",
+   "col": [
+    "give autonomy",
+    "team autonomy"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "commitment",
+   "w": "commitment",
+   "ipa": "/kəˈmɪtmənt/",
+   "pos": "名",
+   "ja": "約束・コミットメント",
+   "ex": "What is one commitment you can make this week?",
+   "exja": "今週約束できることを1つ挙げると？",
+   "col": [
+    "make a commitment",
+    "strong commitment"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "mindset",
+   "w": "mindset",
+   "ipa": "/ˈmaɪndset/",
+   "pos": "名",
+   "ja": "考え方・マインドセット",
+   "ex": "A growth mindset turns mistakes into data.",
+   "exja": "成長思考は失敗をデータに変える。",
+   "col": [
+    "growth mindset",
+    "change your mindset"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "hindsight",
+   "w": "hindsight",
+   "ipa": "/ˈhaɪndsaɪt/",
+   "pos": "名",
+   "ja": "後知恵・振り返って思うこと",
+   "ex": "In hindsight, we should have piloted first.",
+   "exja": "今思えば、先に試験導入すべきだった。",
+   "col": [
+    "in hindsight",
+    "with hindsight"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "proactive",
+   "w": "proactive",
+   "ipa": "/ˌproʊˈæktɪv/",
+   "pos": "形",
+   "ja": "先回りの・主体的な",
+   "ex": "Be proactive about risks, not reactive.",
+   "exja": "リスクには後手でなく先手で動こう。",
+   "col": [
+    "proactive approach",
+    "take a proactive role"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "tangible",
+   "w": "tangible",
+   "ipa": "/ˈtændʒəbl/",
+   "pos": "形",
+   "ja": "目に見える・具体的な",
+   "ex": "We need a tangible result by March.",
+   "exja": "3月までに目に見える成果が要る。",
+   "col": [
+    "tangible results",
+    "tangible benefits"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "incremental",
+   "w": "incremental",
+   "ipa": "/ˌɪŋkrəˈmentl/",
+   "pos": "形",
+   "ja": "段階的な・漸進的な",
+   "ex": "Incremental changes are easier for the floor to accept.",
+   "exja": "段階的な変更の方が現場は受け入れやすい。",
+   "col": [
+    "incremental improvement",
+    "incremental change"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "disruption",
+   "w": "disruption",
+   "ipa": "/dɪsˈrʌpʃn/",
+   "pos": "名",
+   "ja": "混乱・中断・破壊的変化",
+   "ex": "We installed it without any disruption to production.",
+   "exja": "生産を止めずに設置した。",
+   "col": [
+    "minimize disruption",
+    "supply chain disruption"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "capacity",
+   "w": "capacity",
+   "ipa": "/kəˈpæsəti/",
+   "pos": "名",
+   "ja": "生産能力・容量",
+   "ex": "The new cell adds 20% capacity.",
+   "exja": "新セルで生産能力が20%増える。",
+   "col": [
+    "production capacity",
+    "at full capacity"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "inventory",
+   "w": "inventory",
+   "ipa": "/ˈɪnvəntɔːri/",
+   "pos": "名",
+   "ja": "在庫",
+   "ex": "Too much inventory hides problems.",
+   "exja": "在庫が多すぎると問題が隠れる。",
+   "col": [
+    "reduce inventory",
+    "inventory level"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "shipment",
+   "w": "shipment",
+   "ipa": "/ˈʃɪpmənt/",
+   "pos": "名",
+   "ja": "出荷(品)",
+   "ex": "The shipment was delayed by two days.",
+   "exja": "出荷が2日遅れた。",
+   "col": [
+    "delay a shipment",
+    "on-time shipment"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "supplier",
+   "w": "supplier",
+   "ipa": "/səˈplaɪər/",
+   "pos": "名",
+   "ja": "供給業者・サプライヤー",
+   "ex": "We audit key suppliers once a year.",
+   "exja": "主要サプライヤーは年1回監査する。",
+   "col": [
+    "key supplier",
+    "supplier audit"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "negotiate",
+   "w": "negotiate",
+   "ipa": "/nɪˈɡoʊʃieɪt/",
+   "pos": "動",
+   "ja": "交渉する",
+   "ex": "We negotiated a lower price for the second robot.",
+   "exja": "2台目のロボットを値下げ交渉した。",
+   "col": [
+    "negotiate a contract",
+    "negotiate terms"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "contract",
+   "w": "contract",
+   "ipa": "/ˈkɑːntrækt/",
+   "pos": "名",
+   "ja": "契約(書)",
+   "ex": "Read the support terms in the contract.",
+   "exja": "契約書の保守条件を読もう。",
+   "col": [
+    "sign a contract",
+    "renew a contract"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "warranty",
+   "w": "warranty",
+   "ipa": "/ˈwɔːrənti/",
+   "pos": "名",
+   "ja": "保証",
+   "ex": "The robot has a two-year warranty.",
+   "exja": "ロボットは2年保証だ。",
+   "col": [
+    "under warranty",
+    "extend the warranty"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "quote",
+   "w": "quote",
+   "ipa": "/kwoʊt/",
+   "pos": "名",
+   "ja": "見積もり",
+   "ex": "Please send us a quote by Monday.",
+   "exja": "月曜までに見積もりを送ってください。",
+   "col": [
+    "request a quote",
+    "get a quote"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "invoice",
+   "w": "invoice",
+   "ipa": "/ˈɪnvɔɪs/",
+   "pos": "名",
+   "ja": "請求書",
+   "ex": "The invoice was sent to the wrong department.",
+   "exja": "請求書が別の部署に送られた。",
+   "col": [
+    "issue an invoice",
+    "pay an invoice"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "reimburse",
+   "w": "reimburse",
+   "ipa": "/ˌriːɪmˈbɜːrs/",
+   "pos": "動",
+   "ja": "払い戻す・精算する",
+   "ex": "Travel costs will be reimbursed next month.",
+   "exja": "出張費は来月精算される。",
+   "col": [
+    "reimburse expenses",
+    "get reimbursed"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "postpone",
+   "w": "postpone",
+   "ipa": "/poʊstˈpoʊn/",
+   "pos": "動",
+   "ja": "延期する",
+   "ex": "Let's postpone the review until Thursday.",
+   "exja": "レビューは木曜に延期しよう。",
+   "col": [
+    "postpone a meeting",
+    "postpone a decision"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "attendee",
+   "w": "attendee",
+   "ipa": "/əˌtenˈdiː/",
+   "pos": "名",
+   "ja": "出席者",
+   "ex": "All attendees must wear safety shoes.",
+   "exja": "出席者は全員安全靴着用のこと。",
+   "col": [
+    "meeting attendees",
+    "list of attendees"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "headquarters",
+   "w": "headquarters",
+   "ipa": "/ˈhedkwɔːrtərz/",
+   "pos": "名",
+   "ja": "本社",
+   "ex": "Headquarters wants a monthly progress report.",
+   "exja": "本社は月次の進捗報告を求めている。",
+   "col": [
+    "company headquarters",
+    "at headquarters"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "subsidiary",
+   "w": "subsidiary",
+   "ipa": "/səbˈsɪdieri/",
+   "pos": "名",
+   "ja": "子会社",
+   "ex": "Our subsidiary in Thailand will copy this cell.",
+   "exja": "タイの子会社がこのセルを横展開する。",
+   "col": [
+    "overseas subsidiary",
+    "wholly owned subsidiary"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "merger",
+   "w": "merger",
+   "ipa": "/ˈmɜːrdʒər/",
+   "pos": "名",
+   "ja": "合併",
+   "ex": "The merger doubled our number of plants.",
+   "exja": "合併で工場数が倍になった。",
+   "col": [
+    "merger and acquisition",
+    "announce a merger"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "revenue",
+   "w": "revenue",
+   "ipa": "/ˈrevənuː/",
+   "pos": "名",
+   "ja": "売上・収益",
+   "ex": "Service revenue grew faster than hardware.",
+   "exja": "サービス売上がハードより速く伸びた。",
+   "col": [
+    "annual revenue",
+    "generate revenue"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "profitability",
+   "w": "profitability",
+   "ipa": "/ˌprɑːfɪtəˈbɪləti/",
+   "pos": "名",
+   "ja": "収益性",
+   "ex": "Automation improved the profitability of small lots.",
+   "exja": "自動化で小ロットの収益性が上がった。",
+   "col": [
+    "improve profitability",
+    "profitability analysis"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "forecast",
+   "w": "forecast",
+   "ipa": "/ˈfɔːrkæst/",
+   "pos": "名",
+   "ja": "予測",
+   "ex": "The demand forecast was too optimistic.",
+   "exja": "需要予測が楽観的すぎた。",
+   "col": [
+    "sales forecast",
+    "demand forecast"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "quarterly",
+   "w": "quarterly",
+   "ipa": "/ˈkwɔːrtərli/",
+   "pos": "形",
+   "ja": "四半期の",
+   "ex": "We present the results at the quarterly review.",
+   "exja": "四半期レビューで成果を発表する。",
+   "col": [
+    "quarterly report",
+    "quarterly results"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "comprehensive",
+   "w": "comprehensive",
+   "ipa": "/ˌkɑːmprɪˈhensɪv/",
+   "pos": "形",
+   "ja": "包括的な",
+   "ex": "We need a comprehensive plan, not a patch.",
+   "exja": "場当たりでなく包括的な計画が必要だ。",
+   "col": [
+    "comprehensive review",
+    "comprehensive plan"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "preliminary",
+   "w": "preliminary",
+   "ipa": "/prɪˈlɪmɪneri/",
+   "pos": "形",
+   "ja": "予備的な・暫定の",
+   "ex": "These are preliminary results from week one.",
+   "exja": "これは1週目の暫定結果だ。",
+   "col": [
+    "preliminary results",
+    "preliminary meeting"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "tentative",
+   "w": "tentative",
+   "ipa": "/ˈtentətɪv/",
+   "pos": "形",
+   "ja": "仮の・暫定的な",
+   "ex": "The kickoff is tentatively set for May 10.",
+   "exja": "キックオフは仮に5月10日としている。",
+   "col": [
+    "tentative schedule",
+    "tentative agreement"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "mandatory",
+   "w": "mandatory",
+   "ipa": "/ˈmændətɔːri/",
+   "pos": "形",
+   "ja": "必須の・義務の",
+   "ex": "Safety training is mandatory for all visitors.",
+   "exja": "安全教育は来訪者全員に必須だ。",
+   "col": [
+    "mandatory training",
+    "mandatory requirement"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "eligible",
+   "w": "eligible",
+   "ipa": "/ˈelɪdʒəbl/",
+   "pos": "形",
+   "ja": "資格がある・対象となる",
+   "ex": "This project is eligible for a government subsidy.",
+   "exja": "この案件は国の補助金の対象だ。",
+   "col": [
+    "eligible for",
+    "eligible candidates"
+   ],
+   "tag": "tc"
+  }
+ ]
+}

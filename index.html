@@ -1,219 +1,182 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ja">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta name="theme-color" content="#10141f">
-<title>keita-vocab — 毎日の英語</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#18202b" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#edf1f5" media="(prefers-color-scheme: light)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="朝の英語">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<title>朝の英語クエスト</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
 <style>
-  :root {
-    --bg: #f5f6f8; --card: #ffffff; --text: #1a2030; --sub: #5b6474;
-    --line: #e3e6ec; --accent: #2f6fed; --accent-soft: #e8f0fe;
-    --ok: #188554; --ok-soft: #e3f4ea; --warn: #b3560e; --warn-soft: #fdeedd;
-    --shadow: 0 1px 3px rgba(20,30,60,.08);
+:root {
+  --bg: #edf1f5; --panel: #ffffff; --panel2: #f5f8fb; --line: #cfd8e2; --ink: #17202a; --muted: #5a6876;
+  --go: #12855a; --go-glow: rgba(18,133,90,.18); --wait: #b26b00; --wait-glow: rgba(214,140,20,.22); --stop: #c63c30;
+  --lamp-off: #dfe5ec; --cond: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+  --jp: 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', 'Yu Gothic', system-ui, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #18202b; --panel: #212c3a; --panel2: #1c2633; --line: #33414f; --ink: #e9eef3; --muted: #93a1b0;
+    --go: #3ddc97; --go-glow: rgba(61,220,151,.28); --wait: #ffb547; --wait-glow: rgba(255,181,71,.3); --stop: #ff6b5e;
+    --lamp-off: #2a3644; color-scheme: dark;
   }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #10141f; --card: #1a2030; --text: #eef1f7; --sub: #98a2b6;
-      --line: #2a3245; --accent: #6d9bff; --accent-soft: #223252;
-      --ok: #4fc98b; --ok-soft: #17392a; --warn: #f0a45c; --warn-soft: #3d2a15;
-      --shadow: 0 1px 3px rgba(0,0,0,.35);
-    }
-  }
-  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
-  body { background: var(--bg); color: var(--text); font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif; line-height: 1.65; padding-bottom: 96px; }
-  .wrap { max-width: 640px; margin: 0 auto; padding: 16px; }
-  header { display: flex; justify-content: space-between; align-items: baseline; margin: 8px 0 4px; }
-  header h1 { font-size: 18px; letter-spacing: .02em; }
-  header .streak { font-size: 13px; color: var(--sub); }
-  .datebar { font-size: 13px; color: var(--sub); margin-bottom: 14px; }
-  .banner { border-radius: 12px; padding: 12px 14px; font-size: 14px; margin-bottom: 14px; box-shadow: var(--shadow); }
-  .banner.ok   { background: var(--ok-soft); color: var(--ok); }
-  .banner.warn { background: var(--warn-soft); color: var(--warn); }
-  .banner.info { background: var(--accent-soft); color: var(--accent); }
-  h2 { font-size: 14px; color: var(--sub); text-transform: uppercase; letter-spacing: .08em; margin: 22px 0 10px; }
-  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 16px; margin-bottom: 10px; box-shadow: var(--shadow); }
-  .word-head { display: flex; align-items: center; gap: 10px; cursor: pointer; }
-  .word-head .w { font-size: 20px; font-weight: 700; }
-  .word-head .ipa { font-size: 13px; color: var(--sub); }
-  .word-head .pos { font-size: 11px; background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 1px 8px; }
-  .word-head .chev { margin-left: auto; color: var(--sub); transition: transform .2s; }
-  .word-body { display: none; margin-top: 10px; font-size: 14px; border-top: 1px solid var(--line); padding-top: 10px; }
-  .card.open .word-body { display: block; }
-  .card.open .chev { transform: rotate(180deg); }
-  .word-body .ja { font-weight: 600; margin-bottom: 4px; }
-  .word-body .en { color: var(--sub); font-size: 13px; margin-bottom: 8px; }
-  .word-body ul { padding-left: 18px; margin: 4px 0 8px; }
-  .word-body li { margin-bottom: 4px; }
-  .coll { font-size: 12.5px; color: var(--sub); }
-  .learn-check { display: flex; align-items: center; gap: 8px; margin-top: 10px; font-size: 14px; color: var(--sub); user-select: none; cursor: pointer; }
-  .learn-check input { width: 20px; height: 20px; accent-color: var(--ok); }
-  .quiz .q { font-size: 14px; margin-bottom: 8px; }
-  .quiz .ans { display: none; font-size: 14px; background: var(--ok-soft); color: var(--ok); border-radius: 10px; padding: 8px 12px; }
-  .quiz.revealed .ans { display: block; }
-  .quiz button.reveal { border: 1px solid var(--line); background: none; color: var(--accent); border-radius: 999px; padding: 5px 14px; font-size: 13px; cursor: pointer; }
-  .quiz.revealed button.reveal { display: none; }
-  .practice { font-size: 14px; }
-  .note { font-size: 13px; color: var(--sub); background: var(--card); border: 1px dashed var(--line); border-radius: 12px; padding: 10px 14px; margin-bottom: 14px; }
-  .footerbar { position: fixed; left: 0; right: 0; bottom: 0; background: var(--card); border-top: 1px solid var(--line); padding: 12px 16px calc(12px + env(safe-area-inset-bottom)); }
-  .footerbar .inner { max-width: 640px; margin: 0 auto; display: flex; align-items: center; gap: 12px; }
-  .progress { flex: 1; font-size: 12.5px; color: var(--sub); }
-  .bar { height: 6px; border-radius: 3px; background: var(--line); overflow: hidden; margin-top: 4px; }
-  .bar i { display: block; height: 100%; width: 0; background: var(--accent); border-radius: 3px; transition: width .25s; }
-  a.done-btn { text-decoration: none; text-align: center; background: var(--accent); color: #fff; font-weight: 700; font-size: 15px; border-radius: 12px; padding: 12px 22px; opacity: .4; pointer-events: none; }
-  a.done-btn.ready { opacity: 1; pointer-events: auto; }
-  a.done-btn.finished { background: var(--ok); opacity: 1; pointer-events: none; }
-  .history { display: flex; flex-wrap: wrap; gap: 6px; }
-  .history .d { font-size: 12px; border: 1px solid var(--line); border-radius: 8px; padding: 3px 8px; color: var(--sub); }
-  .history .d.done { background: var(--ok-soft); color: var(--ok); border-color: transparent; }
-  .history .d.cur { background: var(--accent-soft); color: var(--accent); border-color: transparent; }
-  .loading { text-align: center; color: var(--sub); padding: 48px 0; font-size: 14px; }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.6 var(--jp); padding: env(safe-area-inset-top) 0 calc(64px + env(safe-area-inset-bottom)); }
+button { font: inherit; color: inherit; }
+button:focus-visible, a:focus-visible { outline: 3px solid var(--wait); outline-offset: 2px; }
+.wrap { max-width: 520px; margin: 0 auto; padding: 0 16px; }
+.num, .en { font-family: var(--cond); letter-spacing: .01em; }
+
+/* header */
+.top { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; align-items: end; padding: 16px 0 12px; }
+.lv { font-family: var(--cond); font-size: 30px; font-weight: 700; line-height: 1; }
+.lv small { font-family: var(--jp); font-size: 13px; font-weight: 600; color: var(--muted); margin-left: 6px; }
+.chips { display: flex; gap: 10px; font-weight: 600; font-size: 14px; }
+.chips span { white-space: nowrap; }
+.xpbar { grid-column: 1 / -1; height: 6px; background: var(--lamp-off); border-radius: 3px; overflow: hidden; }
+.xpbar i { display: block; height: 100%; background: var(--go); border-radius: 3px; transition: width .6s ease; }
+.xpmeta { grid-column: 1 / -1; font-size: 12px; color: var(--muted); }
+
+/* andon tower: the one memorable element */
+.board { display: grid; grid-template-columns: 112px 1fr; gap: 18px; align-items: stretch; margin: 8px 0 18px; }
+.tower { background: var(--panel); border: 1px solid var(--line); border-radius: 14px 14px 6px 6px; padding: 10px; display: flex; flex-direction: column; gap: 8px; position: relative; }
+.tower::after { content: ''; position: absolute; left: 50%; bottom: -14px; width: 10px; height: 14px; margin-left: -5px; background: var(--line); }
+.lamp { flex: 1; min-height: 64px; border-radius: 10px; background: var(--lamp-off); display: grid; place-items: center; font-size: 26px; position: relative; transition: background .4s, box-shadow .4s; }
+.lamp b { position: absolute; bottom: 4px; font-size: 10px; font-weight: 700; color: var(--muted); }
+.lamp.done { background: var(--go); box-shadow: 0 0 24px var(--go-glow); }
+.lamp.done b { color: #fff; }
+.lamp.next { background: var(--wait); box-shadow: 0 0 24px var(--wait-glow); }
+.lamp.next b { color: #241500; }
+@media (prefers-reduced-motion: no-preference) { .lamp.next { animation: pulse 1.8s ease-in-out infinite; } }
+@keyframes pulse { 50% { box-shadow: 0 0 6px var(--wait-glow); } }
+.plan { display: flex; flex-direction: column; justify-content: space-between; gap: 10px; }
+.plan h1 { font-size: 21px; line-height: 1.35; margin: 0; font-weight: 700; }
+.plan ul { list-style: none; margin: 0; padding: 0; font-size: 14px; }
+.plan li span:first-child { white-space: nowrap; }
+.plan li { display: flex; justify-content: space-between; gap: 8px; padding: 6px 0; border-bottom: 1px solid var(--line); }
+.plan li span:last-child { color: var(--muted); }
+.plan li.ok span:last-child { color: var(--go); font-weight: 700; }
+.go { display: block; width: 100%; border: 0; border-radius: 12px; padding: 15px; font-size: 17px; font-weight: 700; background: var(--ink); color: var(--bg); cursor: pointer; }
+.go:disabled { opacity: .4; }
+.ghost { background: transparent; border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; font-weight: 600; cursor: pointer; }
+.note { font-size: 13px; color: var(--muted); }
+
+/* sections */
+section.card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 16px; margin-bottom: 14px; }
+h2 { font-size: 16px; margin: 0 0 10px; }
+
+/* play screen */
+.play { position: fixed; inset: 0; background: var(--bg); z-index: 20; overflow-y: auto; padding: env(safe-area-inset-top) 0 env(safe-area-inset-bottom); }
+.playbar { display: flex; align-items: center; gap: 12px; padding: 12px 0; }
+.playbar .x { border: 0; background: none; font-size: 22px; padding: 4px 8px; cursor: pointer; }
+.timer { flex: 1; height: 8px; background: var(--lamp-off); border-radius: 4px; overflow: hidden; }
+.timer i { display: block; height: 100%; background: var(--wait); }
+.timer.low i { background: var(--stop); }
+.score { font-family: var(--cond); font-size: 22px; font-weight: 700; min-width: 64px; text-align: right; }
+.stagehead { font-size: 13px; color: var(--muted); font-weight: 600; margin: 4px 0 8px; }
+.word { font-family: var(--cond); font-weight: 700; font-size: 52px; line-height: 1.05; margin: 8px 0 2px; word-break: break-word; }
+.ipa { color: var(--muted); font-size: 15px; }
+.ja { font-size: 20px; font-weight: 700; margin: 10px 0; }
+.ex { font-size: 15px; margin: 12px 0 2px; }
+.exja { font-size: 13px; color: var(--muted); }
+.cols { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.cols span { font-family: var(--cond); font-size: 16px; border: 1px solid var(--line); border-radius: 6px; padding: 2px 8px; }
+.speak { border: 1px solid var(--line); background: var(--panel); border-radius: 999px; width: 44px; height: 44px; font-size: 20px; cursor: pointer; vertical-align: middle; }
+.opts { display: grid; gap: 10px; margin-top: 18px; }
+.opt { text-align: left; background: var(--panel); border: 1.5px solid var(--line); border-radius: 12px; padding: 14px 16px; font-size: 17px; cursor: pointer; min-height: 54px; }
+.opt.en { font-family: var(--cond); font-size: 22px; font-weight: 600; }
+.opt.right { border-color: var(--go); background: var(--go-glow); }
+.opt.wrong { border-color: var(--stop); }
+.q-prompt { font-size: 13px; color: var(--muted); font-weight: 600; }
+.combo { font-family: var(--cond); font-size: 18px; color: var(--wait); font-weight: 700; height: 24px; }
+.boss { display: flex; align-items: center; gap: 10px; margin: 6px 0; font-weight: 700; }
+.boss .hp { flex: 1; height: 12px; border-radius: 6px; background: var(--lamp-off); overflow: hidden; }
+.boss .hp i { display: block; height: 100%; background: var(--stop); transition: width .3s; }
+.mic { display: block; margin: 22px auto 8px; width: 96px; height: 96px; border-radius: 50%; border: 0; background: var(--ink); color: var(--bg); font-size: 38px; cursor: pointer; }
+.mic.on { background: var(--stop); color: #fff; }
+.heard { text-align: center; min-height: 48px; font-family: var(--cond); font-size: 22px; }
+.verdict { text-align: center; font-weight: 700; min-height: 26px; }
+.verdict.ok { color: var(--go); } .verdict.ng { color: var(--stop); }
+.row { display: flex; gap: 10px; margin-top: 14px; }
+.row > * { flex: 1; }
+.steps { list-style: none; padding: 0; margin: 12px 0; }
+.steps li { margin-bottom: 8px; }
+.steps button { width: 100%; text-align: left; display: flex; gap: 12px; align-items: center; background: var(--panel); border: 1.5px solid var(--line); border-radius: 12px; padding: 13px 14px; cursor: pointer; font-size: 16px; }
+.steps button .n { font-family: var(--cond); font-weight: 700; font-size: 20px; width: 22px; color: var(--muted); }
+.steps button[aria-pressed="true"] { border-color: var(--go); background: var(--go-glow); }
+.steps button[aria-pressed="true"] .n { color: var(--go); }
+.clip { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+.clip .num { font-size: 34px; font-weight: 700; }
+.hint { font-size: 18px; font-weight: 700; margin: 6px 0; }
+a.yt { display: block; text-align: center; text-decoration: none; background: var(--stop); color: #fff; font-weight: 700; padding: 13px; border-radius: 12px; margin-top: 10px; }
+
+/* result */
+.result { text-align: center; padding-top: 12vh; }
+.result .big { font-family: var(--cond); font-size: 72px; font-weight: 700; line-height: 1; color: var(--go); }
+.result p { margin: 6px 0; }
+.toast { position: fixed; left: 50%; bottom: calc(80px + env(safe-area-inset-bottom)); transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 10px 16px; border-radius: 10px; font-weight: 700; z-index: 40; max-width: 90vw; }
+
+/* zukan */
+.filters { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 6px; margin-bottom: 8px; }
+.filters button { flex: none; border: 1px solid var(--line); background: var(--panel); border-radius: 999px; padding: 6px 12px; font-size: 13px; cursor: pointer; }
+.filters button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 8px; }
+.tile { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 8px; text-align: left; cursor: pointer; min-height: 70px; }
+.tile .en { display: block; font-size: 19px; font-weight: 700; line-height: 1.1; overflow-wrap: break-word; hyphens: auto; }
+.tile .en.long { font-size: 16px; }
+.tile .stars { font-size: 11px; color: var(--wait); letter-spacing: 1px; }
+.tile.locked { color: var(--muted); background: var(--panel2); cursor: default; }
+.tile.locked .en { letter-spacing: .2em; }
+.tile.mastered { border-color: var(--go); }
+
+/* records */
+.heat { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; }
+.heat div { aspect-ratio: 1; border-radius: 4px; background: var(--lamp-off); font-size: 10px; display: grid; place-items: center; color: var(--muted); }
+.heat .p { background: var(--wait-glow); }
+.heat .c { background: var(--go); color: #fff; }
+.heat .f { background: transparent; border: 1px dashed var(--muted); }
+.heat .t { outline: 2px solid var(--ink); }
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; text-align: center; }
+.stats .num { font-size: 30px; font-weight: 700; line-height: 1.1; display: block; }
+.stats span:last-child { font-size: 12px; color: var(--muted); }
+.badges { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.badge { border: 1px solid var(--line); border-radius: 10px; padding: 10px; font-size: 13px; }
+.badge b { display: block; font-size: 14px; }
+.badge.off { opacity: .45; }
+
+/* nav */
+nav.tabs { position: fixed; left: 0; right: 0; bottom: 0; background: var(--panel); border-top: 1px solid var(--line); display: grid; grid-template-columns: repeat(3, 1fr); padding-bottom: env(safe-area-inset-bottom); z-index: 10; }
+nav.tabs button { border: 0; background: none; padding: 10px 0 12px; font-size: 12px; font-weight: 600; color: var(--muted); cursor: pointer; }
+nav.tabs button span { display: block; font-size: 20px; line-height: 1.2; }
+nav.tabs button[aria-current="page"] { color: var(--ink); }
+
+/* sheet */
+dialog { border: 0; border-radius: 16px 16px 0 0; width: 100%; max-width: 520px; margin: auto auto 0; padding: 20px 16px calc(20px + env(safe-area-inset-bottom)); background: var(--panel); color: var(--ink); }
+dialog::backdrop { background: rgba(0,0,0,.45); }
+textarea { width: 100%; min-height: 90px; font: 12px/1.4 ui-monospace, monospace; background: var(--panel2); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 8px; }
+.err { padding: 40px 0; }
 </style>
 </head>
 <body>
-<div class="wrap" id="app"><div class="loading">読み込み中…</div></div>
-<div class="footerbar" id="footer" style="display:none">
-  <div class="inner">
-    <div class="progress"><span id="ptext">0 / 0</span><div class="bar"><i id="pbar"></i></div></div>
-    <a class="done-btn" id="doneBtn" target="_blank" rel="noopener">完了 ✓</a>
-  </div>
-</div>
-<script>
-const REPO = 'miuraSatoshimyu/keita-vocab';
-const bust = () => '?t=' + Date.now();
-const $ = (h) => { const t = document.createElement('template'); t.innerHTML = h.trim(); return t.content.firstChild; };
-const esc = (s) => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-
-async function j(path) { const r = await fetch(path + bust()); if (!r.ok) throw new Error(path); return r.json(); }
-
-function streakOf(doneDates) {
-  const set = new Set(doneDates);
-  if (!doneDates.length) return 0;
-  let n = 0;
-  let d = new Date();
-  for (;;) {
-    const key = d.toLocaleDateString('sv-SE', { timeZone: 'Asia/Tokyo' });
-    if (set.has(key)) { n++; d.setDate(d.getDate() - 1); }
-    else if (n === 0 && key === new Date().toLocaleDateString('sv-SE', { timeZone: 'Asia/Tokyo' })) { d.setDate(d.getDate() - 1); n = -0; if (!set.has(d.toLocaleDateString('sv-SE', { timeZone: 'Asia/Tokyo' }))) break; }
-    else break;
-    if (n > 3650) break;
-  }
-  return n;
-}
-
-(async () => {
-  const app = document.getElementById('app');
-  let idx, progress;
-  try {
-    [idx, progress] = await Promise.all([j('data/index.json'), j('progress.json')]);
-  } catch (e) {
-    app.innerHTML = '<div class="loading">データを読み込めませんでした。通信環境を確認してリロードしてください。</div>';
-    return;
-  }
-  const doneMap = progress.done || {};
-  const lessons = (idx.lessons || []).slice().sort();
-  const pending = lessons.filter(d => !doneMap[d]);
-  const current = pending.length ? pending[0] : lessons[lessons.length - 1];
-  const isDone = !!doneMap[current];
-  let lesson;
-  try { lesson = await j('data/lessons/' + current + '.json'); }
-  catch (e) { app.innerHTML = '<div class="loading">レッスンが見つかりません。</div>'; return; }
-
-  const today = new Date().toLocaleDateString('sv-SE', { timeZone: 'Asia/Tokyo' });
-  const streak = streakOf(Object.keys(doneMap));
-  const typeLabel = { new: '新語 + 復習', review: '週次復習', practice: '実践課題' }[lesson.day_type] || 'レッスン';
-
-  app.innerHTML = '';
-  app.append($(`<header><h1>🇬🇧 keita-vocab</h1><div class="streak">🔥 連続 ${streak} 日 ・ 完了 ${Object.keys(doneMap).length} 回</div></header>`));
-  app.append($(`<div class="datebar">${esc(lesson.date)} (${esc(lesson.weekday || '')}) — ${esc(typeLabel)}</div>`));
-
-  if (isDone) {
-    app.append($(`<div class="banner ok">✅ このレッスンは完了済みです。明日の朝6:30に次のレッスンが届きます。</div>`));
-  } else if (current < today) {
-    app.append($(`<div class="banner warn">⏳ ${esc(current)} のレッスンが未完了です。これを終えないと次の日に進めません!</div>`));
-  } else {
-    app.append($(`<div class="banner info">📚 今日のレッスンです。すべてのカードをチェックすると「完了」が押せます。</div>`));
-  }
-  if (lesson.status_note) app.append($(`<div class="note">${esc(lesson.status_note)}</div>`));
-
-  const checkables = [];
-  const refresh = () => {
-    const done = checkables.filter(c => c()).length;
-    document.getElementById('ptext').textContent = `チェック ${done} / ${checkables.length}`;
-    document.getElementById('pbar').style.width = (checkables.length ? (100 * done / checkables.length) : 0) + '%';
-    const btn = document.getElementById('doneBtn');
-    if (!isDone) btn.classList.toggle('ready', done === checkables.length && checkables.length > 0);
-  };
-
-  if (lesson.new_words && lesson.new_words.length) {
-    app.append($('<h2>今日の新語</h2>'));
-    lesson.new_words.forEach(w => {
-      const card = $(`<div class="card">
-        <div class="word-head"><span class="w">${esc(w.word)}</span><span class="ipa">${esc(w.ipa || '')}</span><span class="pos">${esc(w.pos || '')}</span><span class="chev">▾</span></div>
-        <div class="word-body">
-          <div class="ja">${esc(w.meaning_ja || '')}</div>
-          <div class="en">${esc(w.meaning_en || '')}</div>
-          <ul>${(w.examples || []).map(e => `<li>${esc(e)}</li>`).join('')}</ul>
-          <div class="coll">💬 ${(w.collocations || []).map(esc).join(' / ')}</div>
-          <label class="learn-check"><input type="checkbox">意味を思い出せた / 覚えた</label>
-        </div>
-      </div>`);
-      card.querySelector('.word-head').addEventListener('click', () => card.classList.toggle('open'));
-      const cb = card.querySelector('input');
-      cb.addEventListener('change', refresh);
-      checkables.push(() => cb.checked);
-      app.append(card);
-    });
-  }
-
-  if (lesson.review_quiz && lesson.review_quiz.length) {
-    app.append($('<h2>復習クイズ(まず頭の中で答えてから開く)</h2>'));
-    lesson.review_quiz.forEach((q, i) => {
-      const el = $(`<div class="card quiz">
-        <div class="q">Q${i + 1}. ${esc(q.q)}</div>
-        <button class="reveal">答えを見る</button>
-        <div class="ans">${esc(q.answer)}</div>
-      </div>`);
-      const btn = el.querySelector('.reveal');
-      btn.addEventListener('click', () => { el.classList.add('revealed'); refresh(); });
-      checkables.push(() => el.classList.contains('revealed'));
-      app.append(el);
-    });
-  }
-
-  if (lesson.practice && lesson.practice.length) {
-    app.append($('<h2>実践</h2>'));
-    lesson.practice.forEach(p => {
-      const el = $(`<div class="card practice">✍️ ${esc(p)}<label class="learn-check"><input type="checkbox">やってみた</label></div>`);
-      const cb = el.querySelector('input');
-      cb.addEventListener('change', refresh);
-      checkables.push(() => cb.checked);
-      app.append(el);
-    });
-  }
-
-  app.append($('<h2>これまで</h2>'));
-  const hist = $('<div class="history"></div>');
-  lessons.slice(-30).forEach(d => {
-    hist.append($(`<span class="d ${doneMap[d] ? 'done' : (d === current ? 'cur' : '')}">${d.slice(5)}${doneMap[d] ? ' ✓' : ''}</span>`));
-  });
-  app.append(hist);
-
-  const footer = document.getElementById('footer');
-  footer.style.display = '';
-  const btn = document.getElementById('doneBtn');
-  if (isDone) {
-    btn.textContent = '完了済み ✓';
-    btn.classList.add('finished');
-    document.getElementById('ptext').textContent = 'おつかれさまでした';
-    document.getElementById('pbar').style.width = '100%';
-  } else {
-    const title = encodeURIComponent('done: ' + current);
-    const body = encodeURIComponent('keita-vocab アプリからの完了報告です。このIssueを作成(Submit)すると進捗が記録され、自動でクローズされます。');
-    btn.href = `https://github.com/${REPO}/issues/new?title=${title}&body=${body}`;
-    refresh();
-  }
-})();
-</script>
+<main class="wrap" id="app"><p class="note" style="padding-top:40vh;text-align:center">読み込み中…</p></main>
+<nav class="tabs" id="tabs" hidden>
+  <button data-tab="home" aria-current="page"><span>🚦</span>クエスト</button>
+  <button data-tab="zukan"><span>📖</span>図鑑</button>
+  <button data-tab="log"><span>📈</span>記録</button>
+</nav>
+<div id="play" class="play" hidden></div>
+<dialog id="sheet"></dialog>
+<script src="engine.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
