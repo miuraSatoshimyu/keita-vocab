@@ -1912,6 +1912,356 @@
     "eligible candidates"
    ],
    "tag": "tc"
+  },
+  {
+   "id": "expedite",
+   "w": "expedite",
+   "ipa": "/ˈekspədaɪt/",
+   "pos": "動",
+   "ja": "迅速に進める・早める",
+   "ex": "Can you expedite the gripper order for the pilot cell?",
+   "exja": "パイロットセル用のグリッパー発注を早めてもらえますか。",
+   "col": [
+    "expedite delivery",
+    "expedite the process"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "inquiry",
+   "w": "inquiry",
+   "ipa": "/ˈɪŋkwəri/",
+   "pos": "名",
+   "ja": "問い合わせ・照会",
+   "ex": "We received an inquiry from the plant about cobot safety.",
+   "exja": "工場から協働ロボットの安全性について問い合わせがあった。",
+   "col": [
+    "customer inquiry",
+    "respond to an inquiry"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "itinerary",
+   "w": "itinerary",
+   "ipa": "/aɪˈtɪnəreri/",
+   "pos": "名",
+   "ja": "旅程・行程表",
+   "ex": "The itinerary includes a visit to the robot maker's factory.",
+   "exja": "行程にはロボットメーカーの工場見学が含まれている。",
+   "col": [
+    "travel itinerary",
+    "a detailed itinerary"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "discrepancy",
+   "w": "discrepancy",
+   "ipa": "/dɪˈskrepənsi/",
+   "pos": "名",
+   "ja": "食い違い・不一致",
+   "ex": "There is a discrepancy between the invoice and the quote.",
+   "exja": "請求書と見積書の間に食い違いがある。",
+   "col": [
+    "a discrepancy between",
+    "resolve a discrepancy"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "verify",
+   "w": "verify",
+   "ipa": "/ˈverɪfaɪ/",
+   "pos": "動",
+   "ja": "検証する・確かめる",
+   "ex": "Please verify the sensor readings before the line restarts.",
+   "exja": "ライン再開前にセンサーの値を確認してください。",
+   "col": [
+    "verify the data",
+    "verify accuracy"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "outstanding",
+   "w": "outstanding",
+   "ipa": "/aʊtˈstændɪŋ/",
+   "pos": "形",
+   "ja": "未処理の・未払いの",
+   "ex": "We still have three outstanding issues on the welding cell.",
+   "exja": "溶接セルにはまだ未解決の課題が3つある。",
+   "col": [
+    "outstanding issues",
+    "outstanding balance"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "prospective",
+   "w": "prospective",
+   "ipa": "/prəˈspektɪv/",
+   "pos": "形",
+   "ja": "見込みのある・将来の",
+   "ex": "We met two prospective vendors for the vision system.",
+   "exja": "画像システムの候補ベンダー2社と面談した。",
+   "col": [
+    "prospective client",
+    "prospective vendor"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "commence",
+   "w": "commence",
+   "ipa": "/kəˈmens/",
+   "pos": "動",
+   "ja": "開始する",
+   "ex": "Installation will commence after the safety review.",
+   "exja": "安全審査の後に据え付けを開始する。",
+   "col": [
+    "commence operations",
+    "commence work"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "oversee",
+   "w": "oversee",
+   "ipa": "/ˌoʊvərˈsiː/",
+   "pos": "動",
+   "ja": "監督する・統括する",
+   "ex": "I oversee robotics projects across all three plants.",
+   "exja": "3工場すべてのロボティクス案件を統括している。",
+   "col": [
+    "oversee a project",
+    "oversee operations"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "buy-in",
+   "w": "buy-in",
+   "ipa": "/ˈbaɪ ɪn/",
+   "pos": "名",
+   "ja": "(関係者の)賛同・納得",
+   "ex": "We need buy-in from the line leaders first.",
+   "exja": "まずライン長たちの納得を得る必要がある。",
+   "col": [
+    "get buy-in",
+    "management buy-in"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "cross-functional",
+   "w": "cross-functional",
+   "ipa": "/ˌkrɔːs ˈfʌŋkʃənl/",
+   "pos": "形",
+   "ja": "部門横断の",
+   "ex": "A cross-functional team reviews every automation proposal.",
+   "exja": "部門横断チームがすべての自動化提案を審査する。",
+   "col": [
+    "cross-functional team",
+    "cross-functional collaboration"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "discretion",
+   "w": "discretion",
+   "ipa": "/dɪˈskreʃn/",
+   "pos": "名",
+   "ja": "裁量・判断",
+   "ex": "Team leads can use their discretion on small fixes.",
+   "exja": "小さな改善はチームリーダーの裁量で進めてよい。",
+   "col": [
+    "at your discretion",
+    "use discretion"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "interim",
+   "w": "interim",
+   "ipa": "/ˈɪntərɪm/",
+   "pos": "形",
+   "ja": "暫定の・中間の",
+   "ex": "I'll share an interim report with the executives next week.",
+   "exja": "来週、経営層に中間報告を共有する。",
+   "col": [
+    "interim report",
+    "interim solution"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "traceability",
+   "w": "traceability",
+   "ipa": "/ˌtreɪsəˈbɪləti/",
+   "pos": "名",
+   "ja": "トレーサビリティ・追跡可能性",
+   "ex": "Barcode scanning improved traceability for every part.",
+   "exja": "バーコード読み取りで全部品の追跡性が向上した。",
+   "col": [
+    "full traceability",
+    "product traceability"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "digital-twin",
+   "w": "digital twin",
+   "ipa": "/ˌdɪdʒɪtl ˈtwɪn/",
+   "pos": "名",
+   "ja": "デジタルツイン",
+   "ex": "We tested the new layout in a digital twin first.",
+   "exja": "新レイアウトをまずデジタルツインで検証した。",
+   "col": [
+    "build a digital twin",
+    "digital twin simulation"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "interoperability",
+   "w": "interoperability",
+   "ipa": "/ˌɪntərˌɑːpərəˈbɪləti/",
+   "pos": "名",
+   "ja": "相互運用性",
+   "ex": "Interoperability between old PLCs and new robots is critical.",
+   "exja": "旧PLCと新ロボットの相互運用性が極めて重要だ。",
+   "col": [
+    "ensure interoperability",
+    "system interoperability"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "lead-time",
+   "w": "lead time",
+   "ipa": "/ˈliːd taɪm/",
+   "pos": "名",
+   "ja": "リードタイム",
+   "ex": "In-house development cut our lead time by half.",
+   "exja": "内製化でリードタイムが半分になった。",
+   "col": [
+    "reduce lead time",
+    "production lead time"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "gripper",
+   "w": "gripper",
+   "ipa": "/ˈɡrɪpər/",
+   "pos": "名",
+   "ja": "グリッパー・把持装置",
+   "ex": "We redesigned the gripper to handle oily parts.",
+   "exja": "油の付いた部品をつかめるようグリッパーを再設計した。",
+   "col": [
+    "vacuum gripper",
+    "gripper design"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "palletize",
+   "w": "palletize",
+   "ipa": "/ˈpælətaɪz/",
+   "pos": "動",
+   "ja": "パレットに積む",
+   "ex": "The cobot palletizes boxes at the end of the line.",
+   "exja": "協働ロボットがライン末端で箱をパレットに積む。",
+   "col": [
+    "palletize boxes",
+    "automatically palletize"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "repeatability",
+   "w": "repeatability",
+   "ipa": "/rɪˌpiːtəˈbɪləti/",
+   "pos": "名",
+   "ja": "繰り返し精度",
+   "ex": "This arm has a repeatability of plus or minus 0.02 millimeters.",
+   "exja": "このアームの繰り返し精度はプラスマイナス0.02ミリだ。",
+   "col": [
+    "high repeatability",
+    "positional repeatability"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "outlier",
+   "w": "outlier",
+   "ipa": "/ˈaʊtlaɪər/",
+   "pos": "名",
+   "ja": "外れ値",
+   "ex": "The model flagged one outlier in last night's torque data.",
+   "exja": "モデルが昨夜のトルクデータから外れ値を1件検出した。",
+   "col": [
+    "detect outliers",
+    "remove outliers"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "annotate",
+   "w": "annotate",
+   "ipa": "/ˈænəteɪt/",
+   "pos": "動",
+   "ja": "注釈を付ける・ラベル付けする",
+   "ex": "Operators annotated defect images to train the model.",
+   "exja": "作業者が不良画像にラベルを付けてモデルを学習させた。",
+   "col": [
+    "annotate images",
+    "annotate data"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "generalize",
+   "w": "generalize",
+   "ipa": "/ˈdʒenrəlaɪz/",
+   "pos": "動",
+   "ja": "汎化する・一般化する",
+   "ex": "Will the model generalize to parts from another plant?",
+   "exja": "そのモデルは別工場の部品にも汎化するだろうか。",
+   "col": [
+    "generalize well",
+    "generalize to new data"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "rapport",
+   "w": "rapport",
+   "ipa": "/ræˈpɔːr/",
+   "pos": "名",
+   "ja": "信頼関係",
+   "ex": "Regular 1on1s helped me build rapport with new members.",
+   "exja": "定期的な1on1で新メンバーと信頼関係を築けた。",
+   "col": [
+    "build rapport",
+    "establish rapport"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "acknowledge",
+   "w": "acknowledge",
+   "ipa": "/əkˈnɑːlɪdʒ/",
+   "pos": "動",
+   "ja": "認める・労をねぎらう",
+   "ex": "Start the 1on1 by acknowledging what went well.",
+   "exja": "1on1はうまくいった点を認めることから始めよう。",
+   "col": [
+    "acknowledge effort",
+    "acknowledge a mistake"
+   ],
+   "tag": "co"
   }
  ]
 }

@@ -136,3 +136,28 @@ preliminary|/prɪˈlɪmɪneri/|形|予備的な・暫定の|These are preliminar
 tentative|/ˈtentətɪv/|形|仮の・暫定的な|The kickoff is tentatively set for May 10.|キックオフは仮に5月10日としている。|tentative schedule;tentative agreement|tc
 mandatory|/ˈmændətɔːri/|形|必須の・義務の|Safety training is mandatory for all visitors.|安全教育は来訪者全員に必須だ。|mandatory training;mandatory requirement|tc
 eligible|/ˈelɪdʒəbl/|形|資格がある・対象となる|This project is eligible for a government subsidy.|この案件は国の補助金の対象だ。|eligible for;eligible candidates|tc
+expedite|/ˈekspədaɪt/|動|迅速に進める・早める|Can you expedite the gripper order for the pilot cell?|パイロットセル用のグリッパー発注を早めてもらえますか。|expedite delivery;expedite the process|tc
+inquiry|/ˈɪŋkwəri/|名|問い合わせ・照会|We received an inquiry from the plant about cobot safety.|工場から協働ロボットの安全性について問い合わせがあった。|customer inquiry;respond to an inquiry|tc
+itinerary|/aɪˈtɪnəreri/|名|旅程・行程表|The itinerary includes a visit to the robot maker's factory.|行程にはロボットメーカーの工場見学が含まれている。|travel itinerary;a detailed itinerary|tc
+discrepancy|/dɪˈskrepənsi/|名|食い違い・不一致|There is a discrepancy between the invoice and the quote.|請求書と見積書の間に食い違いがある。|a discrepancy between;resolve a discrepancy|tc
+verify|/ˈverɪfaɪ/|動|検証する・確かめる|Please verify the sensor readings before the line restarts.|ライン再開前にセンサーの値を確認してください。|verify the data;verify accuracy|tc
+outstanding|/aʊtˈstændɪŋ/|形|未処理の・未払いの|We still have three outstanding issues on the welding cell.|溶接セルにはまだ未解決の課題が3つある。|outstanding issues;outstanding balance|tc
+prospective|/prəˈspektɪv/|形|見込みのある・将来の|We met two prospective vendors for the vision system.|画像システムの候補ベンダー2社と面談した。|prospective client;prospective vendor|tc
+commence|/kəˈmens/|動|開始する|Installation will commence after the safety review.|安全審査の後に据え付けを開始する。|commence operations;commence work|tc
+oversee|/ˌoʊvərˈsiː/|動|監督する・統括する|I oversee robotics projects across all three plants.|3工場すべてのロボティクス案件を統括している。|oversee a project;oversee operations|mg
+buy-in|/ˈbaɪ ɪn/|名|(関係者の)賛同・納得|We need buy-in from the line leaders first.|まずライン長たちの納得を得る必要がある。|get buy-in;management buy-in|mg
+cross-functional|/ˌkrɔːs ˈfʌŋkʃənl/|形|部門横断の|A cross-functional team reviews every automation proposal.|部門横断チームがすべての自動化提案を審査する。|cross-functional team;cross-functional collaboration|mg
+discretion|/dɪˈskreʃn/|名|裁量・判断|Team leads can use their discretion on small fixes.|小さな改善はチームリーダーの裁量で進めてよい。|at your discretion;use discretion|mg
+interim|/ˈɪntərɪm/|形|暫定の・中間の|I'll share an interim report with the executives next week.|来週、経営層に中間報告を共有する。|interim report;interim solution|mg
+traceability|/ˌtreɪsəˈbɪləti/|名|トレーサビリティ・追跡可能性|Barcode scanning improved traceability for every part.|バーコード読み取りで全部品の追跡性が向上した。|full traceability;product traceability|dx
+digital twin|/ˌdɪdʒɪtl ˈtwɪn/|名|デジタルツイン|We tested the new layout in a digital twin first.|新レイアウトをまずデジタルツインで検証した。|build a digital twin;digital twin simulation|dx
+interoperability|/ˌɪntərˌɑːpərəˈbɪləti/|名|相互運用性|Interoperability between old PLCs and new robots is critical.|旧PLCと新ロボットの相互運用性が極めて重要だ。|ensure interoperability;system interoperability|dx
+lead time|/ˈliːd taɪm/|名|リードタイム|In-house development cut our lead time by half.|内製化でリードタイムが半分になった。|reduce lead time;production lead time|dx
+gripper|/ˈɡrɪpər/|名|グリッパー・把持装置|We redesigned the gripper to handle oily parts.|油の付いた部品をつかめるようグリッパーを再設計した。|vacuum gripper;gripper design|rb
+palletize|/ˈpælətaɪz/|動|パレットに積む|The cobot palletizes boxes at the end of the line.|協働ロボットがライン末端で箱をパレットに積む。|palletize boxes;automatically palletize|rb
+repeatability|/rɪˌpiːtəˈbɪləti/|名|繰り返し精度|This arm has a repeatability of plus or minus 0.02 millimeters.|このアームの繰り返し精度はプラスマイナス0.02ミリだ。|high repeatability;positional repeatability|rb
+outlier|/ˈaʊtlaɪər/|名|外れ値|The model flagged one outlier in last night's torque data.|モデルが昨夜のトルクデータから外れ値を1件検出した。|detect outliers;remove outliers|ai
+annotate|/ˈænəteɪt/|動|注釈を付ける・ラベル付けする|Operators annotated defect images to train the model.|作業者が不良画像にラベルを付けてモデルを学習させた。|annotate images;annotate data|ai
+generalize|/ˈdʒenrəlaɪz/|動|汎化する・一般化する|Will the model generalize to parts from another plant?|そのモデルは別工場の部品にも汎化するだろうか。|generalize well;generalize to new data|ai
+rapport|/ræˈpɔːr/|名|信頼関係|Regular 1on1s helped me build rapport with new members.|定期的な1on1で新メンバーと信頼関係を築けた。|build rapport;establish rapport|co
+acknowledge|/əkˈnɑːlɪdʒ/|動|認める・労をねぎらう|Start the 1on1 by acknowledging what went well.|1on1はうまくいった点を認めることから始めよう。|acknowledge effort;acknowledge a mistake|co
