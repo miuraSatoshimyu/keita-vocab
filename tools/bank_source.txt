@@ -161,3 +161,28 @@ annotate|/ˈænəteɪt/|動|注釈を付ける・ラベル付けする|Operators
 generalize|/ˈdʒenrəlaɪz/|動|汎化する・一般化する|Will the model generalize to parts from another plant?|そのモデルは別工場の部品にも汎化するだろうか。|generalize well;generalize to new data|ai
 rapport|/ræˈpɔːr/|名|信頼関係|Regular 1on1s helped me build rapport with new members.|定期的な1on1で新メンバーと信頼関係を築けた。|build rapport;establish rapport|co
 acknowledge|/əkˈnɑːlɪdʒ/|動|認める・労をねぎらう|Start the 1on1 by acknowledging what went well.|1on1はうまくいった点を認めることから始めよう。|acknowledge effort;acknowledge a mistake|co
+accommodate|/əˈkɑːmədeɪt/|動|対応する・収容する|The new cell can accommodate two more robots.|新しいセルにはロボットをあと2台置ける。|accommodate a request;accommodate changes|tc
+subsequent|/ˈsʌbsɪkwənt/|形|その後の・次の|Subsequent tests showed no defects on the line.|その後の試験ではラインに不良は出なかった。|subsequent meetings;in subsequent years|tc
+adjacent|/əˈdʒeɪsnt/|形|隣接した|The robot cell is adjacent to the packing area.|ロボットセルは梱包エリアの隣にある。|adjacent to the line;an adjacent room|tc
+relocate|/ˌriːˈloʊkeɪt/|動|移転する・配置換えする|We will relocate the press machine next month.|来月プレス機を移設する。|relocate equipment;relocate the office|tc
+audit|/ˈɔːdɪt/|名|監査|The safety audit is scheduled for next Tuesday.|安全監査は来週火曜に予定されている。|safety audit;conduct an audit|tc
+substantial|/səbˈstænʃl/|形|相当な・大幅な|Automation brought substantial savings in labor costs.|自動化で人件費を大幅に削減できた。|substantial savings;a substantial increase|tc
+expenditure|/ɪkˈspendɪtʃər/|名|支出・経費|Capital expenditure for robots needs board approval.|ロボットの設備投資には取締役会の承認が要る。|capital expenditure;reduce expenditure|tc
+renewal|/rɪˈnuːəl/|名|更新|The software license is due for renewal in March.|ソフトのライセンスは3月に更新期限を迎える。|contract renewal;license renewal|tc
+headcount|/ˈhedkaʊnt/|名|人員数|We automated the task without increasing headcount.|人員を増やさずにその作業を自動化した。|reduce headcount;headcount plan|mg
+succession|/səkˈseʃn/|名|後継・継承|Succession planning keeps our robot know-how in-house.|後継者計画でロボットのノウハウを社内に残す。|succession planning;line of succession|mg
+cascade|/kæˈskeɪd/|動|(方針を)段階的に伝える|Please cascade the new policy to your team leaders.|新方針を各班長に展開してください。|cascade information;cascade down|mg
+rationale|/ˌræʃəˈnæl/|名|根拠・理由付け|I explained the rationale for in-house development to executives.|内製化の根拠を経営層に説明した。|the rationale behind;clear rationale|mg
+decisive|/dɪˈsaɪsɪv/|形|決断力のある・決定的な|Decisive action saved the project schedule.|迅速な決断がプロジェクトの日程を救った。|decisive action;a decisive factor|mg
+legacy|/ˈleɡəsi/|形|旧来の・レガシーな|Our legacy PLCs cannot send data to the cloud.|旧型のPLCはクラウドにデータを送れない。|legacy system;legacy equipment|dx
+obsolete|/ˌɑːbsəˈliːt/|形|時代遅れの・廃れた|Spare parts for this obsolete machine are hard to find.|この旧式機械の予備部品は入手困難だ。|become obsolete;obsolete parts|dx
+uptime|/ˈʌptaɪm/|名|稼働時間|Line uptime rose to 95 percent after the retrofit.|改造後にラインの稼働率は95%に上がった。|maximize uptime;machine uptime|dx
+takt time|/ˈtɑːkt taɪm/|名|タクトタイム|The cobot must finish each cycle within takt time.|協働ロボットは各サイクルをタクト内で終える必要がある。|meet takt time;takt time of 60 seconds|dx
+torque|/tɔːrk/|名|トルク・回転力|The cobot stops when joint torque exceeds the limit.|関節トルクが上限を超えると協働ロボットは止まる。|torque sensor;torque limit|rb
+waypoint|/ˈweɪpɔɪnt/|名|経由点・ウェイポイント|Add a waypoint to avoid the fixture.|治具を避けるため経由点を追加しよう。|add a waypoint;set waypoints|rb
+fixture|/ˈfɪkstʃər/|名|治具・固定具|A simple fixture improved the robot's picking accuracy.|簡単な治具でロボットのピッキング精度が上がった。|design a fixture;welding fixture|rb
+threshold|/ˈθreʃhoʊld/|名|しきい値|We lowered the threshold to catch more scratches.|傷をより多く検出するためしきい値を下げた。|set a threshold;exceed the threshold|ai
+correlation|/ˌkɔːrəˈleɪʃn/|名|相関|We found a correlation between humidity and defects.|湿度と不良の間に相関が見つかった。|strong correlation;correlation between|ai
+overfit|/ˌoʊvərˈfɪt/|動|過学習する|The model overfit because we had only fifty images.|画像が50枚しかなく、モデルが過学習した。|overfit the data;avoid overfitting|ai
+reframe|/ˌriːˈfreɪm/|動|捉え直す|In our 1on1, she reframed the failure as a lesson.|1on1で彼女は失敗を学びとして捉え直した。|reframe a problem;reframe the question|co
+paraphrase|/ˈpærəfreɪz/|動|言い換える|I paraphrase what members say to confirm understanding.|理解を確かめるためメンバーの発言を言い換える。|paraphrase what someone said;let me paraphrase|co

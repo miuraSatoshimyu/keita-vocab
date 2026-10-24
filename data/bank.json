@@ -2262,6 +2262,356 @@
     "acknowledge a mistake"
    ],
    "tag": "co"
+  },
+  {
+   "id": "accommodate",
+   "w": "accommodate",
+   "ipa": "/əˈkɑːmədeɪt/",
+   "pos": "動",
+   "ja": "対応する・収容する",
+   "ex": "The new cell can accommodate two more robots.",
+   "exja": "新しいセルにはロボットをあと2台置ける。",
+   "col": [
+    "accommodate a request",
+    "accommodate changes"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "subsequent",
+   "w": "subsequent",
+   "ipa": "/ˈsʌbsɪkwənt/",
+   "pos": "形",
+   "ja": "その後の・次の",
+   "ex": "Subsequent tests showed no defects on the line.",
+   "exja": "その後の試験ではラインに不良は出なかった。",
+   "col": [
+    "subsequent meetings",
+    "in subsequent years"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "adjacent",
+   "w": "adjacent",
+   "ipa": "/əˈdʒeɪsnt/",
+   "pos": "形",
+   "ja": "隣接した",
+   "ex": "The robot cell is adjacent to the packing area.",
+   "exja": "ロボットセルは梱包エリアの隣にある。",
+   "col": [
+    "adjacent to the line",
+    "an adjacent room"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "relocate",
+   "w": "relocate",
+   "ipa": "/ˌriːˈloʊkeɪt/",
+   "pos": "動",
+   "ja": "移転する・配置換えする",
+   "ex": "We will relocate the press machine next month.",
+   "exja": "来月プレス機を移設する。",
+   "col": [
+    "relocate equipment",
+    "relocate the office"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "audit",
+   "w": "audit",
+   "ipa": "/ˈɔːdɪt/",
+   "pos": "名",
+   "ja": "監査",
+   "ex": "The safety audit is scheduled for next Tuesday.",
+   "exja": "安全監査は来週火曜に予定されている。",
+   "col": [
+    "safety audit",
+    "conduct an audit"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "substantial",
+   "w": "substantial",
+   "ipa": "/səbˈstænʃl/",
+   "pos": "形",
+   "ja": "相当な・大幅な",
+   "ex": "Automation brought substantial savings in labor costs.",
+   "exja": "自動化で人件費を大幅に削減できた。",
+   "col": [
+    "substantial savings",
+    "a substantial increase"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "expenditure",
+   "w": "expenditure",
+   "ipa": "/ɪkˈspendɪtʃər/",
+   "pos": "名",
+   "ja": "支出・経費",
+   "ex": "Capital expenditure for robots needs board approval.",
+   "exja": "ロボットの設備投資には取締役会の承認が要る。",
+   "col": [
+    "capital expenditure",
+    "reduce expenditure"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "renewal",
+   "w": "renewal",
+   "ipa": "/rɪˈnuːəl/",
+   "pos": "名",
+   "ja": "更新",
+   "ex": "The software license is due for renewal in March.",
+   "exja": "ソフトのライセンスは3月に更新期限を迎える。",
+   "col": [
+    "contract renewal",
+    "license renewal"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "headcount",
+   "w": "headcount",
+   "ipa": "/ˈhedkaʊnt/",
+   "pos": "名",
+   "ja": "人員数",
+   "ex": "We automated the task without increasing headcount.",
+   "exja": "人員を増やさずにその作業を自動化した。",
+   "col": [
+    "reduce headcount",
+    "headcount plan"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "succession",
+   "w": "succession",
+   "ipa": "/səkˈseʃn/",
+   "pos": "名",
+   "ja": "後継・継承",
+   "ex": "Succession planning keeps our robot know-how in-house.",
+   "exja": "後継者計画でロボットのノウハウを社内に残す。",
+   "col": [
+    "succession planning",
+    "line of succession"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "cascade",
+   "w": "cascade",
+   "ipa": "/kæˈskeɪd/",
+   "pos": "動",
+   "ja": "(方針を)段階的に伝える",
+   "ex": "Please cascade the new policy to your team leaders.",
+   "exja": "新方針を各班長に展開してください。",
+   "col": [
+    "cascade information",
+    "cascade down"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "rationale",
+   "w": "rationale",
+   "ipa": "/ˌræʃəˈnæl/",
+   "pos": "名",
+   "ja": "根拠・理由付け",
+   "ex": "I explained the rationale for in-house development to executives.",
+   "exja": "内製化の根拠を経営層に説明した。",
+   "col": [
+    "the rationale behind",
+    "clear rationale"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "decisive",
+   "w": "decisive",
+   "ipa": "/dɪˈsaɪsɪv/",
+   "pos": "形",
+   "ja": "決断力のある・決定的な",
+   "ex": "Decisive action saved the project schedule.",
+   "exja": "迅速な決断がプロジェクトの日程を救った。",
+   "col": [
+    "decisive action",
+    "a decisive factor"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "legacy",
+   "w": "legacy",
+   "ipa": "/ˈleɡəsi/",
+   "pos": "形",
+   "ja": "旧来の・レガシーな",
+   "ex": "Our legacy PLCs cannot send data to the cloud.",
+   "exja": "旧型のPLCはクラウドにデータを送れない。",
+   "col": [
+    "legacy system",
+    "legacy equipment"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "obsolete",
+   "w": "obsolete",
+   "ipa": "/ˌɑːbsəˈliːt/",
+   "pos": "形",
+   "ja": "時代遅れの・廃れた",
+   "ex": "Spare parts for this obsolete machine are hard to find.",
+   "exja": "この旧式機械の予備部品は入手困難だ。",
+   "col": [
+    "become obsolete",
+    "obsolete parts"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "uptime",
+   "w": "uptime",
+   "ipa": "/ˈʌptaɪm/",
+   "pos": "名",
+   "ja": "稼働時間",
+   "ex": "Line uptime rose to 95 percent after the retrofit.",
+   "exja": "改造後にラインの稼働率は95%に上がった。",
+   "col": [
+    "maximize uptime",
+    "machine uptime"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "takt-time",
+   "w": "takt time",
+   "ipa": "/ˈtɑːkt taɪm/",
+   "pos": "名",
+   "ja": "タクトタイム",
+   "ex": "The cobot must finish each cycle within takt time.",
+   "exja": "協働ロボットは各サイクルをタクト内で終える必要がある。",
+   "col": [
+    "meet takt time",
+    "takt time of 60 seconds"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "torque",
+   "w": "torque",
+   "ipa": "/tɔːrk/",
+   "pos": "名",
+   "ja": "トルク・回転力",
+   "ex": "The cobot stops when joint torque exceeds the limit.",
+   "exja": "関節トルクが上限を超えると協働ロボットは止まる。",
+   "col": [
+    "torque sensor",
+    "torque limit"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "waypoint",
+   "w": "waypoint",
+   "ipa": "/ˈweɪpɔɪnt/",
+   "pos": "名",
+   "ja": "経由点・ウェイポイント",
+   "ex": "Add a waypoint to avoid the fixture.",
+   "exja": "治具を避けるため経由点を追加しよう。",
+   "col": [
+    "add a waypoint",
+    "set waypoints"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "fixture",
+   "w": "fixture",
+   "ipa": "/ˈfɪkstʃər/",
+   "pos": "名",
+   "ja": "治具・固定具",
+   "ex": "A simple fixture improved the robot's picking accuracy.",
+   "exja": "簡単な治具でロボットのピッキング精度が上がった。",
+   "col": [
+    "design a fixture",
+    "welding fixture"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "threshold",
+   "w": "threshold",
+   "ipa": "/ˈθreʃhoʊld/",
+   "pos": "名",
+   "ja": "しきい値",
+   "ex": "We lowered the threshold to catch more scratches.",
+   "exja": "傷をより多く検出するためしきい値を下げた。",
+   "col": [
+    "set a threshold",
+    "exceed the threshold"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "correlation",
+   "w": "correlation",
+   "ipa": "/ˌkɔːrəˈleɪʃn/",
+   "pos": "名",
+   "ja": "相関",
+   "ex": "We found a correlation between humidity and defects.",
+   "exja": "湿度と不良の間に相関が見つかった。",
+   "col": [
+    "strong correlation",
+    "correlation between"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "overfit",
+   "w": "overfit",
+   "ipa": "/ˌoʊvərˈfɪt/",
+   "pos": "動",
+   "ja": "過学習する",
+   "ex": "The model overfit because we had only fifty images.",
+   "exja": "画像が50枚しかなく、モデルが過学習した。",
+   "col": [
+    "overfit the data",
+    "avoid overfitting"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "reframe",
+   "w": "reframe",
+   "ipa": "/ˌriːˈfreɪm/",
+   "pos": "動",
+   "ja": "捉え直す",
+   "ex": "In our 1on1, she reframed the failure as a lesson.",
+   "exja": "1on1で彼女は失敗を学びとして捉え直した。",
+   "col": [
+    "reframe a problem",
+    "reframe the question"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "paraphrase",
+   "w": "paraphrase",
+   "ipa": "/ˈpærəfreɪz/",
+   "pos": "動",
+   "ja": "言い換える",
+   "ex": "I paraphrase what members say to confirm understanding.",
+   "exja": "理解を確かめるためメンバーの発言を言い換える。",
+   "col": [
+    "paraphrase what someone said",
+    "let me paraphrase"
+   ],
+   "tag": "co"
   }
  ]
 }
