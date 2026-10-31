@@ -186,3 +186,28 @@ correlation|/ˌkɔːrəˈleɪʃn/|名|相関|We found a correlation between humi
 overfit|/ˌoʊvərˈfɪt/|動|過学習する|The model overfit because we had only fifty images.|画像が50枚しかなく、モデルが過学習した。|overfit the data;avoid overfitting|ai
 reframe|/ˌriːˈfreɪm/|動|捉え直す|In our 1on1, she reframed the failure as a lesson.|1on1で彼女は失敗を学びとして捉え直した。|reframe a problem;reframe the question|co
 paraphrase|/ˈpærəfreɪz/|動|言い換える|I paraphrase what members say to confirm understanding.|理解を確かめるためメンバーの発言を言い換える。|paraphrase what someone said;let me paraphrase|co
+consecutive|/kənˈsekjətɪv/|形|連続した|The line ran without stoppage for five consecutive days.|ラインは5日連続で停止なく稼働した。|three consecutive months;consecutive days|tc
+vacancy|/ˈveɪkənsi/|名|欠員・空き|We have a vacancy for a robot engineer.|ロボット技術者の欠員が1名ある。|fill a vacancy;job vacancy|tc
+refund|/ˈriːfʌnd/|名|返金|The vendor offered a full refund for the faulty sensor.|ベンダーは不良センサーの全額返金を申し出た。|full refund;request a refund|tc
+defer|/dɪˈfɜːr/|動|延期する・先送りする|Let's defer the decision until the pilot results come in.|試行結果が出るまで判断を先送りしよう。|defer a decision;defer payment|tc
+endorse|/ɪnˈdɔːrs/|動|承認する・支持する|The plant manager endorsed our in-house automation plan.|工場長が内製化の自動化計画を支持した。|endorse a plan;fully endorse|tc
+renovate|/ˈrenəveɪt/|動|改装する|We will renovate the assembly area before installing the cobots.|協働ロボット導入前に組立エリアを改装する。|renovate the facility;newly renovated|tc
+exceed|/ɪkˈsiːd/|動|超える|The new cell exceeded its throughput target by ten percent.|新セルは生産目標を10%上回った。|exceed expectations;exceed the budget|tc
+reschedule|/ˌriːˈskedʒuːl/|動|予定を変更する|Can we reschedule our 1on1 to Thursday morning?|1on1を木曜の朝に変更できますか。|reschedule a meeting;need to reschedule|tc
+foster|/ˈfɑːstər/|動|育む・促進する|We want to foster a culture where operators suggest improvements.|作業者が改善を提案する文化を育みたい。|foster a culture;foster collaboration|mg
+spearhead|/ˈspɪrhed/|動|先頭に立って推進する|She spearheaded the robot project from concept to launch.|彼女は構想から立ち上げまでロボット案件を主導した。|spearhead a project;spearhead the effort|mg
+restructure|/ˌriːˈstrʌktʃər/|動|再編する|We restructured the team into small cross-functional units.|チームを小さな部門横断ユニットに再編した。|restructure the team;restructure operations|mg
+articulate|/ɑːrˈtɪkjəleɪt/|動|明確に言語化する|Articulate the business value before showing executives the technology.|経営層に技術を見せる前に事業価値を言語化しよう。|articulate a vision;clearly articulate|mg
+champion|/ˈtʃæmpiən/|動|擁護して推進する|Our director championed in-house development at the board meeting.|部長が取締役会で内製化を強く推した。|champion a change;champion an idea|mg
+changeover|/ˈtʃeɪndʒoʊvər/|名|段取り替え|We cut changeover time from forty to fifteen minutes.|段取り替え時間を40分から15分に短縮した。|changeover time;quick changeover|dx
+digitize|/ˈdɪdʒɪtaɪz/|動|デジタル化する|We digitized paper checklists so supervisors see results instantly.|紙のチェックリストをデジタル化し、監督者がすぐ結果を見られる。|digitize records;digitize the workflow|dx
+dashboard|/ˈdæʃbɔːrd/|名|ダッシュボード|The dashboard shows real-time uptime for every robot cell.|ダッシュボードで各ロボットセルの稼働率がリアルタイムで見える。|real-time dashboard;check the dashboard|dx
+rework|/ˈriːwɜːrk/|名|手直し・再作業|Rework dropped sharply after we added automated inspection.|自動検査を追加して手直しが大きく減った。|reduce rework;rework rate|dx
+cobot|/ˈkoʊbɑːt/|名|協働ロボット|The cobot works safely next to operators without a fence.|協働ロボットは柵なしで作業者の隣で安全に動く。|deploy a cobot;cobot application|rb
+trajectory|/trəˈdʒektəri/|名|軌道|We smoothed the arm's trajectory to shorten cycle time.|サイクルタイム短縮のためアームの軌道を滑らかにした。|motion trajectory;plan a trajectory|rb
+singularity|/ˌsɪŋɡjəˈlærəti/|名|特異点|The robot stopped because the wrist passed near a singularity.|手首が特異点付近を通りロボットが停止した。|avoid a singularity;near a singularity|rb
+bias|/ˈbaɪəs/|名|偏り・バイアス|Our training data had a bias toward daytime lighting.|学習データが昼間の照明条件に偏っていた。|data bias;reduce bias|ai
+hallucination|/həˌluːsɪˈneɪʃən/|名|(AIの)もっともらしい誤り|Always check AI summaries for hallucinations before sending them upward.|上に出す前にAI要約の誤りを必ず確認する。|reduce hallucinations;AI hallucination|ai
+fine-tune|/ˌfaɪn ˈtuːn/|動|微調整する・追加学習する|We fine-tuned the model on images from our own line.|自社ラインの画像でモデルを追加学習した。|fine-tune a model;fine-tune the settings|ai
+elicit|/ɪˈlɪsɪt/|動|引き出す|Open questions elicit ideas that members would not share otherwise.|開かれた質問はメンバーが普段言わない考えを引き出す。|elicit feedback;elicit a response|co
+resonate|/ˈrezəneɪt/|動|共感を呼ぶ・響く|Which part of the plan resonated with you most?|計画のどの部分が一番響きましたか。|resonate with someone;deeply resonate|co

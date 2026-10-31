@@ -2612,6 +2612,356 @@
     "let me paraphrase"
    ],
    "tag": "co"
+  },
+  {
+   "id": "consecutive",
+   "w": "consecutive",
+   "ipa": "/kənˈsekjətɪv/",
+   "pos": "形",
+   "ja": "連続した",
+   "ex": "The line ran without stoppage for five consecutive days.",
+   "exja": "ラインは5日連続で停止なく稼働した。",
+   "col": [
+    "three consecutive months",
+    "consecutive days"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "vacancy",
+   "w": "vacancy",
+   "ipa": "/ˈveɪkənsi/",
+   "pos": "名",
+   "ja": "欠員・空き",
+   "ex": "We have a vacancy for a robot engineer.",
+   "exja": "ロボット技術者の欠員が1名ある。",
+   "col": [
+    "fill a vacancy",
+    "job vacancy"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "refund",
+   "w": "refund",
+   "ipa": "/ˈriːfʌnd/",
+   "pos": "名",
+   "ja": "返金",
+   "ex": "The vendor offered a full refund for the faulty sensor.",
+   "exja": "ベンダーは不良センサーの全額返金を申し出た。",
+   "col": [
+    "full refund",
+    "request a refund"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "defer",
+   "w": "defer",
+   "ipa": "/dɪˈfɜːr/",
+   "pos": "動",
+   "ja": "延期する・先送りする",
+   "ex": "Let's defer the decision until the pilot results come in.",
+   "exja": "試行結果が出るまで判断を先送りしよう。",
+   "col": [
+    "defer a decision",
+    "defer payment"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "endorse",
+   "w": "endorse",
+   "ipa": "/ɪnˈdɔːrs/",
+   "pos": "動",
+   "ja": "承認する・支持する",
+   "ex": "The plant manager endorsed our in-house automation plan.",
+   "exja": "工場長が内製化の自動化計画を支持した。",
+   "col": [
+    "endorse a plan",
+    "fully endorse"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "renovate",
+   "w": "renovate",
+   "ipa": "/ˈrenəveɪt/",
+   "pos": "動",
+   "ja": "改装する",
+   "ex": "We will renovate the assembly area before installing the cobots.",
+   "exja": "協働ロボット導入前に組立エリアを改装する。",
+   "col": [
+    "renovate the facility",
+    "newly renovated"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "exceed",
+   "w": "exceed",
+   "ipa": "/ɪkˈsiːd/",
+   "pos": "動",
+   "ja": "超える",
+   "ex": "The new cell exceeded its throughput target by ten percent.",
+   "exja": "新セルは生産目標を10%上回った。",
+   "col": [
+    "exceed expectations",
+    "exceed the budget"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "reschedule",
+   "w": "reschedule",
+   "ipa": "/ˌriːˈskedʒuːl/",
+   "pos": "動",
+   "ja": "予定を変更する",
+   "ex": "Can we reschedule our 1on1 to Thursday morning?",
+   "exja": "1on1を木曜の朝に変更できますか。",
+   "col": [
+    "reschedule a meeting",
+    "need to reschedule"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "foster",
+   "w": "foster",
+   "ipa": "/ˈfɑːstər/",
+   "pos": "動",
+   "ja": "育む・促進する",
+   "ex": "We want to foster a culture where operators suggest improvements.",
+   "exja": "作業者が改善を提案する文化を育みたい。",
+   "col": [
+    "foster a culture",
+    "foster collaboration"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "spearhead",
+   "w": "spearhead",
+   "ipa": "/ˈspɪrhed/",
+   "pos": "動",
+   "ja": "先頭に立って推進する",
+   "ex": "She spearheaded the robot project from concept to launch.",
+   "exja": "彼女は構想から立ち上げまでロボット案件を主導した。",
+   "col": [
+    "spearhead a project",
+    "spearhead the effort"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "restructure",
+   "w": "restructure",
+   "ipa": "/ˌriːˈstrʌktʃər/",
+   "pos": "動",
+   "ja": "再編する",
+   "ex": "We restructured the team into small cross-functional units.",
+   "exja": "チームを小さな部門横断ユニットに再編した。",
+   "col": [
+    "restructure the team",
+    "restructure operations"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "articulate",
+   "w": "articulate",
+   "ipa": "/ɑːrˈtɪkjəleɪt/",
+   "pos": "動",
+   "ja": "明確に言語化する",
+   "ex": "Articulate the business value before showing executives the technology.",
+   "exja": "経営層に技術を見せる前に事業価値を言語化しよう。",
+   "col": [
+    "articulate a vision",
+    "clearly articulate"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "champion",
+   "w": "champion",
+   "ipa": "/ˈtʃæmpiən/",
+   "pos": "動",
+   "ja": "擁護して推進する",
+   "ex": "Our director championed in-house development at the board meeting.",
+   "exja": "部長が取締役会で内製化を強く推した。",
+   "col": [
+    "champion a change",
+    "champion an idea"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "changeover",
+   "w": "changeover",
+   "ipa": "/ˈtʃeɪndʒoʊvər/",
+   "pos": "名",
+   "ja": "段取り替え",
+   "ex": "We cut changeover time from forty to fifteen minutes.",
+   "exja": "段取り替え時間を40分から15分に短縮した。",
+   "col": [
+    "changeover time",
+    "quick changeover"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "digitize",
+   "w": "digitize",
+   "ipa": "/ˈdɪdʒɪtaɪz/",
+   "pos": "動",
+   "ja": "デジタル化する",
+   "ex": "We digitized paper checklists so supervisors see results instantly.",
+   "exja": "紙のチェックリストをデジタル化し、監督者がすぐ結果を見られる。",
+   "col": [
+    "digitize records",
+    "digitize the workflow"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "dashboard",
+   "w": "dashboard",
+   "ipa": "/ˈdæʃbɔːrd/",
+   "pos": "名",
+   "ja": "ダッシュボード",
+   "ex": "The dashboard shows real-time uptime for every robot cell.",
+   "exja": "ダッシュボードで各ロボットセルの稼働率がリアルタイムで見える。",
+   "col": [
+    "real-time dashboard",
+    "check the dashboard"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "rework",
+   "w": "rework",
+   "ipa": "/ˈriːwɜːrk/",
+   "pos": "名",
+   "ja": "手直し・再作業",
+   "ex": "Rework dropped sharply after we added automated inspection.",
+   "exja": "自動検査を追加して手直しが大きく減った。",
+   "col": [
+    "reduce rework",
+    "rework rate"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "cobot",
+   "w": "cobot",
+   "ipa": "/ˈkoʊbɑːt/",
+   "pos": "名",
+   "ja": "協働ロボット",
+   "ex": "The cobot works safely next to operators without a fence.",
+   "exja": "協働ロボットは柵なしで作業者の隣で安全に動く。",
+   "col": [
+    "deploy a cobot",
+    "cobot application"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "trajectory",
+   "w": "trajectory",
+   "ipa": "/trəˈdʒektəri/",
+   "pos": "名",
+   "ja": "軌道",
+   "ex": "We smoothed the arm's trajectory to shorten cycle time.",
+   "exja": "サイクルタイム短縮のためアームの軌道を滑らかにした。",
+   "col": [
+    "motion trajectory",
+    "plan a trajectory"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "singularity",
+   "w": "singularity",
+   "ipa": "/ˌsɪŋɡjəˈlærəti/",
+   "pos": "名",
+   "ja": "特異点",
+   "ex": "The robot stopped because the wrist passed near a singularity.",
+   "exja": "手首が特異点付近を通りロボットが停止した。",
+   "col": [
+    "avoid a singularity",
+    "near a singularity"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "bias",
+   "w": "bias",
+   "ipa": "/ˈbaɪəs/",
+   "pos": "名",
+   "ja": "偏り・バイアス",
+   "ex": "Our training data had a bias toward daytime lighting.",
+   "exja": "学習データが昼間の照明条件に偏っていた。",
+   "col": [
+    "data bias",
+    "reduce bias"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "hallucination",
+   "w": "hallucination",
+   "ipa": "/həˌluːsɪˈneɪʃən/",
+   "pos": "名",
+   "ja": "(AIの)もっともらしい誤り",
+   "ex": "Always check AI summaries for hallucinations before sending them upward.",
+   "exja": "上に出す前にAI要約の誤りを必ず確認する。",
+   "col": [
+    "reduce hallucinations",
+    "AI hallucination"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "fine-tune",
+   "w": "fine-tune",
+   "ipa": "/ˌfaɪn ˈtuːn/",
+   "pos": "動",
+   "ja": "微調整する・追加学習する",
+   "ex": "We fine-tuned the model on images from our own line.",
+   "exja": "自社ラインの画像でモデルを追加学習した。",
+   "col": [
+    "fine-tune a model",
+    "fine-tune the settings"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "elicit",
+   "w": "elicit",
+   "ipa": "/ɪˈlɪsɪt/",
+   "pos": "動",
+   "ja": "引き出す",
+   "ex": "Open questions elicit ideas that members would not share otherwise.",
+   "exja": "開かれた質問はメンバーが普段言わない考えを引き出す。",
+   "col": [
+    "elicit feedback",
+    "elicit a response"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "resonate",
+   "w": "resonate",
+   "ipa": "/ˈrezəneɪt/",
+   "pos": "動",
+   "ja": "共感を呼ぶ・響く",
+   "ex": "Which part of the plan resonated with you most?",
+   "exja": "計画のどの部分が一番響きましたか。",
+   "col": [
+    "resonate with someone",
+    "deeply resonate"
+   ],
+   "tag": "co"
   }
  ]
 }
