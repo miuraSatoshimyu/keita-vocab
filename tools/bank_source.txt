@@ -211,3 +211,28 @@ hallucination|/həˌluːsɪˈneɪʃən/|名|(AIの)もっともらしい誤り|A
 fine-tune|/ˌfaɪn ˈtuːn/|動|微調整する・追加学習する|We fine-tuned the model on images from our own line.|自社ラインの画像でモデルを追加学習した。|fine-tune a model;fine-tune the settings|ai
 elicit|/ɪˈlɪsɪt/|動|引き出す|Open questions elicit ideas that members would not share otherwise.|開かれた質問はメンバーが普段言わない考えを引き出す。|elicit feedback;elicit a response|co
 resonate|/ˈrezəneɪt/|動|共感を呼ぶ・響く|Which part of the plan resonated with you most?|計画のどの部分が一番響きましたか。|resonate with someone;deeply resonate|co
+reimbursement|/ˌriːɪmˈbɜːrsmənt/|名|払い戻し・経費精算|Submit your travel reimbursement after the plant visit.|工場訪問後に出張費の精算を提出してください。|expense reimbursement;submit a reimbursement|tc
+complimentary|/ˌkɑːmplɪˈmentri/|形|無料の・招待の|Complimentary lunch is provided at the robotics expo.|ロボット展示会では無料の昼食が出る。|complimentary lunch;complimentary ticket|tc
+tentatively|/ˈtentətɪvli/|副|暫定的に・仮に|The line trial is tentatively set for next Tuesday.|ライン試運転は来週火曜に仮決定している。|tentatively scheduled;tentatively agree|tc
+reminder|/rɪˈmaɪndər/|名|念押し・リマインダー|Just a reminder: the safety audit starts at nine.|念のため、安全監査は9時開始です。|a friendly reminder;send a reminder|tc
+apologize|/əˈpɑːlədʒaɪz/|動|謝罪する|We apologize for the delayed shipment of parts.|部品の出荷遅延をお詫びします。|apologize for the delay;sincerely apologize|tc
+venue|/ˈvenjuː/|名|会場・開催地|The venue for the supplier meeting has changed.|サプライヤー会議の会場が変更になった。|change the venue;conference venue|tc
+installment|/ɪnˈstɔːlmənt/|名|分割払いの1回分|We will pay for the new robot in three installments.|新しいロボットは3回の分割で支払う。|pay in installments;monthly installment|tc
+brochure|/broʊˈʃʊr/|名|パンフレット・カタログ|Please send me the brochure for your latest cobot.|最新の協働ロボットのカタログを送ってください。|product brochure;company brochure|tc
+delegation|/ˌdelɪˈɡeɪʃn/|名|権限委譲|Delegation helped my team leaders grow faster.|権限委譲でチームリーダーの成長が早まった。|effective delegation;delegation of authority|mg
+transparent|/trænsˈpærənt/|形|透明性のある・率直な|Be transparent about why the project was delayed.|プロジェクトが遅れた理由を率直に伝えよう。|transparent communication;fully transparent|mg
+recognition|/ˌrekəɡˈnɪʃn/|名|評価・称賛|Public recognition keeps the in-house team motivated.|公の場での称賛が内製チームの意欲を保つ。|public recognition;in recognition of|mg
+priority shift|/praɪˈɔːrəti ʃɪft/|名|優先順位の変更|Explain the priority shift to the team in person.|優先順位の変更はチームに直接説明しよう。|a sudden priority shift;communicate a priority shift|mg
+sponsor|/ˈspɑːnsər/|名|(社内の)後援者・スポンサー|The plant manager agreed to sponsor our automation project.|工場長が自動化プロジェクトの後ろ盾になってくれた。|executive sponsor;project sponsor|mg
+connectivity|/ˌkɑːnekˈtɪvəti/|名|接続性・つながり|Machine connectivity is the first step toward a smart factory.|設備の接続性がスマート工場への第一歩だ。|machine connectivity;network connectivity|dx
+paperless|/ˈpeɪpərləs/|形|ペーパーレスの|Our daily checklists are now fully paperless.|日常点検表は完全にペーパーレス化した。|go paperless;paperless workflow|dx
+real-time|/ˈriːəl taɪm/|形|リアルタイムの|Real-time OEE helps supervisors act before problems grow.|リアルタイムの設備総合効率で監督者が早めに手を打てる。|real-time data;real-time monitoring|dx
+bottom-up|/ˌbɑːtəm ˈʌp/|形|現場発の・ボトムアップの|Bottom-up ideas from operators drive our kaizen.|作業者からの現場発のアイデアが改善を動かす。|bottom-up approach;bottom-up improvement|dx
+teach pendant|/tiːtʃ ˈpendənt/|名|ティーチングペンダント|Operators adjusted the path with the teach pendant.|作業者がティーチングペンダントで経路を調整した。|use the teach pendant;teach pendant program|rb
+force sensor|/fɔːrs ˈsensər/|名|力覚センサー|A force sensor lets the cobot insert parts gently.|力覚センサーで協働ロボットが部品を優しく挿入できる。|force sensor data;install a force sensor|rb
+reach|/riːtʃ/|名|(ロボットの)可動範囲・リーチ|This arm's reach covers both conveyors.|このアームの可動範囲は両方のコンベアをカバーする。|maximum reach;within reach|rb
+ground truth|/ɡraʊnd truːθ/|名|正解データ|Inspectors created the ground truth for defect images.|検査員が不良画像の正解データを作った。|ground truth data;establish ground truth|ai
+false positive|/fɔːls ˈpɑːzətɪv/|名|誤検知・偽陽性|Too many false positives slow down the line.|誤検知が多すぎるとラインが遅くなる。|reduce false positives;false positive rate|ai
+explainable|/ɪkˈspleɪnəbl/|形|説明可能な|Executives want an explainable model, not a black box.|経営層はブラックボックスでなく説明可能なモデルを求める。|explainable AI;explainable results|ai
+open-ended|/ˌoʊpən ˈendɪd/|形|自由回答式の・オープンな|Ask open-ended questions in your 1on1s.|1on1ではオープンな質問をしよう。|open-ended question;open-ended discussion|co
+strength|/streŋθ/|名|強み|Start each 1on1 by naming one strength you noticed.|1on1は気づいた強みを一つ伝えてから始めよう。|play to your strengths;key strength|co

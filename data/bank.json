@@ -2962,6 +2962,356 @@
     "deeply resonate"
    ],
    "tag": "co"
+  },
+  {
+   "id": "reimbursement",
+   "w": "reimbursement",
+   "ipa": "/ˌriːɪmˈbɜːrsmənt/",
+   "pos": "名",
+   "ja": "払い戻し・経費精算",
+   "ex": "Submit your travel reimbursement after the plant visit.",
+   "exja": "工場訪問後に出張費の精算を提出してください。",
+   "col": [
+    "expense reimbursement",
+    "submit a reimbursement"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "complimentary",
+   "w": "complimentary",
+   "ipa": "/ˌkɑːmplɪˈmentri/",
+   "pos": "形",
+   "ja": "無料の・招待の",
+   "ex": "Complimentary lunch is provided at the robotics expo.",
+   "exja": "ロボット展示会では無料の昼食が出る。",
+   "col": [
+    "complimentary lunch",
+    "complimentary ticket"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "tentatively",
+   "w": "tentatively",
+   "ipa": "/ˈtentətɪvli/",
+   "pos": "副",
+   "ja": "暫定的に・仮に",
+   "ex": "The line trial is tentatively set for next Tuesday.",
+   "exja": "ライン試運転は来週火曜に仮決定している。",
+   "col": [
+    "tentatively scheduled",
+    "tentatively agree"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "reminder",
+   "w": "reminder",
+   "ipa": "/rɪˈmaɪndər/",
+   "pos": "名",
+   "ja": "念押し・リマインダー",
+   "ex": "Just a reminder: the safety audit starts at nine.",
+   "exja": "念のため、安全監査は9時開始です。",
+   "col": [
+    "a friendly reminder",
+    "send a reminder"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "apologize",
+   "w": "apologize",
+   "ipa": "/əˈpɑːlədʒaɪz/",
+   "pos": "動",
+   "ja": "謝罪する",
+   "ex": "We apologize for the delayed shipment of parts.",
+   "exja": "部品の出荷遅延をお詫びします。",
+   "col": [
+    "apologize for the delay",
+    "sincerely apologize"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "venue",
+   "w": "venue",
+   "ipa": "/ˈvenjuː/",
+   "pos": "名",
+   "ja": "会場・開催地",
+   "ex": "The venue for the supplier meeting has changed.",
+   "exja": "サプライヤー会議の会場が変更になった。",
+   "col": [
+    "change the venue",
+    "conference venue"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "installment",
+   "w": "installment",
+   "ipa": "/ɪnˈstɔːlmənt/",
+   "pos": "名",
+   "ja": "分割払いの1回分",
+   "ex": "We will pay for the new robot in three installments.",
+   "exja": "新しいロボットは3回の分割で支払う。",
+   "col": [
+    "pay in installments",
+    "monthly installment"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "brochure",
+   "w": "brochure",
+   "ipa": "/broʊˈʃʊr/",
+   "pos": "名",
+   "ja": "パンフレット・カタログ",
+   "ex": "Please send me the brochure for your latest cobot.",
+   "exja": "最新の協働ロボットのカタログを送ってください。",
+   "col": [
+    "product brochure",
+    "company brochure"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "delegation",
+   "w": "delegation",
+   "ipa": "/ˌdelɪˈɡeɪʃn/",
+   "pos": "名",
+   "ja": "権限委譲",
+   "ex": "Delegation helped my team leaders grow faster.",
+   "exja": "権限委譲でチームリーダーの成長が早まった。",
+   "col": [
+    "effective delegation",
+    "delegation of authority"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "transparent",
+   "w": "transparent",
+   "ipa": "/trænsˈpærənt/",
+   "pos": "形",
+   "ja": "透明性のある・率直な",
+   "ex": "Be transparent about why the project was delayed.",
+   "exja": "プロジェクトが遅れた理由を率直に伝えよう。",
+   "col": [
+    "transparent communication",
+    "fully transparent"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "recognition",
+   "w": "recognition",
+   "ipa": "/ˌrekəɡˈnɪʃn/",
+   "pos": "名",
+   "ja": "評価・称賛",
+   "ex": "Public recognition keeps the in-house team motivated.",
+   "exja": "公の場での称賛が内製チームの意欲を保つ。",
+   "col": [
+    "public recognition",
+    "in recognition of"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "priority-shift",
+   "w": "priority shift",
+   "ipa": "/praɪˈɔːrəti ʃɪft/",
+   "pos": "名",
+   "ja": "優先順位の変更",
+   "ex": "Explain the priority shift to the team in person.",
+   "exja": "優先順位の変更はチームに直接説明しよう。",
+   "col": [
+    "a sudden priority shift",
+    "communicate a priority shift"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "sponsor",
+   "w": "sponsor",
+   "ipa": "/ˈspɑːnsər/",
+   "pos": "名",
+   "ja": "(社内の)後援者・スポンサー",
+   "ex": "The plant manager agreed to sponsor our automation project.",
+   "exja": "工場長が自動化プロジェクトの後ろ盾になってくれた。",
+   "col": [
+    "executive sponsor",
+    "project sponsor"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "connectivity",
+   "w": "connectivity",
+   "ipa": "/ˌkɑːnekˈtɪvəti/",
+   "pos": "名",
+   "ja": "接続性・つながり",
+   "ex": "Machine connectivity is the first step toward a smart factory.",
+   "exja": "設備の接続性がスマート工場への第一歩だ。",
+   "col": [
+    "machine connectivity",
+    "network connectivity"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "paperless",
+   "w": "paperless",
+   "ipa": "/ˈpeɪpərləs/",
+   "pos": "形",
+   "ja": "ペーパーレスの",
+   "ex": "Our daily checklists are now fully paperless.",
+   "exja": "日常点検表は完全にペーパーレス化した。",
+   "col": [
+    "go paperless",
+    "paperless workflow"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "real-time",
+   "w": "real-time",
+   "ipa": "/ˈriːəl taɪm/",
+   "pos": "形",
+   "ja": "リアルタイムの",
+   "ex": "Real-time OEE helps supervisors act before problems grow.",
+   "exja": "リアルタイムの設備総合効率で監督者が早めに手を打てる。",
+   "col": [
+    "real-time data",
+    "real-time monitoring"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "bottom-up",
+   "w": "bottom-up",
+   "ipa": "/ˌbɑːtəm ˈʌp/",
+   "pos": "形",
+   "ja": "現場発の・ボトムアップの",
+   "ex": "Bottom-up ideas from operators drive our kaizen.",
+   "exja": "作業者からの現場発のアイデアが改善を動かす。",
+   "col": [
+    "bottom-up approach",
+    "bottom-up improvement"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "teach-pendant",
+   "w": "teach pendant",
+   "ipa": "/tiːtʃ ˈpendənt/",
+   "pos": "名",
+   "ja": "ティーチングペンダント",
+   "ex": "Operators adjusted the path with the teach pendant.",
+   "exja": "作業者がティーチングペンダントで経路を調整した。",
+   "col": [
+    "use the teach pendant",
+    "teach pendant program"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "force-sensor",
+   "w": "force sensor",
+   "ipa": "/fɔːrs ˈsensər/",
+   "pos": "名",
+   "ja": "力覚センサー",
+   "ex": "A force sensor lets the cobot insert parts gently.",
+   "exja": "力覚センサーで協働ロボットが部品を優しく挿入できる。",
+   "col": [
+    "force sensor data",
+    "install a force sensor"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "reach",
+   "w": "reach",
+   "ipa": "/riːtʃ/",
+   "pos": "名",
+   "ja": "(ロボットの)可動範囲・リーチ",
+   "ex": "This arm's reach covers both conveyors.",
+   "exja": "このアームの可動範囲は両方のコンベアをカバーする。",
+   "col": [
+    "maximum reach",
+    "within reach"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "ground-truth",
+   "w": "ground truth",
+   "ipa": "/ɡraʊnd truːθ/",
+   "pos": "名",
+   "ja": "正解データ",
+   "ex": "Inspectors created the ground truth for defect images.",
+   "exja": "検査員が不良画像の正解データを作った。",
+   "col": [
+    "ground truth data",
+    "establish ground truth"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "false-positive",
+   "w": "false positive",
+   "ipa": "/fɔːls ˈpɑːzətɪv/",
+   "pos": "名",
+   "ja": "誤検知・偽陽性",
+   "ex": "Too many false positives slow down the line.",
+   "exja": "誤検知が多すぎるとラインが遅くなる。",
+   "col": [
+    "reduce false positives",
+    "false positive rate"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "explainable",
+   "w": "explainable",
+   "ipa": "/ɪkˈspleɪnəbl/",
+   "pos": "形",
+   "ja": "説明可能な",
+   "ex": "Executives want an explainable model, not a black box.",
+   "exja": "経営層はブラックボックスでなく説明可能なモデルを求める。",
+   "col": [
+    "explainable AI",
+    "explainable results"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "open-ended",
+   "w": "open-ended",
+   "ipa": "/ˌoʊpən ˈendɪd/",
+   "pos": "形",
+   "ja": "自由回答式の・オープンな",
+   "ex": "Ask open-ended questions in your 1on1s.",
+   "exja": "1on1ではオープンな質問をしよう。",
+   "col": [
+    "open-ended question",
+    "open-ended discussion"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "strength",
+   "w": "strength",
+   "ipa": "/streŋθ/",
+   "pos": "名",
+   "ja": "強み",
+   "ex": "Start each 1on1 by naming one strength you noticed.",
+   "exja": "1on1は気づいた強みを一つ伝えてから始めよう。",
+   "col": [
+    "play to your strengths",
+    "key strength"
+   ],
+   "tag": "co"
   }
  ]
 }
