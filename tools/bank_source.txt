@@ -236,3 +236,28 @@ false positive|/fɔːls ˈpɑːzətɪv/|名|誤検知・偽陽性|Too many false
 explainable|/ɪkˈspleɪnəbl/|形|説明可能な|Executives want an explainable model, not a black box.|経営層はブラックボックスでなく説明可能なモデルを求める。|explainable AI;explainable results|ai
 open-ended|/ˌoʊpən ˈendɪd/|形|自由回答式の・オープンな|Ask open-ended questions in your 1on1s.|1on1ではオープンな質問をしよう。|open-ended question;open-ended discussion|co
 strength|/streŋθ/|名|強み|Start each 1on1 by naming one strength you noticed.|1on1は気づいた強みを一つ伝えてから始めよう。|play to your strengths;key strength|co
+dispatch|/dɪˈspætʃ/|動|発送する・派遣する|We dispatched a technician to the Nagoya plant.|名古屋工場に技術者を派遣した。|dispatch a technician;dispatch an order|tc
+adhere|/ədˈhɪr/|動|(規則などを)守る・従う|All cobot cells must adhere to the safety standard.|すべての協働ロボットセルは安全規格を守らなければならない。|adhere to a standard;adhere to the schedule|tc
+replenish|/rɪˈplenɪʃ/|動|補充する|The AGV replenishes parts before the line runs out.|ラインが欠品する前にAGVが部品を補充する。|replenish stock;replenish supplies|tc
+prerequisite|/priːˈrekwəzɪt/|名|前提条件|Clean data is a prerequisite for any AI project.|きれいなデータはどのAI案件でも前提条件だ。|a prerequisite for success;a key prerequisite|tc
+amend|/əˈmend/|動|修正する・改正する|We amended the contract to include on-site training.|現地トレーニングを含めるよう契約を修正した。|amend a contract;amend the schedule|tc
+concise|/kənˈsaɪs/|形|簡潔な|Keep the executive summary concise, one page max.|経営層向けの要約は簡潔に、最大1ページで。|a concise summary;concise and clear|tc
+liaison|/ˈliːəzɑːn/|名|連絡係・橋渡し役|She acts as liaison between IT and the shop floor.|彼女はITと現場の橋渡し役を務めている。|act as liaison;a liaison officer|tc
+imperative|/ɪmˈperətɪv/|形|必須の・急務の|It is imperative that we cut changeover time this year.|今年中に段取り替え時間を短縮することが急務だ。|it is imperative;a business imperative|tc
+cadence|/ˈkeɪdns/|名|(定例の)リズム・頻度|Let's keep a weekly cadence for 1on1s.|1on1は毎週のリズムで続けよう。|a weekly cadence;meeting cadence|mg
+deliverable|/dɪˈlɪvərəbl/|名|成果物|The first deliverable is a working demo cell.|最初の成果物は動くデモセルだ。|key deliverables;project deliverables|mg
+pushback|/ˈpʊʃbæk/|名|反発・抵抗|We got pushback from the line leaders on the new layout.|新レイアウトにラインリーダーから反発があった。|get pushback;strong pushback|mg
+ramp up|/ˌræmp ˈʌp/|動|(生産・体制を)増強する|We'll ramp up the in-house team next spring.|来春、内製化チームを増強する。|ramp up production;ramp up quickly|mg
+quick win|/ˌkwɪk ˈwɪn/|名|すぐ出せる成果|Automating labeling was a quick win for the team.|ラベル貼りの自動化はチームにとって早い成果になった。|a quick win;secure quick wins|mg
+scrap rate|/ˈskræp reɪt/|名|不良廃棄率|The vision system cut our scrap rate by 30 percent.|画像システムで廃棄率が30%下がった。|reduce the scrap rate;a high scrap rate|dx
+kitting|/ˈkɪtɪŋ/|名|キッティング(部品の組セット化)|Robots now handle kitting for the assembly line.|今は組立ライン向けのキッティングをロボットが担う。|kitting area;kitting process|dx
+edge computing|/ˈedʒ kəmˌpjuːtɪŋ/|名|エッジコンピューティング|Edge computing lets us inspect parts without cloud delay.|エッジ処理でクラウドの遅延なしに部品を検査できる。|edge computing device;use edge computing|dx
+lean|/liːn/|形|ムダのない・リーンな|Automation works best on an already lean process.|自動化はすでにムダのない工程でこそ最も効く。|lean manufacturing;lean process|dx
+offline programming|/ˌɔːflaɪn ˈproʊɡræmɪŋ/|名|オフラインティーチング|Offline programming keeps the line running during setup.|オフラインティーチングなら立ち上げ中もラインを止めずに済む。|offline programming software;use offline programming|rb
+axis|/ˈæksɪs/|名|軸|This six-axis arm can reach behind the fixture.|この6軸アームは治具の裏まで届く。|six-axis robot;rotate on its axis|rb
+safeguarding|/ˈseɪfɡɑːrdɪŋ/|名|安全防護(措置)|Proper safeguarding lets operators work next to the robot.|適切な安全防護で作業者がロボットの隣で働ける。|safeguarding measures;machine safeguarding|rb
+drift|/drɪft/|名|(データ・モデルの)ずれ・ドリフト|Lighting changes caused drift in the inspection model.|照明の変化で検査モデルにドリフトが起きた。|data drift;model drift|ai
+recall|/ˈriːkɔːl/|名|再現率|For defects, we care more about recall than precision.|不良検知では適合率より再現率を重視する。|high recall;precision and recall|ai
+augment|/ɔːɡˈment/|動|増強する・補う|AI should augment our inspectors, not replace them.|AIは検査員を置き換えるのではなく補うべきだ。|augment human work;augment the data|ai
+probe|/proʊb/|動|掘り下げて尋ねる|In 1on1s, probe gently before giving advice.|1on1では助言する前にそっと掘り下げよう。|probe deeper;probe for details|co
+affirm|/əˈfɜːrm/|動|(価値や努力を)認める・肯定する|Affirm the effort first, then discuss the result.|まず努力を認め、それから結果を話そう。|affirm someone's effort;affirm a decision|co

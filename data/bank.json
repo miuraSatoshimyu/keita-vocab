@@ -3312,6 +3312,356 @@
     "key strength"
    ],
    "tag": "co"
+  },
+  {
+   "id": "dispatch",
+   "w": "dispatch",
+   "ipa": "/dɪˈspætʃ/",
+   "pos": "動",
+   "ja": "発送する・派遣する",
+   "ex": "We dispatched a technician to the Nagoya plant.",
+   "exja": "名古屋工場に技術者を派遣した。",
+   "col": [
+    "dispatch a technician",
+    "dispatch an order"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "adhere",
+   "w": "adhere",
+   "ipa": "/ədˈhɪr/",
+   "pos": "動",
+   "ja": "(規則などを)守る・従う",
+   "ex": "All cobot cells must adhere to the safety standard.",
+   "exja": "すべての協働ロボットセルは安全規格を守らなければならない。",
+   "col": [
+    "adhere to a standard",
+    "adhere to the schedule"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "replenish",
+   "w": "replenish",
+   "ipa": "/rɪˈplenɪʃ/",
+   "pos": "動",
+   "ja": "補充する",
+   "ex": "The AGV replenishes parts before the line runs out.",
+   "exja": "ラインが欠品する前にAGVが部品を補充する。",
+   "col": [
+    "replenish stock",
+    "replenish supplies"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "prerequisite",
+   "w": "prerequisite",
+   "ipa": "/priːˈrekwəzɪt/",
+   "pos": "名",
+   "ja": "前提条件",
+   "ex": "Clean data is a prerequisite for any AI project.",
+   "exja": "きれいなデータはどのAI案件でも前提条件だ。",
+   "col": [
+    "a prerequisite for success",
+    "a key prerequisite"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "amend",
+   "w": "amend",
+   "ipa": "/əˈmend/",
+   "pos": "動",
+   "ja": "修正する・改正する",
+   "ex": "We amended the contract to include on-site training.",
+   "exja": "現地トレーニングを含めるよう契約を修正した。",
+   "col": [
+    "amend a contract",
+    "amend the schedule"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "concise",
+   "w": "concise",
+   "ipa": "/kənˈsaɪs/",
+   "pos": "形",
+   "ja": "簡潔な",
+   "ex": "Keep the executive summary concise, one page max.",
+   "exja": "経営層向けの要約は簡潔に、最大1ページで。",
+   "col": [
+    "a concise summary",
+    "concise and clear"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "liaison",
+   "w": "liaison",
+   "ipa": "/ˈliːəzɑːn/",
+   "pos": "名",
+   "ja": "連絡係・橋渡し役",
+   "ex": "She acts as liaison between IT and the shop floor.",
+   "exja": "彼女はITと現場の橋渡し役を務めている。",
+   "col": [
+    "act as liaison",
+    "a liaison officer"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "imperative",
+   "w": "imperative",
+   "ipa": "/ɪmˈperətɪv/",
+   "pos": "形",
+   "ja": "必須の・急務の",
+   "ex": "It is imperative that we cut changeover time this year.",
+   "exja": "今年中に段取り替え時間を短縮することが急務だ。",
+   "col": [
+    "it is imperative",
+    "a business imperative"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "cadence",
+   "w": "cadence",
+   "ipa": "/ˈkeɪdns/",
+   "pos": "名",
+   "ja": "(定例の)リズム・頻度",
+   "ex": "Let's keep a weekly cadence for 1on1s.",
+   "exja": "1on1は毎週のリズムで続けよう。",
+   "col": [
+    "a weekly cadence",
+    "meeting cadence"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "deliverable",
+   "w": "deliverable",
+   "ipa": "/dɪˈlɪvərəbl/",
+   "pos": "名",
+   "ja": "成果物",
+   "ex": "The first deliverable is a working demo cell.",
+   "exja": "最初の成果物は動くデモセルだ。",
+   "col": [
+    "key deliverables",
+    "project deliverables"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "pushback",
+   "w": "pushback",
+   "ipa": "/ˈpʊʃbæk/",
+   "pos": "名",
+   "ja": "反発・抵抗",
+   "ex": "We got pushback from the line leaders on the new layout.",
+   "exja": "新レイアウトにラインリーダーから反発があった。",
+   "col": [
+    "get pushback",
+    "strong pushback"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "ramp-up",
+   "w": "ramp up",
+   "ipa": "/ˌræmp ˈʌp/",
+   "pos": "動",
+   "ja": "(生産・体制を)増強する",
+   "ex": "We'll ramp up the in-house team next spring.",
+   "exja": "来春、内製化チームを増強する。",
+   "col": [
+    "ramp up production",
+    "ramp up quickly"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "quick-win",
+   "w": "quick win",
+   "ipa": "/ˌkwɪk ˈwɪn/",
+   "pos": "名",
+   "ja": "すぐ出せる成果",
+   "ex": "Automating labeling was a quick win for the team.",
+   "exja": "ラベル貼りの自動化はチームにとって早い成果になった。",
+   "col": [
+    "a quick win",
+    "secure quick wins"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "scrap-rate",
+   "w": "scrap rate",
+   "ipa": "/ˈskræp reɪt/",
+   "pos": "名",
+   "ja": "不良廃棄率",
+   "ex": "The vision system cut our scrap rate by 30 percent.",
+   "exja": "画像システムで廃棄率が30%下がった。",
+   "col": [
+    "reduce the scrap rate",
+    "a high scrap rate"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "kitting",
+   "w": "kitting",
+   "ipa": "/ˈkɪtɪŋ/",
+   "pos": "名",
+   "ja": "キッティング(部品の組セット化)",
+   "ex": "Robots now handle kitting for the assembly line.",
+   "exja": "今は組立ライン向けのキッティングをロボットが担う。",
+   "col": [
+    "kitting area",
+    "kitting process"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "edge-computing",
+   "w": "edge computing",
+   "ipa": "/ˈedʒ kəmˌpjuːtɪŋ/",
+   "pos": "名",
+   "ja": "エッジコンピューティング",
+   "ex": "Edge computing lets us inspect parts without cloud delay.",
+   "exja": "エッジ処理でクラウドの遅延なしに部品を検査できる。",
+   "col": [
+    "edge computing device",
+    "use edge computing"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "lean",
+   "w": "lean",
+   "ipa": "/liːn/",
+   "pos": "形",
+   "ja": "ムダのない・リーンな",
+   "ex": "Automation works best on an already lean process.",
+   "exja": "自動化はすでにムダのない工程でこそ最も効く。",
+   "col": [
+    "lean manufacturing",
+    "lean process"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "offline-programming",
+   "w": "offline programming",
+   "ipa": "/ˌɔːflaɪn ˈproʊɡræmɪŋ/",
+   "pos": "名",
+   "ja": "オフラインティーチング",
+   "ex": "Offline programming keeps the line running during setup.",
+   "exja": "オフラインティーチングなら立ち上げ中もラインを止めずに済む。",
+   "col": [
+    "offline programming software",
+    "use offline programming"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "axis",
+   "w": "axis",
+   "ipa": "/ˈæksɪs/",
+   "pos": "名",
+   "ja": "軸",
+   "ex": "This six-axis arm can reach behind the fixture.",
+   "exja": "この6軸アームは治具の裏まで届く。",
+   "col": [
+    "six-axis robot",
+    "rotate on its axis"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "safeguarding",
+   "w": "safeguarding",
+   "ipa": "/ˈseɪfɡɑːrdɪŋ/",
+   "pos": "名",
+   "ja": "安全防護(措置)",
+   "ex": "Proper safeguarding lets operators work next to the robot.",
+   "exja": "適切な安全防護で作業者がロボットの隣で働ける。",
+   "col": [
+    "safeguarding measures",
+    "machine safeguarding"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "drift",
+   "w": "drift",
+   "ipa": "/drɪft/",
+   "pos": "名",
+   "ja": "(データ・モデルの)ずれ・ドリフト",
+   "ex": "Lighting changes caused drift in the inspection model.",
+   "exja": "照明の変化で検査モデルにドリフトが起きた。",
+   "col": [
+    "data drift",
+    "model drift"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "recall",
+   "w": "recall",
+   "ipa": "/ˈriːkɔːl/",
+   "pos": "名",
+   "ja": "再現率",
+   "ex": "For defects, we care more about recall than precision.",
+   "exja": "不良検知では適合率より再現率を重視する。",
+   "col": [
+    "high recall",
+    "precision and recall"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "augment",
+   "w": "augment",
+   "ipa": "/ɔːɡˈment/",
+   "pos": "動",
+   "ja": "増強する・補う",
+   "ex": "AI should augment our inspectors, not replace them.",
+   "exja": "AIは検査員を置き換えるのではなく補うべきだ。",
+   "col": [
+    "augment human work",
+    "augment the data"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "probe",
+   "w": "probe",
+   "ipa": "/proʊb/",
+   "pos": "動",
+   "ja": "掘り下げて尋ねる",
+   "ex": "In 1on1s, probe gently before giving advice.",
+   "exja": "1on1では助言する前にそっと掘り下げよう。",
+   "col": [
+    "probe deeper",
+    "probe for details"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "affirm",
+   "w": "affirm",
+   "ipa": "/əˈfɜːrm/",
+   "pos": "動",
+   "ja": "(価値や努力を)認める・肯定する",
+   "ex": "Affirm the effort first, then discuss the result.",
+   "exja": "まず努力を認め、それから結果を話そう。",
+   "col": [
+    "affirm someone's effort",
+    "affirm a decision"
+   ],
+   "tag": "co"
   }
  ]
 }
