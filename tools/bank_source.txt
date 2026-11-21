@@ -261,3 +261,28 @@ recall|/ˈriːkɔːl/|名|再現率|For defects, we care more about recall than 
 augment|/ɔːɡˈment/|動|増強する・補う|AI should augment our inspectors, not replace them.|AIは検査員を置き換えるのではなく補うべきだ。|augment human work;augment the data|ai
 probe|/proʊb/|動|掘り下げて尋ねる|In 1on1s, probe gently before giving advice.|1on1では助言する前にそっと掘り下げよう。|probe deeper;probe for details|co
 affirm|/əˈfɜːrm/|動|(価値や努力を)認める・肯定する|Affirm the effort first, then discuss the result.|まず努力を認め、それから結果を話そう。|affirm someone's effort;affirm a decision|co
+expire|/ɪkˈspaɪər/|動|期限が切れる|The robot's maintenance contract expires next March.|ロボットの保守契約は来年3月に切れる。|expire at the end of;the contract expires|tc
+revise|/rɪˈvaɪz/|動|改訂する・見直す|Please revise the budget before the board meeting.|役員会の前に予算を見直してください。|revise a plan;revised version|tc
+courier|/ˈkʊriər/|名|宅配業者・急送便|The spare gripper will arrive by courier tomorrow.|予備のグリッパーは明日宅配便で届く。|send by courier;courier service|tc
+waive|/weɪv/|動|(料金・権利を)免除する|The vendor agreed to waive the installation fee.|ベンダーは設置費用の免除に同意した。|waive a fee;waive the requirement|tc
+malfunction|/mælˈfʌŋkʃn/|名|故障・不具合|A sensor malfunction stopped line two this morning.|今朝センサーの故障で2号ラインが止まった。|equipment malfunction;report a malfunction|tc
+on-site|/ˌɑːnˈsaɪt/|形|現地の・現場での|The integrator will provide on-site training next week.|来週インテグレーターが現場研修を行う。|on-site training;on-site support|tc
+unanimous|/juˈnænɪməs/|形|満場一致の|The executives gave unanimous approval for phase two.|経営層はフェーズ2を満場一致で承認した。|unanimous decision;unanimous approval|tc
+enclose|/ɪnˈkloʊz/|動|同封する・添付する|I've enclosed the quote for the new robot cell.|新しいロボットセルの見積を同封しました。|please find enclosed;enclose a copy|tc
+assess|/əˈses/|動|評価する・見極める|Let's assess each member's skills before assigning roles.|役割を割り振る前に各メンバーのスキルを見極めよう。|assess the risk;assess performance|mg
+mandate|/ˈmændeɪt/|名|権限・任務|Our team has a clear mandate to build in-house.|私たちのチームには内製化の明確な任務がある。|a clear mandate;give a mandate|mg
+synergy|/ˈsɪnərdʒi/|名|相乗効果|There's real synergy between our robotics and IT teams.|ロボティクスとITチームには本物の相乗効果がある。|create synergy;synergy between teams|mg
+transition|/trænˈzɪʃn/|名|移行・転換|The transition to in-house maintenance takes six months.|内製保守への移行には6か月かかる。|smooth transition;transition period|mg
+overhaul|/ˈoʊvərhɔːl/|名|全面的な見直し・分解点検|Our training program needs a complete overhaul.|研修制度は全面的な見直しが必要だ。|a complete overhaul;overhaul the system|mg
+upstream|/ˌʌpˈstriːm/|副|上流で・前工程で|Fix the defect upstream, not at final inspection.|不良は最終検査ではなく前工程で直そう。|upstream process;move upstream|dx
+bill of materials|/ˌbɪl əv məˈtɪriəlz/|名|部品表(BOM)|Link the bill of materials to the production schedule.|部品表を生産計画とひも付けよう。|update the bill of materials;BOM accuracy|dx
+line balancing|/ˈlaɪn ˌbælənsɪŋ/|名|ラインバランシング・工程編成|Line balancing cut idle time at station three.|工程編成で3番工程の手待ちが減った。|line balancing analysis;improve line balancing|dx
+footprint|/ˈfʊtprɪnt/|名|設置面積・占有スペース|The new cell has half the footprint of the old one.|新しいセルは旧セルの半分の設置面積だ。|small footprint;reduce the footprint|dx
+joint|/dʒɔɪnt/|名|(ロボットの)関節・軸|Check the torque on joint four after the collision.|衝突後に第4関節のトルクを確認して。|joint angle;joint limit|rb
+hand guiding|/ˈhænd ˌɡaɪdɪŋ/|名|ハンドガイド(手で動かして教示)|Operators can teach the cobot by hand guiding.|作業者は手で動かして協働ロボットに教示できる。|hand guiding mode;teach by hand guiding|rb
+vision-guided|/ˈvɪʒn ˌɡaɪdɪd/|形|ビジョン(カメラ)誘導の|Vision-guided picking handles parts in random positions.|ビジョン誘導ピッキングはバラ置き部品に対応する。|vision-guided robot;vision-guided picking|rb
+retrain|/ˌriːˈtreɪn/|動|再学習させる|We retrain the defect model every month with new images.|毎月新しい画像で不良検知モデルを再学習する。|retrain the model;retrain regularly|ai
+confidence score|/ˈkɑːnfɪdəns ˌskɔːr/|名|信頼度スコア|Flag any part with a low confidence score for review.|信頼度スコアが低い部品は確認に回そう。|low confidence score;set a confidence threshold|ai
+feature engineering|/ˈfiːtʃər ˌendʒɪˈnɪrɪŋ/|名|特徴量エンジニアリング|Good feature engineering beat a bigger model on our data.|うちのデータでは良い特徴量設計が大きなモデルに勝った。|apply feature engineering;feature engineering step|ai
+check in|/ˌtʃek ˈɪn/|動|様子を確認する・声をかける|I check in with each new member every Friday.|毎週金曜に新メンバー一人ひとりに声をかける。|check in with someone;a quick check-in|co
+self-awareness|/ˌself əˈwernəs/|名|自己認識・自覚|Good 1on1s help members build self-awareness.|良い1on1はメンバーの自己認識を育てる。|build self-awareness;lack self-awareness|co

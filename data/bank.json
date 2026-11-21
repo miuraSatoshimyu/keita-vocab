@@ -3662,6 +3662,356 @@
     "affirm a decision"
    ],
    "tag": "co"
+  },
+  {
+   "id": "expire",
+   "w": "expire",
+   "ipa": "/ɪkˈspaɪər/",
+   "pos": "動",
+   "ja": "期限が切れる",
+   "ex": "The robot's maintenance contract expires next March.",
+   "exja": "ロボットの保守契約は来年3月に切れる。",
+   "col": [
+    "expire at the end of",
+    "the contract expires"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "revise",
+   "w": "revise",
+   "ipa": "/rɪˈvaɪz/",
+   "pos": "動",
+   "ja": "改訂する・見直す",
+   "ex": "Please revise the budget before the board meeting.",
+   "exja": "役員会の前に予算を見直してください。",
+   "col": [
+    "revise a plan",
+    "revised version"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "courier",
+   "w": "courier",
+   "ipa": "/ˈkʊriər/",
+   "pos": "名",
+   "ja": "宅配業者・急送便",
+   "ex": "The spare gripper will arrive by courier tomorrow.",
+   "exja": "予備のグリッパーは明日宅配便で届く。",
+   "col": [
+    "send by courier",
+    "courier service"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "waive",
+   "w": "waive",
+   "ipa": "/weɪv/",
+   "pos": "動",
+   "ja": "(料金・権利を)免除する",
+   "ex": "The vendor agreed to waive the installation fee.",
+   "exja": "ベンダーは設置費用の免除に同意した。",
+   "col": [
+    "waive a fee",
+    "waive the requirement"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "malfunction",
+   "w": "malfunction",
+   "ipa": "/mælˈfʌŋkʃn/",
+   "pos": "名",
+   "ja": "故障・不具合",
+   "ex": "A sensor malfunction stopped line two this morning.",
+   "exja": "今朝センサーの故障で2号ラインが止まった。",
+   "col": [
+    "equipment malfunction",
+    "report a malfunction"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "on-site",
+   "w": "on-site",
+   "ipa": "/ˌɑːnˈsaɪt/",
+   "pos": "形",
+   "ja": "現地の・現場での",
+   "ex": "The integrator will provide on-site training next week.",
+   "exja": "来週インテグレーターが現場研修を行う。",
+   "col": [
+    "on-site training",
+    "on-site support"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "unanimous",
+   "w": "unanimous",
+   "ipa": "/juˈnænɪməs/",
+   "pos": "形",
+   "ja": "満場一致の",
+   "ex": "The executives gave unanimous approval for phase two.",
+   "exja": "経営層はフェーズ2を満場一致で承認した。",
+   "col": [
+    "unanimous decision",
+    "unanimous approval"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "enclose",
+   "w": "enclose",
+   "ipa": "/ɪnˈkloʊz/",
+   "pos": "動",
+   "ja": "同封する・添付する",
+   "ex": "I've enclosed the quote for the new robot cell.",
+   "exja": "新しいロボットセルの見積を同封しました。",
+   "col": [
+    "please find enclosed",
+    "enclose a copy"
+   ],
+   "tag": "tc"
+  },
+  {
+   "id": "assess",
+   "w": "assess",
+   "ipa": "/əˈses/",
+   "pos": "動",
+   "ja": "評価する・見極める",
+   "ex": "Let's assess each member's skills before assigning roles.",
+   "exja": "役割を割り振る前に各メンバーのスキルを見極めよう。",
+   "col": [
+    "assess the risk",
+    "assess performance"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "mandate",
+   "w": "mandate",
+   "ipa": "/ˈmændeɪt/",
+   "pos": "名",
+   "ja": "権限・任務",
+   "ex": "Our team has a clear mandate to build in-house.",
+   "exja": "私たちのチームには内製化の明確な任務がある。",
+   "col": [
+    "a clear mandate",
+    "give a mandate"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "synergy",
+   "w": "synergy",
+   "ipa": "/ˈsɪnərdʒi/",
+   "pos": "名",
+   "ja": "相乗効果",
+   "ex": "There's real synergy between our robotics and IT teams.",
+   "exja": "ロボティクスとITチームには本物の相乗効果がある。",
+   "col": [
+    "create synergy",
+    "synergy between teams"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "transition",
+   "w": "transition",
+   "ipa": "/trænˈzɪʃn/",
+   "pos": "名",
+   "ja": "移行・転換",
+   "ex": "The transition to in-house maintenance takes six months.",
+   "exja": "内製保守への移行には6か月かかる。",
+   "col": [
+    "smooth transition",
+    "transition period"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "overhaul",
+   "w": "overhaul",
+   "ipa": "/ˈoʊvərhɔːl/",
+   "pos": "名",
+   "ja": "全面的な見直し・分解点検",
+   "ex": "Our training program needs a complete overhaul.",
+   "exja": "研修制度は全面的な見直しが必要だ。",
+   "col": [
+    "a complete overhaul",
+    "overhaul the system"
+   ],
+   "tag": "mg"
+  },
+  {
+   "id": "upstream",
+   "w": "upstream",
+   "ipa": "/ˌʌpˈstriːm/",
+   "pos": "副",
+   "ja": "上流で・前工程で",
+   "ex": "Fix the defect upstream, not at final inspection.",
+   "exja": "不良は最終検査ではなく前工程で直そう。",
+   "col": [
+    "upstream process",
+    "move upstream"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "bill-of-materials",
+   "w": "bill of materials",
+   "ipa": "/ˌbɪl əv məˈtɪriəlz/",
+   "pos": "名",
+   "ja": "部品表(BOM)",
+   "ex": "Link the bill of materials to the production schedule.",
+   "exja": "部品表を生産計画とひも付けよう。",
+   "col": [
+    "update the bill of materials",
+    "BOM accuracy"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "line-balancing",
+   "w": "line balancing",
+   "ipa": "/ˈlaɪn ˌbælənsɪŋ/",
+   "pos": "名",
+   "ja": "ラインバランシング・工程編成",
+   "ex": "Line balancing cut idle time at station three.",
+   "exja": "工程編成で3番工程の手待ちが減った。",
+   "col": [
+    "line balancing analysis",
+    "improve line balancing"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "footprint",
+   "w": "footprint",
+   "ipa": "/ˈfʊtprɪnt/",
+   "pos": "名",
+   "ja": "設置面積・占有スペース",
+   "ex": "The new cell has half the footprint of the old one.",
+   "exja": "新しいセルは旧セルの半分の設置面積だ。",
+   "col": [
+    "small footprint",
+    "reduce the footprint"
+   ],
+   "tag": "dx"
+  },
+  {
+   "id": "joint",
+   "w": "joint",
+   "ipa": "/dʒɔɪnt/",
+   "pos": "名",
+   "ja": "(ロボットの)関節・軸",
+   "ex": "Check the torque on joint four after the collision.",
+   "exja": "衝突後に第4関節のトルクを確認して。",
+   "col": [
+    "joint angle",
+    "joint limit"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "hand-guiding",
+   "w": "hand guiding",
+   "ipa": "/ˈhænd ˌɡaɪdɪŋ/",
+   "pos": "名",
+   "ja": "ハンドガイド(手で動かして教示)",
+   "ex": "Operators can teach the cobot by hand guiding.",
+   "exja": "作業者は手で動かして協働ロボットに教示できる。",
+   "col": [
+    "hand guiding mode",
+    "teach by hand guiding"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "vision-guided",
+   "w": "vision-guided",
+   "ipa": "/ˈvɪʒn ˌɡaɪdɪd/",
+   "pos": "形",
+   "ja": "ビジョン(カメラ)誘導の",
+   "ex": "Vision-guided picking handles parts in random positions.",
+   "exja": "ビジョン誘導ピッキングはバラ置き部品に対応する。",
+   "col": [
+    "vision-guided robot",
+    "vision-guided picking"
+   ],
+   "tag": "rb"
+  },
+  {
+   "id": "retrain",
+   "w": "retrain",
+   "ipa": "/ˌriːˈtreɪn/",
+   "pos": "動",
+   "ja": "再学習させる",
+   "ex": "We retrain the defect model every month with new images.",
+   "exja": "毎月新しい画像で不良検知モデルを再学習する。",
+   "col": [
+    "retrain the model",
+    "retrain regularly"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "confidence-score",
+   "w": "confidence score",
+   "ipa": "/ˈkɑːnfɪdəns ˌskɔːr/",
+   "pos": "名",
+   "ja": "信頼度スコア",
+   "ex": "Flag any part with a low confidence score for review.",
+   "exja": "信頼度スコアが低い部品は確認に回そう。",
+   "col": [
+    "low confidence score",
+    "set a confidence threshold"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "feature-engineering",
+   "w": "feature engineering",
+   "ipa": "/ˈfiːtʃər ˌendʒɪˈnɪrɪŋ/",
+   "pos": "名",
+   "ja": "特徴量エンジニアリング",
+   "ex": "Good feature engineering beat a bigger model on our data.",
+   "exja": "うちのデータでは良い特徴量設計が大きなモデルに勝った。",
+   "col": [
+    "apply feature engineering",
+    "feature engineering step"
+   ],
+   "tag": "ai"
+  },
+  {
+   "id": "check-in",
+   "w": "check in",
+   "ipa": "/ˌtʃek ˈɪn/",
+   "pos": "動",
+   "ja": "様子を確認する・声をかける",
+   "ex": "I check in with each new member every Friday.",
+   "exja": "毎週金曜に新メンバー一人ひとりに声をかける。",
+   "col": [
+    "check in with someone",
+    "a quick check-in"
+   ],
+   "tag": "co"
+  },
+  {
+   "id": "self-awareness",
+   "w": "self-awareness",
+   "ipa": "/ˌself əˈwernəs/",
+   "pos": "名",
+   "ja": "自己認識・自覚",
+   "ex": "Good 1on1s help members build self-awareness.",
+   "exja": "良い1on1はメンバーの自己認識を育てる。",
+   "col": [
+    "build self-awareness",
+    "lack self-awareness"
+   ],
+   "tag": "co"
   }
  ]
 }
